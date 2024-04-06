@@ -340,34 +340,34 @@
         {
             "availableWeapons": [
                 {
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "M24"
+                    "name": "Type 20 Holo GL"
                 },
                 {
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "M24 camo"
+                    "name": "Type 20 Holo"
                 },
                 {
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "M24 Suppressor"
+                    "name": "Type 20 GL"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "M26A1 FRAG"
+                    "name": "Type 20 Scope GL"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "M67 FRAG"
+                    "name": "Type 20 Scope"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "M68 FRAG"
+                    "name": "Type 20 HOWA 5.56"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
@@ -435,26 +435,6 @@
                     "name": "SPEARHEAD"
                 },
                 {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT GL"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT TAC"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "SIGNAL DMR"
-                },
-                {
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M249"
@@ -488,6 +468,66 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M16A4 GL"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "FF1"
+                },
+                {
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 20 Tactical"
+                },
+                {
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 89"
+                },
+                {
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 89 aironfist"
+                },
+                {
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 89 aironsite"
+                },
+                {
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 89 dotsite"
+                },
+                {
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 89 DOTSITE"
+                },
+                {
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 89 DOTSITE Grenade"
+                },
+                {
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 89 Grenade"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M24"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M24 camo"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M24 Suppressor"
                 }
             ],
             "vehicleConfiguration": [
@@ -496,6 +536,24 @@
                     "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
                     "name": "tyoe96_02 1"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 16 MCV"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 74"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 10 Hitomaru Remake"
                 },
                 {
                     "type": 4,
@@ -688,7 +746,7 @@
                 },
                 {
                     "id": "RavenFlag",
-                    "serializedValue": "4"
+                    "serializedValue": "10"
                 }
             ]
         },
@@ -880,7 +938,7 @@
                 },
                 {
                     "id": "rcntfighter",
-                    "serializedValue": "5"
+                    "serializedValue": "0"
                 },
                 {
                     "id": "rcntstrike",
@@ -888,7 +946,7 @@
                 },
                 {
                     "id": "rcntmissle",
-                    "serializedValue": "2"
+                    "serializedValue": "0"
                 },
                 {
                     "id": "rcntscout",
@@ -896,7 +954,7 @@
                 },
                 {
                     "id": "rcntsuiside",
-                    "serializedValue": "15"
+                    "serializedValue": "5"
                 },
                 {
                     "id": "rcntartillery",
@@ -908,7 +966,7 @@
                 },
                 {
                     "id": "rcntassult",
-                    "serializedValue": "8"
+                    "serializedValue": "4"
                 }
             ]
         },
@@ -1075,7 +1133,7 @@
                 },
                 {
                     "id": "ravenallseeing",
-                    "serializedValue": "True"
+                    "serializedValue": "False"
                 },
                 {
                     "id": "eagleallseeing",
@@ -1114,15 +1172,15 @@
                 },
                 {
                     "id": "HealthRed",
-                    "serializedValue": "180"
+                    "serializedValue": "120"
                 },
                 {
                     "id": "BalanceRed",
-                    "serializedValue": "180"
+                    "serializedValue": "120"
                 },
                 {
                     "id": "MovementSpeedRed",
-                    "serializedValue": "1.3"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "SizeRed",
@@ -1256,6 +1314,32 @@
             "sourceWorkshopId": 0,
             "name": "VehicleBurnKiller",
             "fields": []
+        },
+        {
+            "sourceDirectory": "日本",
+            "sourceWorkshopId": 0,
+            "name": "Voice Pack: BF1942 [JPN]",
+            "fields": [
+                {
+                    "id": "assignedTeam",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Loadout Changer",
+            "fields": [
+                {
+                    "id": "resupplyCrateRange",
+                    "serializedValue": "4"
+                },
+                {
+                    "id": "versionSelected",
+                    "serializedValue": "1"
+                }
+            ]
         }
     ],
     "playerHasAllWeapons": false
