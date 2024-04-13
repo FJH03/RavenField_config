@@ -703,6 +703,11 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M24 Suppressor"
+                },
+                {
+                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceWorkshopId": 0,
+                    "name": "PMm"
                 }
             ],
             "vehicleConfiguration": [
@@ -788,9 +793,9 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "苏俄老旧与外贸装备",
                     "sourceWorkshopId": 0,
-                    "name": "MIM-23 HAWk SUS"
+                    "name": "S-300 Ukrainian Emplacement"
                 }
             ],
             "skin": {
