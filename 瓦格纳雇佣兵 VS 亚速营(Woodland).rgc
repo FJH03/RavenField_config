@@ -245,15 +245,15 @@
             "turretConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "苏俄老旧与外贸装备",
                     "sourceWorkshopId": 0,
-                    "name": "Machine Gun"
+                    "name": "DSHK HMG GG"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "苏俄老旧与外贸装备",
                     "sourceWorkshopId": 0,
-                    "name": "TOW"
+                    "name": "AT-4 Spigot 7"
                 },
                 {
                     "type": 2,
@@ -607,7 +607,7 @@
             "skin": {
                 "sourceDirectory": "乌克兰",
                 "sourceWorkshopId": 0,
-                "name": "Ukraine Army Infantry"
+                "name": "Ukraine Special Forces"
             }
         }
     ],
