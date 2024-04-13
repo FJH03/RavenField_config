@@ -153,14 +153,9 @@
                     "name": "AKM-S"
                 },
                 {
-                    "sourceDirectory": "",
+                    "sourceDirectory": "苏俄老旧与外贸装备",
                     "sourceWorkshopId": 0,
-                    "name": "S-IND7 [SUP]"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "S-IND7"
+                    "name": "PMm"
                 },
                 {
                     "sourceDirectory": "苏俄老旧与外贸装备",
@@ -171,6 +166,11 @@
                     "sourceDirectory": "苏俄老旧与外贸装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM-P/S"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SL-DEFENDER"
                 }
             ],
             "vehicleConfiguration": [
@@ -244,21 +244,21 @@
             "turretConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "苏俄老旧与外贸装备",
                     "sourceWorkshopId": 0,
-                    "name": "Machine Gun"
+                    "name": "DSHK HMG GG"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "苏俄老旧与外贸装备",
                     "sourceWorkshopId": 0,
-                    "name": "TOW"
+                    "name": "AT-4 Spigot 7"
                 },
                 {
                     "type": 2,
                     "sourceDirectory": "苏俄老旧与外贸装备",
                     "sourceWorkshopId": 0,
-                    "name": "ZSU-23-4-Shilka El Papa"
+                    "name": "S-300 Desert Emplacement"
                 }
             ],
             "skin": {
