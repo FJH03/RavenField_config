@@ -620,42 +620,42 @@
                     "name": "SIGNAL DMR"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM-K"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "<color=#D9D919>AKM-DP“RSNDM”</color>"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "<color=#D9D919>AKM-DP/S“RSNDM”</color>"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM-K/S"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM-P"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM-P/S"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM-S"
                 },
@@ -705,7 +705,7 @@
                     "name": "M24 Suppressor"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "PMm"
                 }
@@ -719,15 +719,15 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "BMP-1AM"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "BM-21 Grad GG"
+                    "name": "BM-21 MLRS Ukraine Camo 1"
                 },
                 {
                     "type": 3,
@@ -737,7 +737,7 @@
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "MI-24A"
                 },
@@ -761,13 +761,13 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "MIG-29 Fullcrum 1 1"
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "MI-8 Woodland 3"
                 },
@@ -781,7 +781,7 @@
             "turretConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "DSHK HMG GG"
                 },
@@ -793,7 +793,7 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "S-300 Ukrainian Emplacement"
                 }
