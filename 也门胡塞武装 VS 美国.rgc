@@ -3,17 +3,17 @@
         {
             "availableWeapons": [
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM-P/S"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM-S"
                 },
                 {
-                    "sourceDirectory": "苏俄老旧与外贸装备",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "<color=#D9D919>AKM-DP/S“RSNDM”</color>"
                 },
