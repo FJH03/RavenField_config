@@ -296,7 +296,7 @@
                     "type": 8,
                     "sourceDirectory": "中国空军",
                     "sourceWorkshopId": 0,
-                    "name": "J-15"
+                    "name": "lf_H-6K"
                 },
                 {
                     "type": 9,
@@ -806,9 +806,9 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "美国海军",
+                    "sourceDirectory": "美国空军",
                     "sourceWorkshopId": 0,
-                    "name": "FA-18E Super Hornet"
+                    "name": "B-2 Spirit [Carpet Bombing]"
                 },
                 {
                     "type": 9,
