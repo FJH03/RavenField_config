@@ -1272,7 +1272,7 @@
                 },
                 {
                     "id": "bcntsuiside",
-                    "serializedValue": "10"
+                    "serializedValue": "5"
                 },
                 {
                     "id": "bcntartillery",
@@ -1284,11 +1284,11 @@
                 },
                 {
                     "id": "bcntassult",
-                    "serializedValue": "8"
+                    "serializedValue": "4"
                 },
                 {
                     "id": "rcntfighter",
-                    "serializedValue": "5"
+                    "serializedValue": "3"
                 },
                 {
                     "id": "rcntstrike",
@@ -1304,7 +1304,7 @@
                 },
                 {
                     "id": "rcntsuiside",
-                    "serializedValue": "15"
+                    "serializedValue": "10"
                 },
                 {
                     "id": "rcntartillery",
@@ -1316,7 +1316,7 @@
                 },
                 {
                     "id": "rcntassult",
-                    "serializedValue": "8"
+                    "serializedValue": "4"
                 }
             ]
         },
