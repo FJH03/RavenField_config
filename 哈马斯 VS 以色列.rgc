@@ -1187,7 +1187,7 @@
                 },
                 {
                     "id": "bcntsuiside",
-                    "serializedValue": "5"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "bcntartillery",
@@ -1199,7 +1199,7 @@
                 },
                 {
                     "id": "bcntassult",
-                    "serializedValue": "2"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "rcntfighter",
@@ -1219,7 +1219,7 @@
                 },
                 {
                     "id": "rcntsuiside",
-                    "serializedValue": "5"
+                    "serializedValue": "3"
                 },
                 {
                     "id": "rcntartillery",
@@ -1231,7 +1231,7 @@
                 },
                 {
                     "id": "rcntassult",
-                    "serializedValue": "4"
+                    "serializedValue": "2"
                 }
             ]
         },
