@@ -224,6 +224,12 @@
                     "name": "T-90A 1"
                 },
                 {
+                    "type": 5,
+                    "sourceDirectory": "瓦格纳雇佣兵",
+                    "sourceWorkshopId": 0,
+                    "name": "msta"
+                },
+                {
                     "type": 6,
                     "sourceDirectory": "",
                     "sourceWorkshopId": 0,
@@ -257,9 +263,9 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "瓦格纳雇佣兵",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "msta"
+                    "name": "S-300 Russian Emplacement 1"
                 }
             ],
             "skin": {
@@ -908,7 +914,7 @@
                 },
                 {
                     "id": "bcntsuiside",
-                    "serializedValue": "5"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "bcntartillery",
@@ -920,7 +926,7 @@
                 },
                 {
                     "id": "bcntassult",
-                    "serializedValue": "2"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "rcntfighter",
@@ -940,7 +946,7 @@
                 },
                 {
                     "id": "rcntsuiside",
-                    "serializedValue": "5"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "rcntartillery",
@@ -952,7 +958,7 @@
                 },
                 {
                     "id": "rcntassult",
-                    "serializedValue": "4"
+                    "serializedValue": "1"
                 }
             ]
         },
