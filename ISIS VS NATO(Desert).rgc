@@ -439,11 +439,6 @@
                     "name": "Drone Remote"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "Fighter Drone"
-                },
-                {
                     "sourceDirectory": "德国陆军",
                     "sourceWorkshopId": 0,
                     "name": "UKP 45 MATCH"
@@ -1404,7 +1399,7 @@
                 },
                 {
                     "id": "bcntsuiside",
-                    "serializedValue": "5"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "bcntartillery",
@@ -1416,7 +1411,7 @@
                 },
                 {
                     "id": "bcntassult",
-                    "serializedValue": "2"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "rcntfighter",
@@ -1436,7 +1431,7 @@
                 },
                 {
                     "id": "rcntsuiside",
-                    "serializedValue": "10"
+                    "serializedValue": "5"
                 },
                 {
                     "id": "rcntartillery",
@@ -1448,7 +1443,7 @@
                 },
                 {
                     "id": "rcntassult",
-                    "serializedValue": "8"
+                    "serializedValue": "4"
                 }
             ]
         },
