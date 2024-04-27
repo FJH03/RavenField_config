@@ -1690,6 +1690,21 @@
             "sourceWorkshopId": 0,
             "name": "VehicleBurnKiller",
             "fields": []
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Loadout Changer",
+            "fields": [
+                {
+                    "id": "resupplyCrateRange",
+                    "serializedValue": "4"
+                },
+                {
+                    "id": "versionSelected",
+                    "serializedValue": "1"
+                }
+            ]
         }
     ],
     "playerHasAllWeapons": false
