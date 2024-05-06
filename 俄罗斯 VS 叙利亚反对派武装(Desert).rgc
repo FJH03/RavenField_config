@@ -669,6 +669,11 @@
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "Drone Remote"
+                },
+                {
+                    "sourceDirectory": "恐怖分子势力",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A1"
                 }
             ],
             "vehicleConfiguration": [
