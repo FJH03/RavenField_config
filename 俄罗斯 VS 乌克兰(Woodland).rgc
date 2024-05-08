@@ -545,26 +545,6 @@
                     "name": "WRENCH"
                 },
                 {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT GL"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT TAC"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "RECON LRR"
-                },
-                {
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M24 camo"
@@ -615,11 +595,6 @@
                     "name": "Attack Drone"
                 },
                 {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "SIGNAL DMR"
-                },
-                {
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "AKM"
@@ -662,21 +637,6 @@
                 {
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M16A2"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A2 GL"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A4 GL"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
                     "name": "M249 Recon"
                 },
                 {
@@ -708,6 +668,66 @@
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "PMm"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A2"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A2 ACOG"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A2 M203"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A2 Semi"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A2 Semi M203"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A3"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A3 CCO"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A4 DMR"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A4 M203"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "Mk 12 Mod 0"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A4"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A4 ACOG"
                 }
             ],
             "vehicleConfiguration": [
