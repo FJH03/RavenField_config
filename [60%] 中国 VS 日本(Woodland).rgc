@@ -647,17 +647,17 @@
                 {
                     "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "Minebea P9 no animation"
+                    "name": "Benelli M3T"
                 },
                 {
                     "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "Type89 LSW"
+                    "name": "9mm Machinepistol"
                 },
                 {
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "M24"
+                    "name": "5.56mm MINIMI Scope"
                 },
                 {
                     "sourceDirectory": "日本",
@@ -687,17 +687,7 @@
                 {
                     "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "Minebea P9"
-                },
-                {
-                    "sourceDirectory": "日本",
-                    "sourceWorkshopId": 0,
-                    "name": "M95"
-                },
-                {
-                    "sourceDirectory": "日本",
-                    "sourceWorkshopId": 0,
-                    "name": "M3A1 dot sight"
+                    "name": "GLX-160"
                 },
                 {
                     "sourceDirectory": "日本",
@@ -707,22 +697,32 @@
                 {
                     "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "GLX-160"
+                    "name": "M3A1 dot sight"
                 },
                 {
                     "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "Benelli M3T"
+                    "name": "M95"
                 },
                 {
                     "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "9mm Machinepistol"
+                    "name": "Minebea P9"
                 },
                 {
                     "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
-                    "name": "5.56mm MINIMI Scope"
+                    "name": "Minebea P9 no animation"
+                },
+                {
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "Type89 LSW"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M24"
                 },
                 {
                     "sourceDirectory": "日本",
@@ -737,27 +737,7 @@
                 {
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M24 camo"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M24 Suppressor"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
                     "name": "M16A2"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A2 GL"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A4 GL"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
@@ -773,6 +753,71 @@
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "Panzerfaust 3R1 Tandem"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A2 ACOG"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A2 M203"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A2 Semi"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A2 Semi M203"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A3"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A3 CCO"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A4 DMR"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A4 M203"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "Mk 12 Mod 0"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A4"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M16A4 ACOG"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M24 camo"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M24 Suppressor"
                 }
             ],
             "vehicleConfiguration": [
@@ -983,15 +1028,15 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "custom flags",
+            "name": "Project Tropical Flags",
             "fields": [
                 {
                     "id": "EagleFlag",
-                    "serializedValue": "29"
+                    "serializedValue": "2"
                 },
                 {
                     "id": "RavenFlag",
-                    "serializedValue": "10"
+                    "serializedValue": "7"
                 }
             ]
         },
