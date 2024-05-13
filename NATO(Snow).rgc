@@ -43,56 +43,6 @@
                     "name": "M68 FRAG"
                 },
                 {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-4X"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-BURST"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-Felin"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-Felin/4X/SEMI"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-Felin/S"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-Felin/S/E"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-S"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-S/4X"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-S/R"
-                },
-                {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "Attack Drone"
@@ -388,29 +338,9 @@
                     "name": "SPEARHEAD"
                 },
                 {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT TAC"
-                },
-                {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "FF1"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT GL"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "SIGNAL DMR"
                 },
                 {
                     "sourceDirectory": "意大利陆军",
@@ -426,6 +356,106 @@
                     "sourceDirectory": "意大利陆军",
                     "sourceWorkshopId": 0,
                     "name": "spas-12"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Holo Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 IS GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Iron sights Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 MS GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Scope GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Scope Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Holo GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Plasma Rifle"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Iron sights"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 GL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Iron sights GL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Holo"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Zoom in Scope"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Zoom in Scope GL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Holo GL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Multi Scope"
                 }
             ],
             "vehicleConfiguration": [
@@ -446,12 +476,6 @@
                     "sourceDirectory": "法国陆军",
                     "sourceWorkshopId": 0,
                     "name": "lf_CRAB"
-                },
-                {
-                    "type": 3,
-                    "sourceDirectory": "英国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Challenger II"
                 },
                 {
                     "type": 4,
@@ -565,56 +589,6 @@
                     "name": "M68 FRAG"
                 },
                 {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-4X"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-BURST"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-Felin"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-Felin/4X/SEMI"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-Felin/S"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-Felin/S/E"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-S"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-S/4X"
-                },
-                {
-                    "sourceDirectory": "法国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "FAMAS-S/R"
-                },
-                {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "Attack Drone"
@@ -910,29 +884,9 @@
                     "name": "SPEARHEAD"
                 },
                 {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT TAC"
-                },
-                {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "FF1"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "PATRIOT GL"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "SIGNAL DMR"
                 },
                 {
                     "sourceDirectory": "意大利陆军",
@@ -948,6 +902,106 @@
                     "sourceDirectory": "意大利陆军",
                     "sourceWorkshopId": 0,
                     "name": "spas-12"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Holo Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 IS GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Iron sights Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 MS GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Scope GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Scope Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Holo GL Suppressor"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Plasma Rifle"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Iron sights"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 GL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Iron sights GL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Holo"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Zoom in Scope"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Zoom in Scope GL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Holo GL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK 433 Multi Scope"
                 }
             ],
             "vehicleConfiguration": [
