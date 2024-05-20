@@ -219,21 +219,33 @@
                 },
                 {
                     "type": 3,
+                    "sourceDirectory": "瓦格纳雇佣兵",
+                    "sourceWorkshopId": 0,
+                    "name": "T-90M"
+                },
+                {
+                    "type": 4,
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "T-90A 1"
+                    "name": "BMP-1"
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "瓦格纳雇佣兵",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "msta"
+                    "name": "T-90A 1"
                 },
                 {
                     "type": 6,
                     "sourceDirectory": "",
                     "sourceWorkshopId": 0,
                     "name": "rhib"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "T-62"
                 },
                 {
                     "type": 9,
@@ -243,9 +255,9 @@
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "苏俄装备",
+                    "sourceDirectory": "瓦格纳雇佣兵",
                     "sourceWorkshopId": 0,
-                    "name": "BMP-1"
+                    "name": "T-90M Relikt"
                 }
             ],
             "turretConfiguration": [
@@ -263,9 +275,9 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "苏俄装备",
+                    "sourceDirectory": "瓦格纳雇佣兵",
                     "sourceWorkshopId": 0,
-                    "name": "S-300 Russian Emplacement 1"
+                    "name": "msta"
                 }
             ],
             "skin": {
@@ -553,7 +565,7 @@
                     "type": 1,
                     "sourceDirectory": "北约对乌军援",
                     "sourceWorkshopId": 0,
-                    "name": "CV9040c UA"
+                    "name": "Marder 1A5 IFV"
                 },
                 {
                     "type": 2,
@@ -607,7 +619,7 @@
                     "type": 10,
                     "sourceDirectory": "北约对乌军援",
                     "sourceWorkshopId": 0,
-                    "name": "VBMR 6_6"
+                    "name": "CV9040c UA"
                 }
             ],
             "turretConfiguration": [
