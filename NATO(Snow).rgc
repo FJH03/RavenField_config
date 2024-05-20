@@ -400,11 +400,6 @@
                 {
                     "sourceDirectory": "德国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "HK 433 Suppressor"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "HK 433 Holo GL Suppressor"
                 },
                 {
@@ -459,12 +454,6 @@
                 }
             ],
             "vehicleConfiguration": [
-                {
-                    "type": 0,
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Puma"
-                },
                 {
                     "type": 1,
                     "sourceDirectory": "英国陆军",
@@ -946,11 +935,6 @@
                 {
                     "sourceDirectory": "德国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "HK 433 Suppressor"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "HK 433 Holo GL Suppressor"
                 },
                 {
@@ -1015,7 +999,7 @@
                     "type": 1,
                     "sourceDirectory": "德国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Marder 1A5 IFV"
+                    "name": "Puma"
                 },
                 {
                     "type": 2,
