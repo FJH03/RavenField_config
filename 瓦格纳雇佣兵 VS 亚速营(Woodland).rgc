@@ -219,21 +219,15 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "瓦格纳雇佣兵",
-                    "sourceWorkshopId": 0,
-                    "name": "T-90M"
-                },
-                {
-                    "type": 4,
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "BMP-1"
-                },
-                {
-                    "type": 5,
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "T-90A 1"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "瓦格纳雇佣兵",
+                    "sourceWorkshopId": 0,
+                    "name": "msta"
                 },
                 {
                     "type": 6,
@@ -255,9 +249,9 @@
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "瓦格纳雇佣兵",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "T-90M Relikt"
+                    "name": "BMP-1"
                 }
             ],
             "turretConfiguration": [
@@ -275,9 +269,9 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "瓦格纳雇佣兵",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "msta"
+                    "name": "S-300 Russian Emplacement 1"
                 }
             ],
             "skin": {
