@@ -171,6 +171,41 @@
                     "sourceDirectory": "",
                     "sourceWorkshopId": 0,
                     "name": "SL-DEFENDER"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3A7"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3A7 Grenadier"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "HK33E A2"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "HK33E A2 Assault"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "HK33E A2 Stealth"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "AKM-S"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "AKM-P/S"
                 }
             ],
             "vehicleConfiguration": [
