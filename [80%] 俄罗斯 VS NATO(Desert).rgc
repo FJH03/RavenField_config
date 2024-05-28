@@ -913,9 +913,9 @@
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "法国空军",
+                    "sourceDirectory": "英国空军",
                     "sourceWorkshopId": 0,
-                    "name": "Dassault Rafale M"
+                    "name": "AV-8B Harrier II"
                 },
                 {
                     "type": 6,
@@ -931,9 +931,9 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "美国对北约军援",
+                    "sourceDirectory": "法国空军",
                     "sourceWorkshopId": 0,
-                    "name": "F-35B Lightning II  [Stealth]"
+                    "name": "Dassault Rafale M"
                 },
                 {
                     "type": 9,
