@@ -927,13 +927,13 @@
                     "type": 7,
                     "sourceDirectory": "英国海军",
                     "sourceWorkshopId": 0,
-                    "name": "HMS Javelin"
+                    "name": "HMS Jervis"
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "美国对北约军援",
+                    "sourceDirectory": "法国空军",
                     "sourceWorkshopId": 0,
-                    "name": "F-35A Lightning II  [Stealth]"
+                    "name": "Dassault Rafale M"
                 },
                 {
                     "type": 9,
