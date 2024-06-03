@@ -155,11 +155,6 @@
                 {
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "PMm"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
                     "name": "AKM-P"
                 },
                 {
@@ -175,27 +170,12 @@
                 {
                     "sourceDirectory": "伊朗",
                     "sourceWorkshopId": 0,
-                    "name": "G3A7"
+                    "name": "G3A3"
                 },
                 {
-                    "sourceDirectory": "伊朗",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "G3A7 Grenadier"
-                },
-                {
-                    "sourceDirectory": "伊朗",
-                    "sourceWorkshopId": 0,
-                    "name": "HK33E A2"
-                },
-                {
-                    "sourceDirectory": "伊朗",
-                    "sourceWorkshopId": 0,
-                    "name": "HK33E A2 Assault"
-                },
-                {
-                    "sourceDirectory": "伊朗",
-                    "sourceWorkshopId": 0,
-                    "name": "HK33E A2 Stealth"
+                    "name": "AKM-P/S"
                 },
                 {
                     "sourceDirectory": "苏俄装备",
@@ -205,7 +185,12 @@
                 {
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "AKM-P/S"
+                    "name": "Makarov"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "Makarov Suppressed"
                 }
             ],
             "vehicleConfiguration": [

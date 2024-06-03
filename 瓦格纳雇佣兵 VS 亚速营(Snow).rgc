@@ -195,7 +195,12 @@
                 {
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "PMm"
+                    "name": "Makarov Suppressed"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "Makarov"
                 }
             ],
             "vehicleConfiguration": [
@@ -488,11 +493,6 @@
                     "name": "M24 Suppressor"
                 },
                 {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "PMm"
-                },
-                {
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M16A2 ACOG"
@@ -546,6 +546,16 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M16A4 ACOG"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "Makarov Suppressed"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "Makarov"
                 }
             ],
             "vehicleConfiguration": [

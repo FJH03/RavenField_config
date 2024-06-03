@@ -191,6 +191,16 @@
                     "sourceDirectory": "",
                     "sourceWorkshopId": 0,
                     "name": "SIGNAL DMR"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "Makarov"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "Makarov Suppressed"
                 }
             ],
             "vehicleConfiguration": [
