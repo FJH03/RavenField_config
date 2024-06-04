@@ -10,27 +10,27 @@
 
 ## 1.1 LETMS 载具清单
 
-### 1.1.1 M-SHORAD || JLTV
+### 1.1.1 M-SHORAD || LAV-25
 
 ### 1.1.2 M2A4 || M2A3
 
-### 1.1.3 LAV-25
+### 1.1.3 JLTV
 
 ### 1.1.4 M1A2 SEPV3 (TUSK1) COMMISSION || M1A2 SEPV2 (TUSK2)
 
 ## 1.2 Desert风格预设
 
-### 1.2.1 M-SHORAD || JLTV
+### 1.2.1 M-SHORAD || LAV-25
 
-<img src="assets/m-shored.png" alt="image-20240320215935965" style="zoom: 33%;" /><img src="assets\jltvd.png" alt="image-20240320222309041" style="zoom: 40%;" />
+<img src="assets/m-shored.png" alt="image-20240320215935965" style="zoom: 33%;" /><img src="assets/lav-25.png" alt="image-20240320220201459" style="zoom: 45%;" />
 
 ### 1.2.2 M2A4 || M2A3
 
 <img src="assets\m2a4d.png" alt="image-20240320221923389" style="zoom:40%;" /><img src="assets\m2a3d.png" alt="image-20240320222046900" style="zoom:35%;" />
 
-### 1.2.3 M270 MLRS (US Desert) 1 || LAV-25
+### 1.2.3 M270 MLRS (US Desert) 1 || JLTV
 
-<img src="assets\m270d.png" alt="image-20240320230215212" style="zoom: 40%;" /><img src="assets/lav-25.png" alt="image-20240320220201459" style="zoom: 45%;" />
+<img src="assets\m270d.png" alt="image-20240320230215212" style="zoom: 40%;" /><img src="assets\jltvd.png" alt="image-20240320222309041" style="zoom: 40%;" />
 
 ### 1.2.4 M1A2 SEPV3 (TUSK1) COMMISSION || M1A2 SEPV2 (TUSK2)
 
@@ -50,9 +50,9 @@
 
 ## 1.3 Snow风格预设
 
-### 1.3.1 M-SHORAD(套Desert) || JLTV
+### 1.3.1 M-SHORAD(套Desert) || LAV-25
 
-<img src="assets\m-shoreds.png" alt="image-20240323151817436" style="zoom:53%;" /><img src="assets\jltvs.png" alt="image-20240320222947825" style="zoom: 35%;" />
+<img src="assets\m-shoreds.png" alt="image-20240323151817436" style="zoom:53%;" /><img src="assets\lav-253.png" alt="image-20240320221546399" style="zoom:43%;" />
 
 
 
@@ -60,9 +60,9 @@
 
 <img src="assets\m2a4s.png" alt="image-20240323152008990" style="zoom:50%;" /><img src="assets\m2a3s.png" alt="image-20240323152125292" style="zoom:43%;" />
 
-### 1.3.3 M270 MLRS (Gray) 1 || LAV-25
+### 1.3.3 M270 MLRS (Gray) 1 || JLTV
 
-<img src="assets\m270s.png" alt="image-20240320231225134" style="zoom: 40%;" /><img src="assets\lav-253.png" alt="image-20240320221546399" style="zoom:43%;" />
+<img src="assets\m270s.png" alt="image-20240320231225134" style="zoom: 40%;" /><img src="assets\jltvs.png" alt="image-20240320222947825" style="zoom: 35%;" />
 
 ### 1.3.4 M1A2 SEPV3 (TUSK1) COMMISSION(套Woodland)  || M1A2 SEPV2 (TUSK2)(套Woodland) 
 
@@ -82,17 +82,17 @@
 
 ## 1.4 Woodland风格预设
 
-### 1.4.1 M-SHORAD || JLTV
+### 1.4.1 M-SHORAD || LAV-25
 
-<img src="assets\m-shored1.png" alt="image-20240320220743625" style="zoom:35%;" /><img src="assets\jltvw.png" alt="image-20240320223547477" style="zoom:35%;" />
+<img src="assets\m-shored1.png" alt="image-20240320220743625" style="zoom:35%;" /><img src="assets\lav-251.png" alt="image-20240320221111790" style="zoom: 35%;" />
 
 ### 1.4.2 M2A4 || M2A3
 
 <img src="assets\m2a4w.png" alt="image-20240320223244139" style="zoom:33%;" /><img src="assets\m2a3w.png" alt="image-20240320223343559" style="zoom: 40%;" />
 
-### 1.4.3 M270 MLRS (US Woodland) 2 || LAV-25
+### 1.4.3 M270 MLRS (US Woodland) 2 || JLTV
 
-<img src="assets\m270w.png" alt="image-20240320224812622" style="zoom: 40%;" /><img src="assets\lav-251.png" alt="image-20240320221111790" style="zoom: 35%;" />
+<img src="assets\m270w.png" alt="image-20240320224812622" style="zoom: 40%;" /><img src="assets\jltvw.png" alt="image-20240320223547477" style="zoom:35%;" />
 
 ### 1.4.4 M1A2 SEPV3 (TUSK1) COMMISSION || M1A2 SEPV2 (TUSK2)
 
