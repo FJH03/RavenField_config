@@ -722,21 +722,15 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "JLTV"
+                    "name": "LAV-25"
                 },
                 {
                     "type": 1,
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "M2A3"
-                },
-                {
-                    "type": 2,
-                    "sourceDirectory": "美国海军陆战队",
-                    "sourceWorkshopId": 0,
-                    "name": "LAV-25"
                 },
                 {
                     "type": 3,
@@ -761,6 +755,12 @@
                     "sourceDirectory": "美国空军",
                     "sourceWorkshopId": 0,
                     "name": "A-10C Thunderbolt II"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "JLTV"
                 },
                 {
                     "type": 10,
