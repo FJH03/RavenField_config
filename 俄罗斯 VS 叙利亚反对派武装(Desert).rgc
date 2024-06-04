@@ -343,13 +343,13 @@
                     "type": 0,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Tiger-M 5seat CROWS DE"
+                    "name": "BTR-82"
                 },
                 {
-                    "type": 2,
+                    "type": 1,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "BTR-82"
+                    "name": "Tiger-M 5seat CROWS DE"
                 },
                 {
                     "type": 3,
