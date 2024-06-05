@@ -4,7 +4,7 @@
 
 
 
-# 1.美利坚合众国
+# 1.美国
 
 <img src="assets/usa.jpg" alt="NATO" style="zoom:30%;" />
 
@@ -252,7 +252,7 @@
 
 
 
-# 3.中华人民共和国
+# 3.中国
 
 ## 3.1 LETMS 载具清单
 
