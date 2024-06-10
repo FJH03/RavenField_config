@@ -225,142 +225,167 @@
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK15-A"
+                    "name": "AK-74"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK15"
+                    "name": "AK-74 GP-25"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK15-B"
+                    "name": "AK-74m"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK15-C"
+                    "name": "AK-74m 1P78"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK15-D"
+                    "name": "AK-74m ACOG"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK15-E"
+                    "name": "AK-74m EoTech"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK102"
+                    "name": "AK-74m GP-25"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK102-B"
+                    "name": "AK-74m Kobra"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK105"
+                    "name": "AKS-74"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK105-B"
+                    "name": "AKS-74 PSO-1"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS74"
+                    "name": "AKS-74N"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS74-B"
+                    "name": "AKS-74u"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS74U"
+                    "name": "AKS-74u (Gear)"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS74U PDW"
+                    "name": "AKS-74u Extended Mag"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS74U-B"
+                    "name": "AKS-74u Suppressed"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS74U-B PDW"
+                    "name": "AKS-74u UB"
+                },
+                {
+                    "sourceDirectory": "恐怖分子势力",
+                    "sourceWorkshopId": 0,
+                    "name": "PA Md 86"
+                },
+                {
+                    "sourceDirectory": "恐怖分子势力",
+                    "sourceWorkshopId": 0,
+                    "name": "PM Md 63"
+                },
+                {
+                    "sourceDirectory": "恐怖分子势力",
+                    "sourceWorkshopId": 0,
+                    "name": "PM Md 65"
+                },
+                {
+                    "sourceDirectory": "恐怖分子势力",
+                    "sourceWorkshopId": 0,
+                    "name": "PM Md 90"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AS VAL"
+                    "name": "AK-12"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AS VAL-B"
+                    "name": "AK-12 1P78"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "ASVK-M"
+                    "name": "AK-12 1P78 STEALTH"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "ASVK-M Gear"
+                    "name": "AK-12 1P87"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PP19-01"
+                    "name": "AK-12 1P87 STEALTH"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PP19-01 PDW"
+                    "name": "AK-12 1P87+1P90"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK101-B"
+                    "name": "AK-12 1P87+1P90 STEALTH"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK101"
+                    "name": "AK-12 GRIP"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PP19-01-B"
+                    "name": "AK-12 GRIP STEALTH"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PP19-01-B PDW"
+                    "name": "AK-12 KOBRA"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SVDS-A"
+                    "name": "AK-12 KOBRA STEALTH"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SVDS-B"
+                    "name": "AK-12 PKAS"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 PKAS STEALTH"
                 }
             ],
             "vehicleConfiguration": [
