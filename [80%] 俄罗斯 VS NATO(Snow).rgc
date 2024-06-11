@@ -366,26 +366,6 @@
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
                     "name": "AKS-74u UB"
-                },
-                {
-                    "sourceDirectory": "恐怖分子势力",
-                    "sourceWorkshopId": 0,
-                    "name": "PA Md 86"
-                },
-                {
-                    "sourceDirectory": "恐怖分子势力",
-                    "sourceWorkshopId": 0,
-                    "name": "PM Md 63"
-                },
-                {
-                    "sourceDirectory": "恐怖分子势力",
-                    "sourceWorkshopId": 0,
-                    "name": "PM Md 65"
-                },
-                {
-                    "sourceDirectory": "恐怖分子势力",
-                    "sourceWorkshopId": 0,
-                    "name": "PM Md 90"
                 }
             ],
             "vehicleConfiguration": [
