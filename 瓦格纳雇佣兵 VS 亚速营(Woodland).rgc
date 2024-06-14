@@ -585,15 +585,15 @@
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "北约对乌军援",
+                    "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "AMX30 1972"
+                    "name": "MH-60L DAP"
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "北约对乌军援",
+                    "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M60A1 AOS"
+                    "name": "M2 Bradley Woodland revamp fixed SUS"
                 },
                 {
                     "type": 6,
@@ -615,9 +615,9 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "北约对乌军援",
+                    "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "Leopard1A1 by Sowen"
+                    "name": "UH-60"
                 },
                 {
                     "type": 10,
