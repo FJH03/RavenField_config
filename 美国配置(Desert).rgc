@@ -401,25 +401,25 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "LAV-25"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "JLTV"
+                    "name": "MATV CROWS"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "AAV7"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "M1A2 SEPV2 (TUSK2)"
                 },
@@ -437,9 +437,9 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "MG assault boatA"
+                    "name": "RHIB US"
                 },
                 {
                     "type": 7,
@@ -455,7 +455,7 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "M2A3"
                 },
@@ -469,7 +469,7 @@
             "turretConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "M2"
                 },
@@ -893,13 +893,13 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "M-SHORAD"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "M2A4"
                 },
@@ -967,9 +967,9 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "BGM-71"
+                    "name": "TOW"
                 },
                 {
                     "type": 2,

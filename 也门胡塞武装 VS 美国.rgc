@@ -698,13 +698,13 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "M-SHORAD"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "M2A4"
                 },
@@ -772,9 +772,9 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "BGM-71"
+                    "name": "TOW"
                 },
                 {
                     "type": 2,

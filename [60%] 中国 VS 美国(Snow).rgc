@@ -496,13 +496,13 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "TYPE 625"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "ZBD-04A"
                 },
@@ -514,15 +514,15 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "ZTZ-99A"
+                    "name": "ZTZ-99A Ubran"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "Z-10W"
+                    "name": "lf_Z-8J CAS"
                 },
                 {
                     "type": 5,
@@ -532,9 +532,9 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "中国海军",
+                    "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "MG assault boatD"
+                    "name": "RHIB CN"
                 },
                 {
                     "type": 7,
@@ -550,13 +550,13 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "z9 bf4"
+                    "name": "lf_Z-8J"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "ZBL-08"
                 }
@@ -570,9 +570,9 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "hj-8"
+                    "name": "HJ-8"
                 },
                 {
                     "type": 2,
@@ -988,13 +988,13 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "M-SHORAD"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "M2A4"
                 },
@@ -1062,9 +1062,9 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "BGM-71"
+                    "name": "TOW"
                 },
                 {
                     "type": 2,
