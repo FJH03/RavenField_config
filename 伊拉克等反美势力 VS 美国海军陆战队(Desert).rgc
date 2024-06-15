@@ -727,22 +727,22 @@
                     "name": "LAV-25"
                 },
                 {
-                    "type": 1,
+                    "type": 2,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "M2A3"
+                    "name": "M1126 M2A3 DE"
                 },
                 {
                     "type": 3,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "M1A2 SEPV2 (TUSK2)"
+                    "name": "M1A1HC APS"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "lf_ah64"
+                    "name": "UH1Y_CAS"
                 },
                 {
                     "type": 6,
@@ -751,16 +751,10 @@
                     "name": "RHIB US"
                 },
                 {
-                    "type": 8,
-                    "sourceDirectory": "美国空军",
-                    "sourceWorkshopId": 0,
-                    "name": "A-10C Thunderbolt II"
-                },
-                {
                     "type": 9,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "MATV CROWS"
+                    "name": "UH1Y_TRA"
                 },
                 {
                     "type": 10,
@@ -784,15 +778,15 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国海军",
                     "sourceWorkshopId": 0,
-                    "name": "M252"
+                    "name": "lf_MK15"
                 }
             ],
             "skin": {
                 "sourceDirectory": "美国脚本",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD USA Rifleman "
+                "name": "SQUAD USMC Rifleman (Desert)"
             }
         }
     ],
@@ -1299,10 +1293,14 @@
         {
             "sourceDirectory": "美国脚本",
             "sourceWorkshopId": 0,
-            "name": "SQUAD USA Voicelines",
+            "name": "Squad USMC Multiskin (DESERT)",
             "fields": [
                 {
-                    "id": "assignedTeam",
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
                     "serializedValue": "1"
                 }
             ]
@@ -1360,14 +1358,10 @@
         {
             "sourceDirectory": "美国脚本",
             "sourceWorkshopId": 0,
-            "name": "Squad USA Multiskin",
+            "name": "SQUAD USMC Voicelines",
             "fields": [
                 {
-                    "id": "playerBool",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "team",
+                    "id": "assignedTeam",
                     "serializedValue": "1"
                 }
             ]

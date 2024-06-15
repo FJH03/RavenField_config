@@ -403,19 +403,19 @@
                     "type": 0,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "LAV-25"
+                    "name": "MATV CROWS"
                 },
                 {
                     "type": 1,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "MATV CROWS"
+                    "name": "M2A3"
                 },
                 {
                     "type": 2,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "AAV7"
+                    "name": "M1126 MK19"
                 },
                 {
                     "type": 3,
@@ -425,54 +425,24 @@
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "美国海军陆战队",
-                    "sourceWorkshopId": 0,
-                    "name": "F-35B Lightning II  [Beast]"
-                },
-                {
-                    "type": 5,
-                    "sourceDirectory": "美国空军",
-                    "sourceWorkshopId": 0,
-                    "name": "B-2 Spirit [Carpet Bombing]"
-                },
-                {
-                    "type": 6,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "RHIB US"
-                },
-                {
-                    "type": 7,
-                    "sourceDirectory": "美国海军",
-                    "sourceWorkshopId": 0,
-                    "name": "Arleigh Burke-class Destroyer"
-                },
-                {
-                    "type": 8,
-                    "sourceDirectory": "美国海军",
-                    "sourceWorkshopId": 0,
-                    "name": "FA-18E Super Hornet"
+                    "name": "MH-60L DAP GUNSHIP"
                 },
                 {
                     "type": 9,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "M2A3"
+                    "name": "M1151 tow"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "美国空军",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "F-16C Viper"
+                    "name": "M1296"
                 }
             ],
             "turretConfiguration": [
-                {
-                    "type": 0,
-                    "sourceDirectory": "美国大包整合",
-                    "sourceWorkshopId": 0,
-                    "name": "M2"
-                },
                 {
                     "type": 1,
                     "sourceDirectory": "现代战争必装",
@@ -923,9 +893,9 @@
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "美国空军",
+                    "sourceDirectory": "美国海军",
                     "sourceWorkshopId": 0,
-                    "name": "F-35A Lightning II  [Beast]"
+                    "name": "FA-18E Super Hornet"
                 },
                 {
                     "type": 6,
@@ -941,21 +911,21 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "美国空军",
+                    "sourceDirectory": "美国海军",
                     "sourceWorkshopId": 0,
-                    "name": "A-10C Thunderbolt II"
+                    "name": "F-35C Lightning II  [Beast (Gunpod)]"
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "V-22 Osprey VTOL GG 1"
+                    "name": "UH-60"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "LAVAD DESERT"
+                    "name": "M1134 Stryker ATGM"
                 }
             ],
             "turretConfiguration": [
@@ -973,9 +943,9 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国陆军",
+                    "sourceDirectory": "美国海军",
                     "sourceWorkshopId": 0,
-                    "name": "M252"
+                    "name": "lf_MK15"
                 }
             ],
             "skin": {
