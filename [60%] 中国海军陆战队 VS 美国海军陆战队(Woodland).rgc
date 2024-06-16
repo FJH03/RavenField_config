@@ -495,6 +495,12 @@
             ],
             "vehicleConfiguration": [
                 {
+                    "type": 0,
+                    "sourceDirectory": "中国大包整合",
+                    "sourceWorkshopId": 0,
+                    "name": "CSK-131 .50 WOODLAND"
+                },
+                {
                     "type": 1,
                     "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
@@ -973,6 +979,12 @@
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
                     "name": "LAV-25"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "美国大包整合",
+                    "sourceWorkshopId": 0,
+                    "name": "M1151 .50 CROWS woodland"
                 },
                 {
                     "type": 2,

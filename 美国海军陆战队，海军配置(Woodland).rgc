@@ -844,6 +844,12 @@
                     "name": "LAV-25"
                 },
                 {
+                    "type": 1,
+                    "sourceDirectory": "美国大包整合",
+                    "sourceWorkshopId": 0,
+                    "name": "M1151 .50 CROWS woodland"
+                },
+                {
                     "type": 2,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,

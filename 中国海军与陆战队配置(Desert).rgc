@@ -1022,6 +1022,12 @@
             ],
             "vehicleConfiguration": [
                 {
+                    "type": 0,
+                    "sourceDirectory": "中国大包整合",
+                    "sourceWorkshopId": 0,
+                    "name": "CSK-131 .50 DE"
+                },
+                {
                     "type": 1,
                     "sourceDirectory": "中国大包整合",
                     "sourceWorkshopId": 0,
