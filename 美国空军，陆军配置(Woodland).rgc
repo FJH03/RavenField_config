@@ -265,17 +265,12 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "KSG-12"
+                    "name": "Atchisson AA-12"
                 },
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "Atchisson AA-12 (Mag)"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Atchisson AA-12"
                 },
                 {
                     "sourceDirectory": "美国陆军",
@@ -291,6 +286,11 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "Remington 870"
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "KSG-12"
                 },
                 {
                     "sourceDirectory": "美国陆军",
@@ -400,16 +400,34 @@
             ],
             "vehicleConfiguration": [
                 {
+                    "type": 0,
+                    "sourceDirectory": "美国大包整合",
+                    "sourceWorkshopId": 0,
+                    "name": "MATV CROWS WOODLAND"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "美国大包整合",
+                    "sourceWorkshopId": 0,
+                    "name": "M2A3"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "美国大包整合",
+                    "sourceWorkshopId": 0,
+                    "name": "M1126 MK19"
+                },
+                {
                     "type": 3,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "M1A1HC APS"
+                    "name": "M1A2 SEPV2 (TUSK2)"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "F-35B Lightning II  [Beast]"
+                    "name": "MH-60L DAP GUNSHIP"
                 },
                 {
                     "type": 5,
@@ -427,27 +445,39 @@
                     "type": 9,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "UH1Y_TRA"
+                    "name": "M1151 tow woodland"
                 },
                 {
                     "type": 10,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "AAV7 woodland"
+                    "name": "M1296"
                 }
             ],
             "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "美国大包整合",
+                    "sourceWorkshopId": 0,
+                    "name": "M2"
+                },
                 {
                     "type": 1,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "Enclave Missile Target"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Patriot PAC-3 Woodland GG"
                 }
             ],
             "skin": {
                 "sourceDirectory": "美国脚本",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD USMC Rifleman "
+                "name": "SQUAD USA Rifleman "
             }
         },
         {
@@ -715,17 +745,12 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "KSG-12"
+                    "name": "Atchisson AA-12"
                 },
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "Atchisson AA-12 (Mag)"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Atchisson AA-12"
                 },
                 {
                     "sourceDirectory": "美国陆军",
@@ -741,6 +766,11 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "Remington 870"
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "KSG-12"
                 },
                 {
                     "sourceDirectory": "美国陆军",
@@ -853,63 +883,69 @@
                     "type": 0,
                     "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "LAV-25"
+                    "name": "M-SHORAD"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "美国大包整合",
+                    "sourceWorkshopId": 0,
+                    "name": "M2A4"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M1126 M2A3"
+                    "name": "M270 MLRS (US Woodland) 2"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M1A2 SEPV2 "
+                    "name": "M1A2 SEPV3 (TUSK1) COMMISSION"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "UH1Y_CAS"
+                    "name": "lf_ah64"
                 },
                 {
                     "type": 5,
                     "sourceDirectory": "美国空军",
                     "sourceWorkshopId": 0,
-                    "name": "A-10C Thunderbolt II"
+                    "name": "B-2 Spirit [Carpet Bombing]"
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国海军",
                     "sourceWorkshopId": 0,
-                    "name": "RHIB US"
+                    "name": "我创死你"
                 },
                 {
                     "type": 8,
                     "sourceDirectory": "美国空军",
                     "sourceWorkshopId": 0,
-                    "name": "B-2 Spirit [Carpet Bombing]"
+                    "name": "A-10C Thunderbolt II"
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "V-22 Osprey VTOL Dazzle"
+                    "name": "UH-60"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国大包整合",
                     "sourceWorkshopId": 0,
-                    "name": "LAVAD Woodland"
+                    "name": "M1134 Stryker ATGM"
                 }
             ],
             "turretConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M2"
+                    "name": "M2 4x"
                 },
                 {
                     "type": 1,
@@ -927,7 +963,7 @@
             "skin": {
                 "sourceDirectory": "美国脚本",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD USMC Rifleman "
+                "name": "SQUAD USA Rifleman "
             }
         }
     ],
@@ -1129,14 +1165,10 @@
         {
             "sourceDirectory": "美国脚本",
             "sourceWorkshopId": 0,
-            "name": "Squad USMC Multiskin",
+            "name": "SQUAD USA Voicelines",
             "fields": [
                 {
-                    "id": "playerBool",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "team",
+                    "id": "assignedTeam",
                     "serializedValue": "2"
                 }
             ]
@@ -1144,10 +1176,14 @@
         {
             "sourceDirectory": "美国脚本",
             "sourceWorkshopId": 0,
-            "name": "SQUAD USMC Voicelines",
+            "name": "Squad USA Multiskin",
             "fields": [
                 {
-                    "id": "assignedTeam",
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
                     "serializedValue": "2"
                 }
             ]
