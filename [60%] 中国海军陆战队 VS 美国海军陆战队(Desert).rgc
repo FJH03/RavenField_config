@@ -496,13 +496,13 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "CSK-131 .50 DE"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
                     "name": "ZBD-05"
                 },
@@ -514,19 +514,19 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
                     "name": "ZTD-05"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "lf_Z-8J CAS"
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "RHIB CN"
                 },
@@ -538,13 +538,13 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "lf_Z-8J"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
                     "name": "ZBL-08"
                 }
@@ -552,15 +552,15 @@
             "turretConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QJZ-89"
+                    "name": "QZJ-89"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "HJ-8"
+                    "name": "hj-8"
                 },
                 {
                     "type": 2,
@@ -570,7 +570,7 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "中国脚本",
+                "sourceDirectory": "中国海军陆战队",
                 "sourceWorkshopId": 0,
                 "name": "SQUAD PLANMC Rifleman (Desert)"
             }
@@ -1443,7 +1443,7 @@
             ]
         },
         {
-            "sourceDirectory": "中国脚本",
+            "sourceDirectory": "中国海军陆战队",
             "sourceWorkshopId": 0,
             "name": "Squad PLANMC Multiskin (DESERT)",
             "fields": [
@@ -1458,7 +1458,7 @@
             ]
         },
         {
-            "sourceDirectory": "中国脚本",
+            "sourceDirectory": "中国陆军",
             "sourceWorkshopId": 0,
             "name": "SQUAD PLANMC Voicelines",
             "fields": [
