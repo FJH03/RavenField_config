@@ -401,9 +401,9 @@
             "vehicleConfiguration": [
                 {
                     "type": 3,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "M1A1HC APS"
+                    "name": "M1A1HC"
                 },
                 {
                     "type": 4,
@@ -413,13 +413,13 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "UH1Y_TRA"
+                    "name": "lf_uh1y"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国海军陆战队",
                     "sourceWorkshopId": 0,
                     "name": "AAV7 woodland"
                 }
@@ -433,7 +433,7 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "美国脚本",
+                "sourceDirectory": "美国海军陆战队",
                 "sourceWorkshopId": 0,
                 "name": "SQUAD USMC Rifleman "
             }
@@ -839,33 +839,27 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国海军陆战队",
                     "sourceWorkshopId": 0,
                     "name": "LAV-25"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M1151 .50 CROWS woodland"
-                },
-                {
-                    "type": 2,
-                    "sourceDirectory": "美国大包整合",
-                    "sourceWorkshopId": 0,
-                    "name": "M1126 M2A3"
+                    "name": "MATV .50 WOODLAND"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "M1A2 SEPV2 "
+                    "name": "M1A1HC APS"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "UH1Y_CAS"
+                    "name": "AH-1Z"
                 },
                 {
                     "type": 5,
@@ -875,9 +869,15 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "RHIB US"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "美国海军",
+                    "sourceWorkshopId": 0,
+                    "name": "Arleigh Burke-class Destroyer"
                 },
                 {
                     "type": 8,
@@ -901,25 +901,25 @@
             "turretConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "M2"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "TOW"
+                    "name": "BGM-71"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国海军",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_MK15"
+                    "name": "M252"
                 }
             ],
             "skin": {
-                "sourceDirectory": "美国脚本",
+                "sourceDirectory": "美国海军陆战队",
                 "sourceWorkshopId": 0,
                 "name": "SQUAD USMC Rifleman "
             }
@@ -1121,7 +1121,7 @@
             ]
         },
         {
-            "sourceDirectory": "美国脚本",
+            "sourceDirectory": "美国海军陆战队",
             "sourceWorkshopId": 0,
             "name": "Squad USMC Multiskin",
             "fields": [
@@ -1136,7 +1136,7 @@
             ]
         },
         {
-            "sourceDirectory": "美国脚本",
+            "sourceDirectory": "美国海军陆战队",
             "sourceWorkshopId": 0,
             "name": "SQUAD USMC Voicelines",
             "fields": [

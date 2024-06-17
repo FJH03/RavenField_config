@@ -401,33 +401,27 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "MATV CROWS WOODLAND"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "M2A3"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M1126 MK19"
+                    "name": "MATV TOW-2 WOODLAND"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "M1A2 SEPV2 (TUSK2)"
-                },
-                {
-                    "type": 4,
-                    "sourceDirectory": "美国大包整合",
-                    "sourceWorkshopId": 0,
-                    "name": "MH-60L DAP GUNSHIP"
                 },
                 {
                     "type": 5,
@@ -443,21 +437,21 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M1151 tow woodland"
+                    "name": "JLTV"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M1296"
+                    "name": "XM1304 Stryker"
                 }
             ],
             "turretConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "M2"
                 },
@@ -475,7 +469,7 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "美国脚本",
+                "sourceDirectory": "美国陆军",
                 "sourceWorkshopId": 0,
                 "name": "SQUAD USA Rifleman "
             }
@@ -881,13 +875,13 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "M-SHORAD"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "M2A4"
                 },
@@ -917,7 +911,7 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "RHIB US"
                 },
@@ -929,15 +923,15 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "UH-60"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M1134 Stryker ATGM"
+                    "name": "M1134"
                 }
             ],
             "turretConfiguration": [
@@ -949,19 +943,19 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "美国大包整合",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "TOW"
+                    "name": "BGM-71"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国海军",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_MK15"
+                    "name": "M252"
                 }
             ],
             "skin": {
-                "sourceDirectory": "美国脚本",
+                "sourceDirectory": "美国陆军",
                 "sourceWorkshopId": 0,
                 "name": "SQUAD USA Rifleman "
             }
@@ -1163,7 +1157,7 @@
             ]
         },
         {
-            "sourceDirectory": "美国脚本",
+            "sourceDirectory": "美国陆军",
             "sourceWorkshopId": 0,
             "name": "SQUAD USA Voicelines",
             "fields": [
@@ -1174,7 +1168,7 @@
             ]
         },
         {
-            "sourceDirectory": "美国脚本",
+            "sourceDirectory": "美国陆军",
             "sourceWorkshopId": 0,
             "name": "Squad USA Multiskin",
             "fields": [
