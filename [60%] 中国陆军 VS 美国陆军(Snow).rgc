@@ -496,13 +496,13 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "TYPE 625"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "ZBD-04A"
                 },
@@ -514,15 +514,15 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "ZTZ-99A Ubran"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_Z-8G CAS"
+                    "name": "Z-10W"
                 },
                 {
                     "type": 5,
@@ -532,7 +532,7 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "RHIB CN"
                 },
@@ -544,13 +544,13 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "lf_Z-8G"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "CSK-131 HJ-8 SEA"
                 }
@@ -564,9 +564,9 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "中国大包整合",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "HJ-8"
+                    "name": "hj-8"
                 },
                 {
                     "type": 2,
@@ -576,7 +576,7 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "中国脚本",
+                "sourceDirectory": "中国陆军",
                 "sourceWorkshopId": 0,
                 "name": "SQUAD PLA Rifleman"
             }
@@ -1449,7 +1449,7 @@
             ]
         },
         {
-            "sourceDirectory": "中国脚本",
+            "sourceDirectory": "中国陆军",
             "sourceWorkshopId": 0,
             "name": "Squad PLA Multiskin",
             "fields": [
@@ -1464,7 +1464,7 @@
             ]
         },
         {
-            "sourceDirectory": "中国脚本",
+            "sourceDirectory": "中国陆军",
             "sourceWorkshopId": 0,
             "name": "SQUAD PLA Voicelines",
             "fields": [
