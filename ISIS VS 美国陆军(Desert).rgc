@@ -258,15 +258,15 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "恐怖分子势力",
                     "sourceWorkshopId": 0,
-                    "name": "New Quadbike"
+                    "name": "S8 rocket technical 2"
                 },
                 {
                     "type": 3,
                     "sourceDirectory": "恐怖分子势力",
                     "sourceWorkshopId": 0,
-                    "name": "S8 rocket technical 2"
+                    "name": "T-62"
                 },
                 {
                     "type": 4,
