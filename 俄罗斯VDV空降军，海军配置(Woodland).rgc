@@ -796,12 +796,6 @@
                     "name": "BTR-D .50"
                 },
                 {
-                    "type": 2,
-                    "sourceDirectory": "俄罗斯VDV空降军",
-                    "sourceWorkshopId": 0,
-                    "name": "BTR-ZD"
-                },
-                {
                     "type": 3,
                     "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
@@ -812,6 +806,12 @@
                     "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
                     "name": "ka 52 Z"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceWorkshopId": 0,
+                    "name": "BTR-ZD"
                 },
                 {
                     "type": 6,
