@@ -371,39 +371,33 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_TOR"
+                    "name": "KAMAZ-4386"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "LETMS BMPT"
-                },
-                {
-                    "type": 2,
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "BM-30 Smerch Green 3"
+                    "name": "BTR-D .50"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "T-90M APS 1"
+                    "name": "T-72 B3 NEW"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_mi-28"
+                    "name": "ka 52 Z"
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "俄罗斯空天军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "Su-57凌风lf"
+                    "name": "BTR-ZD"
                 },
                 {
                     "type": 6,
@@ -412,22 +406,16 @@
                     "name": "RHIB RU"
                 },
                 {
-                    "type": 8,
-                    "sourceDirectory": "俄罗斯空天军",
-                    "sourceWorkshopId": 0,
-                    "name": "lf_SU-35"
-                },
-                {
                     "type": 9,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8"
+                    "name": "lf_Mi-8 VDV"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "BMP-2M"
+                    "name": "BMD-4M"
                 }
             ],
             "turretConfiguration": [
@@ -435,7 +423,7 @@
                     "type": 0,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "kord 8X"
+                    "name": "kord"
                 },
                 {
                     "type": 1,
@@ -447,13 +435,13 @@
                     "type": 2,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "S-400 Triumf Static Rus GG"
+                    "name": "2B14"
                 }
             ],
             "skin": {
-                "sourceDirectory": "俄罗斯陆军",
+                "sourceDirectory": "俄罗斯VDV空降军",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD RGF Rifleman"
+                "name": "SQUAD VDV Rifleman"
             }
         },
         {
@@ -733,9 +721,9 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "德国陆军",
+                    "sourceDirectory": "瑞典陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Puma"
+                    "name": "CV9040c"
                 },
                 {
                     "type": 2,
@@ -775,9 +763,9 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "法国空军",
+                    "sourceDirectory": "美国对北约军援",
                     "sourceWorkshopId": 0,
-                    "name": "Dassault Rafale M"
+                    "name": "F-35B Lightning II  [Stealth]"
                 },
                 {
                     "type": 9,
@@ -787,9 +775,9 @@
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "法国陆军",
+                    "sourceDirectory": "德国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "EBRC"
+                    "name": "Boxer Woodland"
                 }
             ],
             "turretConfiguration": [
@@ -815,7 +803,7 @@
             "skin": {
                 "sourceDirectory": "美国对北约军援",
                 "sourceWorkshopId": 0,
-                "name": "CIA Agent S-B-6"
+                "name": "CIA Agent S-B-7"
             }
         }
     ],
@@ -940,7 +928,7 @@
                 },
                 {
                     "id": "RavenFlag",
-                    "serializedValue": "46"
+                    "serializedValue": "31"
                 }
             ]
         },
@@ -1028,9 +1016,9 @@
             ]
         },
         {
-            "sourceDirectory": "法国陆军",
+            "sourceDirectory": "波兰陆军",
             "sourceWorkshopId": 0,
-            "name": "Voice Pack: BF1942 [FR]",
+            "name": "Poland Team Voice Pack",
             "fields": [
                 {
                     "id": "assignedTeam",
@@ -1502,22 +1490,7 @@
         {
             "sourceDirectory": "俄罗斯陆军",
             "sourceWorkshopId": 0,
-            "name": "Squad RGF Multiskin",
-            "fields": [
-                {
-                    "id": "playerBool",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "team",
-                    "serializedValue": "0"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "俄罗斯陆军",
-            "sourceWorkshopId": 0,
-            "name": "SQUAD RGF Voicelines",
+            "name": "SQUAD VDV Voicelines",
             "fields": [
                 {
                     "id": "assignedTeam",
@@ -1543,6 +1516,21 @@
                 {
                     "id": "versionSelected",
                     "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "俄罗斯VDV空降军",
+            "sourceWorkshopId": 0,
+            "name": "Squad VDV Multiskin",
+            "fields": [
+                {
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "0"
                 }
             ]
         }
