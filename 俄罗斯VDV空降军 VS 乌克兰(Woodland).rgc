@@ -389,9 +389,9 @@
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8 CAS VDV"
+                    "name": "ka 52 Z"
                 },
                 {
                     "type": 5,
@@ -429,7 +429,7 @@
                     "type": 0,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "kord 8X"
+                    "name": "kord"
                 },
                 {
                     "type": 1,
