@@ -241,12 +241,6 @@
                     "name": "rhib"
                 },
                 {
-                    "type": 8,
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "T-62"
-                },
-                {
                     "type": 9,
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
@@ -256,7 +250,7 @@
                     "type": 10,
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "BMP-1"
+                    "name": "T-80BV Wagner"
                 }
             ],
             "turretConfiguration": [
