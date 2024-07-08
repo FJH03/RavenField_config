@@ -537,12 +537,6 @@
                     "name": "F-16C Viper"
                 },
                 {
-                    "type": 9,
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "JLTV"
-                },
-                {
                     "type": 10,
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
