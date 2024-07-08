@@ -163,26 +163,6 @@
                     "name": "spas-12"
                 },
                 {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK USP Tactical"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK USP Reflex Tactical"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK USP Reflex"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK USP"
-                },
-                {
                     "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
                     "name": "L86 ACOG S"
@@ -208,11 +188,6 @@
                     "name": "[Gear]L85A2 SPEC"
                 },
                 {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK33E A2 Stealth"
-                },
-                {
                     "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
                     "name": "L85A2 DMR"
@@ -233,19 +208,9 @@
                     "name": "L85A2 ACOG"
                 },
                 {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "G3A7 Grenadier"
-                },
-                {
                     "sourceDirectory": "加拿大陆军",
                     "sourceWorkshopId": 0,
                     "name": "C7A2"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "G3A7"
                 },
                 {
                     "sourceDirectory": "英国陆军",
@@ -258,16 +223,6 @@
                     "name": "L86"
                 },
                 {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK33E A2"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK33E A2 Assault"
-                },
-                {
                     "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
                     "name": "L85A2 EARLY"
@@ -276,14 +231,209 @@
                     "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
                     "name": "L85A2 L9A1"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "BRIEFCASE MPK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "DUAL MPK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G418"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G418 INFANTRY"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G418 SEAL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G419 BATTLE RIFLE"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G419 DMR"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G59"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G59A4"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96 GRENADIER"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96C"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96C KSK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "GW 40"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MG96"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MMP-40"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MMP-45"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MMP-9"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP29"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP29M"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP29SD"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MPK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P45"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P45T"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P96"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P96 SOCOM"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG3000"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG3000 [GEAR]"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG419"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG419 THERMAL [PC only]"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG72"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG76"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSP 13"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSP 8"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PVW48"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PVW48 CONCEALED"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PVW48 SEAL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "UKP 45 MATCH"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "UKP 9"
                 }
             ],
             "vehicleConfiguration": [
                 {
                     "type": 1,
-                    "sourceDirectory": "英国陆军",
+                    "sourceDirectory": "步兵战车",
                     "sourceWorkshopId": 0,
-                    "name": "FV 510 Warrior IFV TES(H)"
+                    "name": "M2A3"
                 },
                 {
                     "type": 2,
@@ -293,9 +443,9 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国装备",
+                    "sourceDirectory": "主战坦克",
                     "sourceWorkshopId": 0,
-                    "name": "M1A2 SEPV2 "
+                    "name": "M1A1HC"
                 },
                 {
                     "type": 4,
@@ -311,9 +461,9 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "rhib"
+                    "name": "RHIB US"
                 },
                 {
                     "type": 7,
@@ -355,9 +505,9 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "挪威陆军",
+                    "sourceDirectory": "防空系统",
                     "sourceWorkshopId": 0,
-                    "name": "Nasam 35"
+                    "name": "Patriot PAC-3 German  2"
                 }
             ],
             "skin": {
@@ -529,26 +679,6 @@
                     "name": "spas-12"
                 },
                 {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK USP Tactical"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK USP Reflex Tactical"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK USP Reflex"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK USP"
-                },
-                {
                     "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
                     "name": "L86 ACOG S"
@@ -574,11 +704,6 @@
                     "name": "[Gear]L85A2 SPEC"
                 },
                 {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK33E A2 Stealth"
-                },
-                {
                     "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
                     "name": "L85A2 DMR"
@@ -599,19 +724,9 @@
                     "name": "L85A2 ACOG"
                 },
                 {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "G3A7 Grenadier"
-                },
-                {
                     "sourceDirectory": "加拿大陆军",
                     "sourceWorkshopId": 0,
                     "name": "C7A2"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "G3A7"
                 },
                 {
                     "sourceDirectory": "英国陆军",
@@ -624,16 +739,6 @@
                     "name": "L86"
                 },
                 {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK33E A2"
-                },
-                {
-                    "sourceDirectory": "德国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "HK33E A2 Assault"
-                },
-                {
                     "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
                     "name": "L85A2 EARLY"
@@ -642,6 +747,201 @@
                     "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
                     "name": "L85A2 L9A1"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "BRIEFCASE MPK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "DUAL MPK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G418"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G418 INFANTRY"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G418 SEAL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G419 BATTLE RIFLE"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G419 DMR"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G59"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G59A4"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96 GRENADIER"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96C"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96C KSK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "GW 40"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MG96"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MMP-40"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MMP-45"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MMP-9"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP29"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP29M"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP29SD"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MPK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P45"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P45T"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P96"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P96 SOCOM"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG3000"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG3000 [GEAR]"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG419"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG419 THERMAL [PC only]"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG72"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG76"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSP 13"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSP 8"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PVW48"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PVW48 CONCEALED"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PVW48 SEAL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "UKP 45 MATCH"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "UKP 9"
                 }
             ],
             "vehicleConfiguration": [
@@ -659,15 +959,15 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "德国陆军",
+                    "sourceDirectory": "多管火箭系统",
                     "sourceWorkshopId": 0,
-                    "name": "Leopard 2A6"
+                    "name": "M270 MLRS (UK)"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国装备",
+                    "sourceDirectory": "德国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M142 HIMARS Gray 11"
+                    "name": "Leopard 2A6"
                 },
                 {
                     "type": 4,
@@ -683,9 +983,9 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "rhib"
+                    "name": "RHIB US"
                 },
                 {
                     "type": 7,
