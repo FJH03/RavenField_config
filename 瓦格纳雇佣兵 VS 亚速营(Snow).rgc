@@ -282,7 +282,7 @@
                     "type": 2,
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "S-300 Russian Emplacement 1"
+                    "name": "S-300 Gray Emplacement"
                 }
             ],
             "skin": {
@@ -593,7 +593,7 @@
                     "type": 4,
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "MH-60L DAP"
+                    "name": "M109A6 Paladin"
                 },
                 {
                     "type": 5,
@@ -623,7 +623,7 @@
                     "type": 9,
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "UH-60"
+                    "name": "M109A6 Paladin"
                 },
                 {
                     "type": 10,
