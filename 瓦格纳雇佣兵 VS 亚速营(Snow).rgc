@@ -214,7 +214,7 @@
                     "type": 1,
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "BMP-1P"
+                    "name": "BMP-1AM"
                 },
                 {
                     "type": 2,
@@ -235,10 +235,22 @@
                     "name": "msta"
                 },
                 {
-                    "type": 6,
-                    "sourceDirectory": "",
+                    "type": 5,
+                    "sourceDirectory": "瓦格纳雇佣兵",
                     "sourceWorkshopId": 0,
-                    "name": "rhib"
+                    "name": "msta"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RHIB RU"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "瓦格纳雇佣兵",
+                    "sourceWorkshopId": 0,
+                    "name": "msta"
                 },
                 {
                     "type": 9,
@@ -585,9 +597,9 @@
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "M2 Bradley Woodland revamp fixed SUS"
+                    "name": "T-90A 2"
                 },
                 {
                     "type": 6,
