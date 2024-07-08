@@ -292,6 +292,12 @@
                     "name": "lf_CRAB"
                 },
                 {
+                    "type": 3,
+                    "sourceDirectory": "美国装备",
+                    "sourceWorkshopId": 0,
+                    "name": "M1A2 SEPV2 "
+                },
+                {
                     "type": 4,
                     "sourceDirectory": "德国陆军",
                     "sourceWorkshopId": 0,
@@ -355,7 +361,7 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "美国对北约军援",
+                "sourceDirectory": "脚本",
                 "sourceWorkshopId": 0,
                 "name": "CIA Agent S-B-1"
             }
@@ -659,7 +665,7 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国对北约军援",
+                    "sourceDirectory": "美国装备",
                     "sourceWorkshopId": 0,
                     "name": "M142 HIMARS Desert"
                 },
@@ -727,7 +733,7 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "美国对北约军援",
+                "sourceDirectory": "脚本",
                 "sourceWorkshopId": 0,
                 "name": "CIA Agent S-B-6"
             }
@@ -942,7 +948,7 @@
             ]
         },
         {
-            "sourceDirectory": "美国对北约军援",
+            "sourceDirectory": "脚本",
             "sourceWorkshopId": 0,
             "name": "CIA SAD Multiskin",
             "fields": [

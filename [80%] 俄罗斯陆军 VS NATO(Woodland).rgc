@@ -739,7 +739,7 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国对北约军援",
+                    "sourceDirectory": "美国装备",
                     "sourceWorkshopId": 0,
                     "name": "M142 HIMARS Woodland 1"
                 },
@@ -813,7 +813,7 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "美国对北约军援",
+                "sourceDirectory": "脚本",
                 "sourceWorkshopId": 0,
                 "name": "CIA Agent S-B-6"
             }
@@ -1017,7 +1017,7 @@
             ]
         },
         {
-            "sourceDirectory": "美国对北约军援",
+            "sourceDirectory": "脚本",
             "sourceWorkshopId": 0,
             "name": "CIA SAD Multiskin",
             "fields": [
