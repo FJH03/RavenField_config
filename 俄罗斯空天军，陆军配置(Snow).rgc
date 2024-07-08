@@ -406,12 +406,6 @@
                     "name": "lf_SU-35"
                 },
                 {
-                    "type": 9,
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8"
-                },
-                {
                     "type": 10,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
@@ -865,7 +859,7 @@
                     "type": 9,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "KA60"
+                    "name": "lf_Mi-8"
                 },
                 {
                     "type": 10,
