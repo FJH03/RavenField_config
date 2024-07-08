@@ -385,7 +385,7 @@
                     "type": 2,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "BM-30 Smerch Green 3"
+                    "name": "BM-30 Smerch Desert 3"
                 },
                 {
                     "type": 3,
@@ -415,7 +415,7 @@
                     "type": 8,
                     "sourceDirectory": "俄罗斯空天军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_SU-35"
+                    "name": "lf_SU-25 ROCKET"
                 },
                 {
                     "type": 9,
@@ -453,7 +453,7 @@
             "skin": {
                 "sourceDirectory": "俄罗斯陆军",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD RGF Rifleman"
+                "name": "SQUAD RGF Rifleman (Desert)"
             }
         },
         {
@@ -893,15 +893,15 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "步兵战车",
+                    "sourceDirectory": "瑞典陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M2A3"
+                    "name": "CV9040c"
                 },
                 {
                     "type": 2,
                     "sourceDirectory": "多管火箭系统",
                     "sourceWorkshopId": 0,
-                    "name": "M270 MLRS (French)"
+                    "name": "M270 MLRS (UK)"
                 },
                 {
                     "type": 3,
@@ -935,9 +935,9 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "法国空军",
+                    "sourceDirectory": "美国对北约军援",
                     "sourceWorkshopId": 0,
-                    "name": "Dassault Rafale M"
+                    "name": "F-35B Lightning II  [Stealth]"
                 },
                 {
                     "type": 9,
@@ -969,13 +969,13 @@
                     "type": 2,
                     "sourceDirectory": "防空系统",
                     "sourceWorkshopId": 0,
-                    "name": "Patriot PAC-3 German  2"
+                    "name": "Patriot PAC-3 Desert gg"
                 }
             ],
             "skin": {
                 "sourceDirectory": "脚本",
                 "sourceWorkshopId": 0,
-                "name": "CIA Agent S-B-6"
+                "name": "CIA Agent S-B-1"
             }
         }
     ],
@@ -1100,7 +1100,7 @@
                 },
                 {
                     "id": "RavenFlag",
-                    "serializedValue": "46"
+                    "serializedValue": "41"
                 }
             ]
         },
@@ -1188,9 +1188,9 @@
             ]
         },
         {
-            "sourceDirectory": "法国陆军",
+            "sourceDirectory": "英国陆军",
             "sourceWorkshopId": 0,
-            "name": "Voice Pack: BF1942 [FR]",
+            "name": "SQUAD BAF Voicelines",
             "fields": [
                 {
                     "id": "assignedTeam",
@@ -1225,11 +1225,11 @@
                 },
                 {
                     "id": "iEagleCamoIndex",
-                    "serializedValue": "0"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "iRavenCamoIndex",
-                    "serializedValue": "0"
+                    "serializedValue": "1"
                 }
             ]
         },
@@ -1662,7 +1662,7 @@
         {
             "sourceDirectory": "俄罗斯陆军",
             "sourceWorkshopId": 0,
-            "name": "Squad RGF Multiskin",
+            "name": "Squad RGF Multiskin (DESERT)",
             "fields": [
                 {
                     "id": "playerBool",
