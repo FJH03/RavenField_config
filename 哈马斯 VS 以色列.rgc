@@ -596,9 +596,9 @@
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "MH-60L DAP GUNSHIP"
+                    "name": "AUH-60"
                 },
                 {
                     "type": 5,
@@ -626,9 +626,9 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "UH-60"
+                    "name": "CH-53"
                 },
                 {
                     "type": 10,

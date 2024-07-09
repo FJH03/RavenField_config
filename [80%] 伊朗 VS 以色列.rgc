@@ -175,16 +175,6 @@
                 {
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "AKM-P/S"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-S"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
                     "name": "Makarov"
                 },
                 {
@@ -232,9 +222,9 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "rhib"
+                    "name": "RHIB RU"
                 },
                 {
                     "type": 7,
@@ -552,9 +542,9 @@
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "MH-60L DAP GUNSHIP"
+                    "name": "AUH-60"
                 },
                 {
                     "type": 5,
@@ -564,9 +554,9 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "rhib"
+                    "name": "RHIB US"
                 },
                 {
                     "type": 7,
@@ -582,9 +572,9 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "UH-60"
+                    "name": "CH-53"
                 },
                 {
                     "type": 10,
