@@ -579,13 +579,13 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "美国装备",
+                    "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M142 HIMARS Gray 11"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国装备",
+                    "sourceDirectory": "主战坦克",
                     "sourceWorkshopId": 0,
                     "name": "M1A1U"
                 },
@@ -603,15 +603,9 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "rhib"
-                },
-                {
-                    "type": 7,
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "Attack Boat"
+                    "name": "RHIB US"
                 },
                 {
                     "type": 8,
