@@ -1104,15 +1104,15 @@
             "fields": [
                 {
                     "id": "HealthBlu",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "BalanceBlu",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "MovementSpeedBlu",
-                    "serializedValue": "1.2"
+                    "serializedValue": "1.1"
                 },
                 {
                     "id": "SizeBlu",
@@ -1120,15 +1120,15 @@
                 },
                 {
                     "id": "HealthRed",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "BalanceRed",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "MovementSpeedRed",
-                    "serializedValue": "1.2"
+                    "serializedValue": "1.1"
                 },
                 {
                     "id": "SizeRed",
