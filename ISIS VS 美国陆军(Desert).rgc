@@ -985,15 +985,15 @@
                 },
                 {
                     "id": "HealthRed",
-                    "serializedValue": "180"
+                    "serializedValue": "170"
                 },
                 {
                     "id": "BalanceRed",
-                    "serializedValue": "180"
+                    "serializedValue": "170"
                 },
                 {
                     "id": "MovementSpeedRed",
-                    "serializedValue": "1.3"
+                    "serializedValue": "1.25"
                 },
                 {
                     "id": "SizeRed",
