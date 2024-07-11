@@ -397,7 +397,7 @@
                     "type": 5,
                     "sourceDirectory": "俄罗斯空天军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_SU-25 ROCKET"
+                    "name": "Tu-160"
                 },
                 {
                     "type": 8,
@@ -853,7 +853,7 @@
                     "type": 8,
                     "sourceDirectory": "俄罗斯空天军",
                     "sourceWorkshopId": 0,
-                    "name": "Tu-160"
+                    "name": "lf_SU-25 ROCKET"
                 },
                 {
                     "type": 9,
