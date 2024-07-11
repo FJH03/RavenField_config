@@ -952,7 +952,7 @@
                 },
                 {
                     "id": "RavenFlag",
-                    "serializedValue": "13"
+                    "serializedValue": "-1"
                 }
             ]
         },
@@ -1508,6 +1508,21 @@
                 },
                 {
                     "id": "versionSelected",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RE: Squad Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "-1"
+                },
+                {
+                    "id": "RavenFlag",
                     "serializedValue": "1"
                 }
             ]
