@@ -524,6 +524,12 @@
                     "name": "M1A1HC"
                 },
                 {
+                    "type": 4,
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "AH-6"
+                },
+                {
                     "type": 5,
                     "sourceDirectory": "中国台湾省",
                     "sourceWorkshopId": 0,
@@ -531,9 +537,9 @@
                 },
                 {
                     "type": 6,
-                    "sourceDirectory": "",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "rhib"
+                    "name": "RHIB US"
                 },
                 {
                     "type": 7,
@@ -546,6 +552,12 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "F-16 Falcon  6"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "中国台湾省",
+                    "sourceWorkshopId": 0,
+                    "name": "UH-1D Huey Transport GG"
                 },
                 {
                     "type": 10,

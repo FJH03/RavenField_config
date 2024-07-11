@@ -605,6 +605,12 @@
                     "name": "F-16 Falcon  6"
                 },
                 {
+                    "type": 9,
+                    "sourceDirectory": "日本",
+                    "sourceWorkshopId": 0,
+                    "name": "UH-1J 1 6 1 1"
+                },
+                {
                     "type": 10,
                     "sourceDirectory": "日本",
                     "sourceWorkshopId": 0,
