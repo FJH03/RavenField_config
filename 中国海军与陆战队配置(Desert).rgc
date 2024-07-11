@@ -635,15 +635,15 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "Project Tropical Flags",
+            "name": "RE: Squad Flags",
             "fields": [
                 {
                     "id": "EagleFlag",
-                    "serializedValue": "2"
+                    "serializedValue": "6"
                 },
                 {
                     "id": "RavenFlag",
-                    "serializedValue": "2"
+                    "serializedValue": "5"
                 }
             ]
         },

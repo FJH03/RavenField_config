@@ -1050,21 +1050,6 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "custom flags",
-            "fields": [
-                {
-                    "id": "EagleFlag",
-                    "serializedValue": "27"
-                },
-                {
-                    "id": "RavenFlag",
-                    "serializedValue": "4"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
             "name": "LeMieux's Suppression Mutator",
             "fields": [
                 {
@@ -1665,6 +1650,21 @@
                 {
                     "id": "team",
                     "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RE: Squad Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "8"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "1"
                 }
             ]
         }

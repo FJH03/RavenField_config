@@ -943,21 +943,6 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "custom flags",
-            "fields": [
-                {
-                    "id": "EagleFlag",
-                    "serializedValue": "27"
-                },
-                {
-                    "id": "RavenFlag",
-                    "serializedValue": "27"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
             "name": "LETMS Framework",
             "fields": [
                 {
@@ -1269,6 +1254,21 @@
                 {
                     "id": "versionSelected",
                     "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RE: Squad Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "8"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "7"
                 }
             ]
         }
