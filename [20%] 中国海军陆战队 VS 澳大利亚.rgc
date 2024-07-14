@@ -85,12 +85,12 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "CS/LR4[Gear]"
+                    "name": "QSZ-92G"
                 },
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "CS/LR4 S[Gear]"
+                    "name": "QSZ-92 9mm"
                 },
                 {
                     "sourceDirectory": "中国陆军",
@@ -100,12 +100,12 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "CS/LR4 RDS"
+                    "name": "QBS-09"
                 },
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "CS/LR4"
+                    "name": "QBS-09 Compact"
                 },
                 {
                     "sourceDirectory": "中国陆军",
@@ -130,6 +130,16 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
+                    "name": "CS/LR4 S[Gear]"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "CS/LR4[Gear]"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
                     "name": "DZJ-08"
                 },
                 {
@@ -140,72 +150,7 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QSZ-92G"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QSZ-92 9mm"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QSZ-92 5.8mm"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QSW-06"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBS-09"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBS-09 Compact"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBS-09[Gear]"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95B-1"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 RDS"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 Grenade"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 ACOG"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBB-95"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "PF-89B Tandem Charge"
+                    "name": "PF-89 HEAT"
                 },
                 {
                     "sourceDirectory": "中国陆军",
@@ -215,7 +160,62 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PF-89 HEAT"
+                    "name": "PF-89B Tandem Charge"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBB-95"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "CS/LR4 RDS"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "CS/LR4"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBS-09[Gear]"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ-95-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ-95-1 ACOG"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ-95-1 Grenade"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ-95-1 RDS"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ-95B-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QSW-06"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QSZ-92 5.8mm"
                 },
                 {
                     "sourceDirectory": "中国陆军",
@@ -233,37 +233,31 @@
                     "type": 0,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "TYPE 625"
+                    "name": "CSK-131 .50 WOODLAND"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "ZBD-04A"
+                    "name": "ZBD-05"
                 },
                 {
                     "type": 2,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PHL-16 MLRS Woodland 3 2"
+                    "name": "HQ-9 SAM Navy 1"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "ZTZ-99A Ubran"
+                    "name": "ZTD-05"
                 },
                 {
                     "type": 4,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Z-10W"
-                },
-                {
-                    "type": 5,
-                    "sourceDirectory": "中国空军",
-                    "sourceWorkshopId": 0,
-                    "name": "J20H"
+                    "name": "lf_Z-8J CAS"
                 },
                 {
                     "type": 6,
@@ -272,22 +266,22 @@
                     "name": "RHIB CN"
                 },
                 {
-                    "type": 8,
-                    "sourceDirectory": "中国空军",
+                    "type": 7,
+                    "sourceDirectory": "中国海军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_H-6K"
+                    "name": "Type052D Destroyer(driver use missle)"
                 },
                 {
                     "type": 9,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_Z-8G"
+                    "name": "lf_Z-8J"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "中国陆军",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "CSK-131 HJ-8 WOODLAND"
+                    "name": "ZBL-08"
                 }
             ],
             "turretConfiguration": [
@@ -295,7 +289,7 @@
                     "type": 0,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QZJ-89 8X"
+                    "name": "QZJ-89"
                 },
                 {
                     "type": 1,
@@ -307,13 +301,13 @@
                     "type": 2,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "HQ-9 Woodland Emplacement"
+                    "name": "HQ-9 Navy Emplacement"
                 }
             ],
             "skin": {
-                "sourceDirectory": "中国陆军",
+                "sourceDirectory": "中国海军陆战队",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD PLA Rifleman"
+                "name": "SQUAD PLANMC Rifleman"
             }
         },
         {
@@ -482,9 +476,41 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M24 Suppressor"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M249"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M249 Assault"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M249 Recon"
+                },
+                {
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "M249 Stealth"
                 }
             ],
             "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "re HX60 Woodland"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "usm_pmv"
+                },
                 {
                     "type": 2,
                     "sourceDirectory": "美国军援",
@@ -520,6 +546,12 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "F-16 Falcon  6"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "usm_pmvtransport"
                 }
             ],
             "turretConfiguration": [
@@ -543,9 +575,9 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "",
+                "sourceDirectory": "澳大利亚",
                 "sourceWorkshopId": 0,
-                "name": ""
+                "name": "SQUAD ADF Rifleman"
             }
         }
     ],
@@ -932,7 +964,7 @@
         {
             "sourceDirectory": "中国陆军",
             "sourceWorkshopId": 0,
-            "name": "SQUAD PLA Voicelines",
+            "name": "SQUAD PLANMC Voicelines",
             "fields": [
                 {
                     "id": "assignedTeam",
@@ -941,9 +973,9 @@
             ]
         },
         {
-            "sourceDirectory": "中国陆军",
+            "sourceDirectory": "中国海军陆战队",
             "sourceWorkshopId": 0,
-            "name": "Squad PLA Multiskin",
+            "name": "Squad PLANMC Multiskin",
             "fields": [
                 {
                     "id": "playerBool",
@@ -1080,15 +1112,15 @@
             "fields": [
                 {
                     "id": "HealthBlu",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "BalanceBlu",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "MovementSpeedBlu",
-                    "serializedValue": "1.2"
+                    "serializedValue": "1.1"
                 },
                 {
                     "id": "SizeBlu",
@@ -1266,6 +1298,32 @@
                 {
                     "id": "RavenFlag",
                     "serializedValue": "4"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "澳大利亚",
+            "sourceWorkshopId": 0,
+            "name": "Squad ADF Multiskin",
+            "fields": [
+                {
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "澳大利亚",
+            "sourceWorkshopId": 0,
+            "name": "SQUAD ADF Voicelines",
+            "fields": [
+                {
+                    "id": "assignedTeam",
+                    "serializedValue": "1"
                 }
             ]
         }
