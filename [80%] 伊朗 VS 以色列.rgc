@@ -274,7 +274,7 @@
             "skin": {
                 "sourceDirectory": "伊朗",
                 "sourceWorkshopId": 0,
-                "name": "Iranian Army"
+                "name": "Iran Army Riflemen"
             }
         },
         {
@@ -532,7 +532,7 @@
                     "type": 2,
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M109A6 Paladin"
+                    "name": "M142 HIMARS Desert"
                 },
                 {
                     "type": 3,
@@ -1286,6 +1286,21 @@
                 {
                     "id": "crosshair",
                     "serializedValue": "False"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "伊朗",
+            "sourceWorkshopId": 0,
+            "name": "Iran Army Multiskin",
+            "fields": [
+                {
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "0"
                 }
             ]
         }
