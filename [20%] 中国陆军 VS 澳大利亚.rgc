@@ -275,7 +275,7 @@
                     "type": 8,
                     "sourceDirectory": "中国空军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_JH-7 1"
+                    "name": "lf_H-6K"
                 },
                 {
                     "type": 9,
@@ -498,6 +498,12 @@
                     "name": "M1A1 AIM"
                 },
                 {
+                    "type": 4,
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "AH-6"
+                },
+                {
                     "type": 6,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
@@ -664,7 +670,7 @@
                 },
                 {
                     "id": "RavenFlag",
-                    "serializedValue": "7"
+                    "serializedValue": "-1"
                 }
             ]
         },
@@ -1255,7 +1261,7 @@
             "fields": [
                 {
                     "id": "EagleFlag",
-                    "serializedValue": "0"
+                    "serializedValue": "-1"
                 },
                 {
                     "id": "RavenFlag",
