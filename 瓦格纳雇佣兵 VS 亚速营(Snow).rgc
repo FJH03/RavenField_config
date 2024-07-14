@@ -573,9 +573,9 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "北约对乌军援",
+                    "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "Marder 1A5 IFV"
+                    "name": "M113A1 TOW Woodland"
                 },
                 {
                     "type": 2,
@@ -593,7 +593,7 @@
                     "type": 4,
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M109A6 Paladin"
+                    "name": "AH-6"
                 },
                 {
                     "type": 5,
@@ -617,7 +617,7 @@
                     "type": 9,
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M109A6 Paladin"
+                    "name": "M1151 .50 light woodland"
                 },
                 {
                     "type": 10,
