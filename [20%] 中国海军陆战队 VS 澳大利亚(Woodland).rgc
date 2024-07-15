@@ -496,6 +496,21 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M249 Stealth"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "F90"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "F90 DMR"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "F90 Tactical"
                 }
             ],
             "vehicleConfiguration": [
@@ -530,6 +545,12 @@
                     "name": "AH-6"
                 },
                 {
+                    "type": 5,
+                    "sourceDirectory": "美国军援",
+                    "sourceWorkshopId": 0,
+                    "name": "F-16 Falcon  6"
+                },
+                {
                     "type": 6,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
@@ -545,7 +566,7 @@
                     "type": 8,
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "F-16 Falcon  6"
+                    "name": "F-18"
                 },
                 {
                     "type": 10,
