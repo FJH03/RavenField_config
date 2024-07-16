@@ -403,11 +403,6 @@
                     "name": "M24"
                 },
                 {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A2"
-                },
-                {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "Bunkerfaust 3R1"
@@ -425,57 +420,7 @@
                 {
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M16A2 ACOG"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A2 M203"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A2 Semi"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A2 Semi M203"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A3"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A3 CCO"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A4 DMR"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A4 M203"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
                     "name": "Mk 12 Mod 0"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A4"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M16A4 ACOG"
                 },
                 {
                     "sourceDirectory": "美国军援",
@@ -510,25 +455,50 @@
                 {
                     "sourceDirectory": "澳大利亚",
                     "sourceWorkshopId": 0,
-                    "name": "F90"
+                    "name": "Thales F90"
                 },
                 {
                     "sourceDirectory": "澳大利亚",
                     "sourceWorkshopId": 0,
-                    "name": "F90 DMR"
+                    "name": "Thales F90 (GL)"
                 },
                 {
                     "sourceDirectory": "澳大利亚",
                     "sourceWorkshopId": 0,
-                    "name": "F90 Tactical"
+                    "name": "Thales F90 (Marksman)"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "Thales F90 (Smart Scope)"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "Thales F90 (Tact Thermal)"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "Thales F90 (Tactical)"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "Thales F90 (Thermal)"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "AUG A3 (GL)"
                 }
             ],
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "澳大利亚",
+                    "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "re HX60 DE"
+                    "name": "M113A1 TOW Desert"
                 },
                 {
                     "type": 1,
