@@ -233,7 +233,7 @@
                     "type": 0,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "CSK-131 .50 WOODLAND"
+                    "name": "CSK-131 .50 DE"
                 },
                 {
                     "type": 1,
@@ -307,7 +307,7 @@
             "skin": {
                 "sourceDirectory": "中国海军陆战队",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD PLANMC Rifleman"
+                "name": "SQUAD PLANMC Rifleman (Desert)"
             }
         },
         {
@@ -518,7 +518,7 @@
                     "type": 0,
                     "sourceDirectory": "澳大利亚",
                     "sourceWorkshopId": 0,
-                    "name": "re HX60 Woodland"
+                    "name": "re HX60 DE"
                 },
                 {
                     "type": 1,
@@ -530,7 +530,7 @@
                     "type": 2,
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M142 HIMARS Woodland 1"
+                    "name": "M142 HIMARS Desert"
                 },
                 {
                     "type": 3,
@@ -859,11 +859,11 @@
                 },
                 {
                     "id": "iEagleCamoIndex",
-                    "serializedValue": "0"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "iRavenCamoIndex",
-                    "serializedValue": "0"
+                    "serializedValue": "1"
                 }
             ]
         },
@@ -987,7 +987,7 @@
         {
             "sourceDirectory": "中国海军陆战队",
             "sourceWorkshopId": 0,
-            "name": "Squad PLANMC Multiskin",
+            "name": "Squad PLANMC Multiskin (DESERT)",
             "fields": [
                 {
                     "id": "playerBool",
