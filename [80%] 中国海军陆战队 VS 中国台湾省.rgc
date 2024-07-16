@@ -226,6 +226,16 @@
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "WPF-89-1 Thermobaric"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QW2 Yellow"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QW2 Green"
                 }
             ],
             "vehicleConfiguration": [
@@ -510,12 +520,6 @@
                     "sourceDirectory": "中国台湾省",
                     "sourceWorkshopId": 0,
                     "name": "M60A3 TTS"
-                },
-                {
-                    "type": 2,
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M109A6 Paladin"
                 },
                 {
                     "type": 3,

@@ -226,6 +226,16 @@
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "WPF-89-1 Thermobaric"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QW2 Yellow"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QW2 Green"
                 }
             ],
             "vehicleConfiguration": [
@@ -723,7 +733,7 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "主战坦克",
                     "sourceWorkshopId": 0,
                     "name": "M1A2 SEPV2 (TUSK1)"
                 },
