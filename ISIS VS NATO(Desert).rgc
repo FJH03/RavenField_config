@@ -752,6 +752,11 @@
                     "sourceDirectory": "德国陆军",
                     "sourceWorkshopId": 0,
                     "name": "UKP 9"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK433"
                 }
             ],
             "vehicleConfiguration": [
