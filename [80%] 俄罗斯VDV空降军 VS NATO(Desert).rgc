@@ -668,11 +668,6 @@
                     "name": "L86"
                 },
                 {
-                    "sourceDirectory": "加拿大陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "C7A2"
-                },
-                {
                     "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
                     "name": "L85A2 EARLY"
@@ -881,6 +876,36 @@
                     "sourceDirectory": "德国陆军",
                     "sourceWorkshopId": 0,
                     "name": "HK433"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 ACOG"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 ACOG S"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 C79"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 EO"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 EO S"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 TAC"
                 }
             ],
             "vehicleConfiguration": [
