@@ -916,6 +916,12 @@
                     "name": "RHIB US"
                 },
                 {
+                    "type": 7,
+                    "sourceDirectory": "美国海军陆战队",
+                    "sourceWorkshopId": 0,
+                    "name": "LAVAD Woodland"
+                },
+                {
                     "type": 8,
                     "sourceDirectory": "美国空军",
                     "sourceWorkshopId": 0,

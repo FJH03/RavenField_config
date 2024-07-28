@@ -907,13 +907,19 @@
                     "type": 5,
                     "sourceDirectory": "美国空军",
                     "sourceWorkshopId": 0,
-                    "name": "B-2 Spirit [Bunker Buster]"
+                    "name": "B-2 Spirit [Carpet Bombing]"
                 },
                 {
                     "type": 6,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "RHIB US"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "美国海军陆战队",
+                    "sourceWorkshopId": 0,
+                    "name": "LAVAD Woodland"
                 },
                 {
                     "type": 8,
