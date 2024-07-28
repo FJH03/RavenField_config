@@ -282,10 +282,16 @@
                     "name": "RHIB CN"
                 },
                 {
+                    "type": 7,
+                    "sourceDirectory": "中国海军陆战队",
+                    "sourceWorkshopId": 0,
+                    "name": "ZBD-05"
+                },
+                {
                     "type": 8,
                     "sourceDirectory": "中国空军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_JH-7 1"
+                    "name": "lf_H-6K"
                 },
                 {
                     "type": 9,

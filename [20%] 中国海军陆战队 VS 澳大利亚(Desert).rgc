@@ -255,7 +255,7 @@
                     "type": 2,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "HQ-9 SAM Navy 1"
+                    "name": "PHL-16 MLRS Navy 3 2"
                 },
                 {
                     "type": 3,
@@ -270,6 +270,12 @@
                     "name": "lf_Z-8J CAS"
                 },
                 {
+                    "type": 5,
+                    "sourceDirectory": "中国海军",
+                    "sourceWorkshopId": 0,
+                    "name": "lf_FC31"
+                },
+                {
                     "type": 6,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
@@ -280,6 +286,12 @@
                     "sourceDirectory": "中国海军",
                     "sourceWorkshopId": 0,
                     "name": "Type052D Destroyer(driver use missle)"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "中国海军",
+                    "sourceWorkshopId": 0,
+                    "name": "J-15"
                 },
                 {
                     "type": 9,
