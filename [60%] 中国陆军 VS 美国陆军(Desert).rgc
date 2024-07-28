@@ -282,10 +282,16 @@
                     "name": "RHIB CN"
                 },
                 {
+                    "type": 7,
+                    "sourceDirectory": "中国海军陆战队",
+                    "sourceWorkshopId": 0,
+                    "name": "ZBD-05"
+                },
+                {
                     "type": 8,
                     "sourceDirectory": "中国空军",
                     "sourceWorkshopId": 0,
-                    "name": "J-15"
+                    "name": "lf_JH-7 1"
                 },
                 {
                     "type": 9,
@@ -768,10 +774,16 @@
                     "name": "RHIB US"
                 },
                 {
+                    "type": 7,
+                    "sourceDirectory": "美国海军陆战队",
+                    "sourceWorkshopId": 0,
+                    "name": "LAVAD DESERT"
+                },
+                {
                     "type": 8,
                     "sourceDirectory": "美国空军",
                     "sourceWorkshopId": 0,
-                    "name": "F-16C Viper"
+                    "name": "A-10C Thunderbolt II"
                 },
                 {
                     "type": 9,

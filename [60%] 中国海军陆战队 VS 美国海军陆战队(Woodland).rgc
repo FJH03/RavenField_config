@@ -270,6 +270,12 @@
                     "name": "lf_Z-8J CAS"
                 },
                 {
+                    "type": 5,
+                    "sourceDirectory": "中国海军",
+                    "sourceWorkshopId": 0,
+                    "name": "lf_FC31"
+                },
+                {
                     "type": 6,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
@@ -280,6 +286,12 @@
                     "sourceDirectory": "中国海军",
                     "sourceWorkshopId": 0,
                     "name": "Type052D Destroyer(driver use missle)"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "中国海军",
+                    "sourceWorkshopId": 0,
+                    "name": "J-15"
                 },
                 {
                     "type": 9,
@@ -763,9 +775,9 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "美国海军",
+                    "sourceDirectory": "美国空军",
                     "sourceWorkshopId": 0,
-                    "name": "FA-18E Super Hornet"
+                    "name": "B-2 Spirit [Bunker Buster]"
                 },
                 {
                     "type": 9,
