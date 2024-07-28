@@ -395,9 +395,9 @@
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "俄罗斯海军",
                     "sourceWorkshopId": 0,
-                    "name": "BTR-ZD"
+                    "name": "SU-75 Checkmate stov"
                 },
                 {
                     "type": 6,
@@ -410,6 +410,12 @@
                     "sourceDirectory": "俄罗斯海军",
                     "sourceWorkshopId": 0,
                     "name": "22800"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "俄罗斯海军",
+                    "sourceWorkshopId": 0,
+                    "name": "Su-33"
                 },
                 {
                     "type": 9,
