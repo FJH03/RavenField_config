@@ -400,6 +400,12 @@
                     "name": "lf_mi-28"
                 },
                 {
+                    "type": 5,
+                    "sourceDirectory": "俄罗斯空天军",
+                    "sourceWorkshopId": 0,
+                    "name": "SU-75 Checkmate"
+                },
+                {
                     "type": 6,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
