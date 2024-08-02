@@ -1413,6 +1413,12 @@
                     "serializedValue": "False"
                 }
             ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "VehicleDamageAudioManager",
+            "fields": []
         }
     ],
     "playerHasAllWeapons": false
