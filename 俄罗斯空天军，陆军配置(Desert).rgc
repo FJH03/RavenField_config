@@ -370,12 +370,6 @@
             ],
             "vehicleConfiguration": [
                 {
-                    "type": 0,
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "BTR-82"
-                },
-                {
                     "type": 1,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
@@ -850,6 +844,12 @@
                     "name": "RHIB RU"
                 },
                 {
+                    "type": 7,
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "BMP-2M"
+                },
+                {
                     "type": 8,
                     "sourceDirectory": "俄罗斯空天军",
                     "sourceWorkshopId": 0,
@@ -865,7 +865,7 @@
                     "type": 10,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "BMP-2M"
+                    "name": "BTR-82"
                 }
             ],
             "turretConfiguration": [
