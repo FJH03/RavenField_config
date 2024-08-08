@@ -163,16 +163,6 @@
                     "name": "AKM-P/S"
                 },
                 {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "SL-DEFENDER"
-                },
-                {
-                    "sourceDirectory": "伊朗",
-                    "sourceWorkshopId": 0,
-                    "name": "G3A3"
-                },
-                {
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "Makarov"
@@ -181,6 +171,41 @@
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
                     "name": "Makarov Suppressed"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3A3"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3A3 Acog"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "KH2002"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "KH2002 K"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "KH2002 K S"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "KH2002 P"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "AKM-S"
                 }
             ],
             "vehicleConfiguration": [
