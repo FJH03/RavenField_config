@@ -180,11 +180,6 @@
                 {
                     "sourceDirectory": "伊朗",
                     "sourceWorkshopId": 0,
-                    "name": "G3A3 Acog"
-                },
-                {
-                    "sourceDirectory": "伊朗",
-                    "sourceWorkshopId": 0,
                     "name": "KH2002"
                 },
                 {
@@ -201,6 +196,51 @@
                     "sourceDirectory": "伊朗",
                     "sourceWorkshopId": 0,
                     "name": "KH2002 P"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3A3 DM ZF1"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3A3 Drum Mag"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3A3 ZF1"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3A3 Z-Point"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3KA4"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3KA4 Z-Point"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "G3KA4 Z-Point"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "HK51"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "AKM-P/S"
                 },
                 {
                     "sourceDirectory": "苏俄装备",
