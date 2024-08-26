@@ -204,7 +204,7 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "苏俄装备",
+                    "sourceDirectory": "主战坦克",
                     "sourceWorkshopId": 0,
                     "name": "T-80BV"
                 },
@@ -687,6 +687,12 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "MATV .50"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "美国海军陆战队",
+                    "sourceWorkshopId": 0,
+                    "name": "M1A2 SEPV2 "
                 },
                 {
                     "type": 3,

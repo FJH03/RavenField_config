@@ -529,9 +529,9 @@
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "中国台湾省",
+                    "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M60A3 TTS"
+                    "name": "M1151 tow woodland"
                 },
                 {
                     "type": 2,
@@ -541,9 +541,9 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "主战坦克",
+                    "sourceDirectory": "中国台湾省",
                     "sourceWorkshopId": 0,
-                    "name": "M1A1HC"
+                    "name": "M60A3 TTS"
                 },
                 {
                     "type": 4,
