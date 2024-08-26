@@ -941,9 +941,9 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "德国陆军",
+                    "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Leopard 2A6"
+                    "name": "Challenger II"
                 },
                 {
                     "type": 4,
