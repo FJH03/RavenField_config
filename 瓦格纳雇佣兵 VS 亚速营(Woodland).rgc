@@ -226,13 +226,13 @@
                     "type": 3,
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "T-90A 1"
+                    "name": "T-72B3(2016) Relikt"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "瓦格纳雇佣兵",
+                    "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "msta"
+                    "name": "T-90A 1"
                 },
                 {
                     "type": 5,
@@ -262,7 +262,7 @@
                     "type": 10,
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "T-80BV Wagner"
+                    "name": "T-72B3(2016) Z"
                 }
             ],
             "turretConfiguration": [
