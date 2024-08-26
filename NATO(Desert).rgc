@@ -473,9 +473,9 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "主战坦克",
+                    "sourceDirectory": "英国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M1A1HC"
+                    "name": "Challenger II"
                 },
                 {
                     "type": 4,
