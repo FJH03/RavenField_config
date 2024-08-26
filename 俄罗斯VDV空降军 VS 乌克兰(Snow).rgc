@@ -382,10 +382,16 @@
                     "name": "BTR-D .50"
                 },
                 {
-                    "type": 3,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "type": 2,
+                    "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "T-72 B3 NEW"
+                    "name": "T-80UK"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "T-80BVM"
                 },
                 {
                     "type": 4,
@@ -750,9 +756,9 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "苏俄装备",
+                    "sourceDirectory": "乌克兰",
                     "sourceWorkshopId": 0,
-                    "name": "T-80BV +"
+                    "name": "T-64BM Bulat"
                 },
                 {
                     "type": 4,
