@@ -382,10 +382,16 @@
                     "name": "BTR-D .50"
                 },
                 {
-                    "type": 3,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "type": 2,
+                    "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "T-72 B3 NEW"
+                    "name": "T-80UK"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "T-80BVM"
                 },
                 {
                     "type": 4,
@@ -866,6 +872,12 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "MATV .50 WOODLAND"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "美国海军陆战队",
+                    "sourceWorkshopId": 0,
+                    "name": "M1A2 SEPV2 "
                 },
                 {
                     "type": 3,
