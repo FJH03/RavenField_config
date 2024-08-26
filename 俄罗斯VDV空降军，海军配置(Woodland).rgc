@@ -389,7 +389,7 @@
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
                     "name": "T-80U"
                 },
@@ -809,13 +809,13 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
                     "name": "T-80UK"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
                     "name": "T-80BVM"
                 },
