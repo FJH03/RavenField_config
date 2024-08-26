@@ -371,10 +371,16 @@
                     "name": "Tiger-M 5seat CROWS DE"
                 },
                 {
+                    "type": 2,
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "T-80BVM(2017)"
+                },
+                {
                     "type": 3,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_t80"
+                    "name": "T-80BVM(2017) Relikt"
                 },
                 {
                     "type": 4,
