@@ -370,10 +370,16 @@
             ],
             "vehicleConfiguration": [
                 {
-                    "type": 1,
+                    "type": 0,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
                     "name": "Tiger-M 5seat CROWS DE"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "BMPT"
                 },
                 {
                     "type": 2,
@@ -817,7 +823,7 @@
                     "type": 1,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "LETMS BMPT"
+                    "name": "BMPT Relikt"
                 },
                 {
                     "type": 2,

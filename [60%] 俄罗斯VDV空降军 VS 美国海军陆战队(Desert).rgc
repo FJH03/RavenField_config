@@ -383,21 +383,21 @@
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
                     "name": "T-80UK"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
                     "name": "T-80BVM"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8 CAS VDV"
+                    "name": "ka 52 Z"
                 },
                 {
                     "type": 5,
