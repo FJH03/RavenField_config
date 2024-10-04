@@ -280,9 +280,9 @@
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "恐怖分子势力",
+                    "sourceDirectory": "哈马斯",
                     "sourceWorkshopId": 0,
-                    "name": "S8 rocket technical 2"
+                    "name": "Plane"
                 },
                 {
                     "type": 5,
@@ -304,9 +304,9 @@
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "恐怖分子势力",
+                    "sourceDirectory": "哈马斯",
                     "sourceWorkshopId": 0,
-                    "name": "S8 rocket technical 2"
+                    "name": "Plane"
                 },
                 {
                     "type": 10,
@@ -577,6 +577,11 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M16A4 ACOG"
+                },
+                {
+                    "sourceDirectory": "以色列",
+                    "sourceWorkshopId": 0,
+                    "name": "IMIGalatz"
                 }
             ],
             "vehicleConfiguration": [
@@ -608,7 +613,7 @@
                     "type": 4,
                     "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "AUH-60"
+                    "name": "Attack Helicopter 1"
                 },
                 {
                     "type": 5,
@@ -630,9 +635,9 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "F-16 Falcon  6"
+                    "name": "F-15E Strike Eagle"
                 },
                 {
                     "type": 9,

@@ -243,16 +243,6 @@
                     "name": "M16A1"
                 },
                 {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "Makarov"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "Makarov Suppressed"
-                },
-                {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "RPG-7 105mm HEAT Tandem"
@@ -261,46 +251,6 @@
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "RPG-7 105mm Thermobaric"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "<color=#D9D919>AKM-DP/S“RSNDM”</color>"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "<color=#D9D919>AKM-DP“RSNDM”</color>"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-K"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-K/S"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-P"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-P/S"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-S"
                 }
             ],
             "vehicleConfiguration": [
@@ -627,6 +577,11 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M16A4 ACOG"
+                },
+                {
+                    "sourceDirectory": "以色列",
+                    "sourceWorkshopId": 0,
+                    "name": "IMIGalatz"
                 }
             ],
             "vehicleConfiguration": [
@@ -658,7 +613,7 @@
                     "type": 4,
                     "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "AUH-60"
+                    "name": "Attack Helicopter 1"
                 },
                 {
                     "type": 5,
@@ -680,9 +635,9 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "F-16 Falcon  6"
+                    "name": "F-15SG Strike Eagle [Pirates]"
                 },
                 {
                     "type": 9,

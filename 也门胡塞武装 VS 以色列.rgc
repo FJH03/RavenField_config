@@ -513,6 +513,11 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M16A4 ACOG"
+                },
+                {
+                    "sourceDirectory": "以色列",
+                    "sourceWorkshopId": 0,
+                    "name": "IMIGalatz"
                 }
             ],
             "vehicleConfiguration": [
@@ -544,7 +549,7 @@
                     "type": 4,
                     "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "AUH-60"
+                    "name": "Attack Helicopter 1"
                 },
                 {
                     "type": 5,
@@ -566,9 +571,9 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "美国军援",
+                    "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "F-16 Falcon  6"
+                    "name": "F-15SG Strike Eagle [Pirates]"
                 },
                 {
                     "type": 9,
