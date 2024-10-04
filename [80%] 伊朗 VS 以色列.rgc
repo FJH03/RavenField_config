@@ -231,6 +231,11 @@
                     "sourceDirectory": "伊朗",
                     "sourceWorkshopId": 0,
                     "name": "HK51"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "AKM-P/S"
                 }
             ],
             "vehicleConfiguration": [
