@@ -1036,12 +1036,6 @@
                     "name": "EC655"
                 },
                 {
-                    "type": 5,
-                    "sourceDirectory": "美国对北约军援",
-                    "sourceWorkshopId": 0,
-                    "name": "F-35A Lightning II  [Stealth]"
-                },
-                {
                     "type": 6,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
