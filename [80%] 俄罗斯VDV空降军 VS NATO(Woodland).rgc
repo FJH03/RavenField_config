@@ -1,0 +1,1737 @@
+﻿{
+    "teamInfo": [
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "F1 FRAG"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RGD-5 FRAG"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RGN FRAG"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RGO FRAG"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "SVDS"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "SV-98"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Attack Drone"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Bomb Drone"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Counter Drone Gun"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Drone Remote"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Fighter Drone"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M32 MGL Flechette"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M32 MGL High Explosive"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M32 MGL LVG"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M32 MGL Slug"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RPG-7"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RPG-7 105mm HEAT Tandem"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RPG-7 105mm Thermobaric"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RPG-7 40mm Fragmentation"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "SA-18 Igla AA"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SMOKE GRENADE"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "C4"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SPEARHEAD"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP-443 Flashlight"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "FF1"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP-443"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PP-19-01 Vityaz"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PP-19 Bizon"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "T-5000"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Saiga12"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Saiga12-a"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Saiga12-b"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Saiga12-c"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Saiga12-d"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Saiga12-e"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Saiga12-f"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "RPG-26"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "SV-98[Gear]"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "SVDS [Gear]"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "T-5000[Gear]"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PKP Pecheneg"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-74"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-74 GP-25"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-74m"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-74m 1P78"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-74m ACOG"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-74m EoTech"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-74m GP-25"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-74m Kobra"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AKS-74"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AKS-74 PSO-1"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AKS-74N"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AKS-74u"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AKS-74u (Gear)"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AKS-74u Extended Mag"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AKS-74u Suppressed"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AKS-74u UB"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P78"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P78 STEALTH"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87 STEALTH"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87+1P90"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87+1P90 STEALTH"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 GRIP"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 GRIP STEALTH"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 KOBRA"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 KOBRA STEALTH"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 PKAS"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 PKAS STEALTH"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceWorkshopId": 0,
+                    "name": "KAMAZ-4386"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceWorkshopId": 0,
+                    "name": "BTR-D .50"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceWorkshopId": 0,
+                    "name": "T-80UK"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceWorkshopId": 0,
+                    "name": "T-80BVM"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceWorkshopId": 0,
+                    "name": "ka 52 Z"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "俄罗斯海军",
+                    "sourceWorkshopId": 0,
+                    "name": "SU-75 Checkmate stov"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RHIB RU"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "俄罗斯海军",
+                    "sourceWorkshopId": 0,
+                    "name": "22800"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "俄罗斯海军",
+                    "sourceWorkshopId": 0,
+                    "name": "Su-33"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "lf_Mi-8 VDV"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceWorkshopId": 0,
+                    "name": "BMD-4M"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "kord"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "kornet"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "2B14"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "俄罗斯VDV空降军",
+                "sourceWorkshopId": 0,
+                "name": "SQUAD VDV Rifleman"
+            }
+        },
+        {
+            "availableWeapons": [
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L115"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L115(8X Scope)"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L115(8X Scope)/S"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L115-S"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M26A1 FRAG"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M67 FRAG"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M68 FRAG"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Attack Drone"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Bomb Drone"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Counter Drone Gun"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Drone Remote"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Fighter Drone"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Starstreak HVM-II"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Panzerfaust 3R1 Tandem"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Panzerfaust 3R1"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M32 MGL Slug"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M32 MGL LVG"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M32 MGL High Explosive"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M32 MGL Flechette"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M136 AT4 HE Dual Charge"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "M136 AT4 ER"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "Bunkerfaust 3R1"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "WRENCH"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "AMMO BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "MEDIC BAG"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SMOKE GRENADE"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "C4"
+                },
+                {
+                    "sourceDirectory": "",
+                    "sourceWorkshopId": 0,
+                    "name": "SPEARHEAD"
+                },
+                {
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "FF1"
+                },
+                {
+                    "sourceDirectory": "意大利陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "M1014"
+                },
+                {
+                    "sourceDirectory": "意大利陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "M1014 Tactical"
+                },
+                {
+                    "sourceDirectory": "意大利陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "spas-12"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "[Gear]L85A2 SPEC"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "[Gear]L86 ACOG S"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L85A2 ACOG S"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L85A2 SPEC"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L86 ACOG S"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L85A2 DMR"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "[Gear]L85A2 DMR"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L86 L9A1"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L85A2 ACOG"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L85A2"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L86"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L85A2 EARLY"
+                },
+                {
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "L85A2 L9A1"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "BRIEFCASE MPK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "DUAL MPK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G418"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G418 INFANTRY"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G418 SEAL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G419 BATTLE RIFLE"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G419 DMR"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G59"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G59A4"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96 GRENADIER"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96C"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "G96C KSK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "GW 40"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MG96"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MMP-40"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MMP-45"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MMP-9"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP29"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP29M"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MP29SD"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MPK"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P45"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P45T"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P96"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P96 SOCOM"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG3000"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG3000 [GEAR]"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG419"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG419 THERMAL [PC only]"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG72"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSG76"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSP 13"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PSP 8"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PVW48"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PVW48 CONCEALED"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PVW48 SEAL"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "UKP 45 MATCH"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "UKP 9"
+                },
+                {
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HK433"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 ACOG"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 ACOG S"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 C79"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 EO"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 EO S"
+                },
+                {
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "C8A3 TAC"
+                }
+            ],
+            "vehicleConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "加拿大陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "LAV-6"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "瑞典陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "CV9040c"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "多管火箭系统",
+                    "sourceWorkshopId": 0,
+                    "name": "M270 MLRS (UK)"
+                },
+                {
+                    "type": 3,
+                    "sourceDirectory": "英国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Challenger II"
+                },
+                {
+                    "type": 4,
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "EC655"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "英国空军",
+                    "sourceWorkshopId": 0,
+                    "name": "AV-8B Harrier II"
+                },
+                {
+                    "type": 6,
+                    "sourceDirectory": "现代战争必装",
+                    "sourceWorkshopId": 0,
+                    "name": "RHIB US"
+                },
+                {
+                    "type": 7,
+                    "sourceDirectory": "英国海军",
+                    "sourceWorkshopId": 0,
+                    "name": "HMS Jervis"
+                },
+                {
+                    "type": 8,
+                    "sourceDirectory": "美国对北约军援",
+                    "sourceWorkshopId": 0,
+                    "name": "F-35B Lightning II  [Stealth]"
+                },
+                {
+                    "type": 9,
+                    "sourceDirectory": "美国对北约军援",
+                    "sourceWorkshopId": 0,
+                    "name": "Chinook"
+                },
+                {
+                    "type": 10,
+                    "sourceDirectory": "德国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Boxer Woodland"
+                }
+            ],
+            "turretConfiguration": [
+                {
+                    "type": 0,
+                    "sourceDirectory": "法国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AAN F1"
+                },
+                {
+                    "type": 1,
+                    "sourceDirectory": "法国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Milan"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "防空系统",
+                    "sourceWorkshopId": 0,
+                    "name": "Patriot PAC-3 German  2"
+                }
+            ],
+            "skin": {
+                "sourceDirectory": "脚本",
+                "sourceWorkshopId": 0,
+                "name": "CIA Agent S-B-7"
+            }
+        }
+    ],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "CROSSHAIR",
+            "fields": [
+                {
+                    "id": "red",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "green",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "blue",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "alpha",
+                    "serializedValue": "100"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Team Voices (<color=blue>Eagle</color>)",
+            "fields": [
+                {
+                    "id": "Channels",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "intervalBetwwenKillSounds",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "volume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "announcerVolume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "AffectsPlayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doKillReactions",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doAnnouncerVoices",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "TURRET AIMING ENHANCED",
+            "fields": [
+                {
+                    "id": "fMaxTurnSpeed",
+                    "serializedValue": "150"
+                },
+                {
+                    "id": "fRaycastDistance",
+                    "serializedValue": "2000"
+                },
+                {
+                    "id": "fFactor",
+                    "serializedValue": "140"
+                },
+                {
+                    "id": "fSmooth",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "fDistanceUp",
+                    "serializedValue": "4.44"
+                },
+                {
+                    "id": "fDistanceAway",
+                    "serializedValue": "12.5"
+                },
+                {
+                    "id": "fCamDepthSmooth",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "iScopeSightUp",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "iScopeFovUp",
+                    "serializedValue": "1.2"
+                },
+                {
+                    "id": "bUseMaxTurnSpeed",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bEnableCommander",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "custom flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "-1"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "31"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Team Voices (<color=red>Raven</color>)",
+            "fields": [
+                {
+                    "id": "Channels",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "intervalBetwwenKillSounds",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "volume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "announcerVolume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "AffectsPlayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doKillReactions",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doAnnouncerVoices",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "脚本",
+            "sourceWorkshopId": 0,
+            "name": "CIA SAD Multiskin",
+            "fields": [
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "波兰陆军",
+            "sourceWorkshopId": 0,
+            "name": "Poland Team Voice Pack",
+            "fields": [
+                {
+                    "id": "assignedTeam",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "LETMS Framework",
+            "fields": [
+                {
+                    "id": "bShowHud",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bRicochet",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bTracker",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bMuteRepair",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "bEnableDebug",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "iEagleCamoIndex",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "iRavenCamoIndex",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Person's MStats",
+            "fields": [
+                {
+                    "id": "HealthBlu",
+                    "serializedValue": "130"
+                },
+                {
+                    "id": "BalanceBlu",
+                    "serializedValue": "130"
+                },
+                {
+                    "id": "MovementSpeedBlu",
+                    "serializedValue": "1.1"
+                },
+                {
+                    "id": "SizeBlu",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "HealthRed",
+                    "serializedValue": "150"
+                },
+                {
+                    "id": "BalanceRed",
+                    "serializedValue": "150"
+                },
+                {
+                    "id": "MovementSpeedRed",
+                    "serializedValue": "1.2"
+                },
+                {
+                    "id": "SizeRed",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "HealthCustom",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "BalanceCustom",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "MovementSpeedCustom",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "SizeCustom",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "customName",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "ChangeStatsBlu",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ChangeHealthBlu",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ChangeBalanceBlu",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ChangeMovementSpeedBlu",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ChangeSizeBlu",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "ChangeStatsRed",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ChangeHealthRed",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ChangeBalanceRed",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ChangeMovementSpeedRed",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ChangeSizeRed",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "RegenBlu",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "RegenRed",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "RegenCustom",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "UnlimitedBalanceCustom",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "UnlimitedBalanceRed",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "UnlimitedBalanceBlu",
+                    "serializedValue": "False"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Bot Handling Mutator",
+            "fields": [
+                {
+                    "id": "ravenload",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "eagleload",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "ravenallseeing",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "eagleallseeing",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ravenpara",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "eaglepara",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Day & Night Cycle System",
+            "fields": [
+                {
+                    "id": "SecondPerDay",
+                    "serializedValue": "1440"
+                },
+                {
+                    "id": "fogStartDistance",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "fogEndDistance",
+                    "serializedValue": "1500"
+                },
+                {
+                    "id": "fogDensity",
+                    "serializedValue": "0.004"
+                },
+                {
+                    "id": "ambientIntensity",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "reflectionIntensity",
+                    "serializedValue": "0.3"
+                },
+                {
+                    "id": "MorningTime",
+                    "serializedValue": "9"
+                },
+                {
+                    "id": "NoonTime",
+                    "serializedValue": "13"
+                },
+                {
+                    "id": "DuskTime",
+                    "serializedValue": "18"
+                },
+                {
+                    "id": "NightTime",
+                    "serializedValue": "22"
+                },
+                {
+                    "id": "CurrentHour",
+                    "serializedValue": "14"
+                },
+                {
+                    "id": "CurrentMinute",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "CurrentSecond",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "haloStrength",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "reflectionBounces",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "skyRotation",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bIsCycle",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bFog",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "bSun",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bMoon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bControledReflectionProber",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bControlAllLights",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "LeMieux's Suppression Mutator",
+            "fields": [
+                {
+                    "id": "suppressDist",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "balanceDmgSuppress",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "useSounds",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "ImprovedBloodV2",
+            "fields": [
+                {
+                    "id": "bloodParticleCooldown",
+                    "serializedValue": "0.04"
+                },
+                {
+                    "id": "extraBloodAmount",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "cbMetallic",
+                    "serializedValue": "0.1"
+                },
+                {
+                    "id": "cbGloss",
+                    "serializedValue": "0.2"
+                },
+                {
+                    "id": "cbQuality",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "cbTransparency",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "cbDetail",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "cbSize",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "cbBrightness",
+                    "serializedValue": "0.5"
+                },
+                {
+                    "id": "bloodScale",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "bloodParticleChance",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "SFXVolume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "enableDecals",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableVFX",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableSFX",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableHeadshot",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableHeadshotSFX",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "ultraBlood",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableExtraBlood",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "2"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Drones 2 Team Drones",
+            "fields": [
+                {
+                    "id": "bcntfighter",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "bcntstrike",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bcntmissle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bcntscout",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bcntsuiside",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "bcntartillery",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bcntspy",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "bcntassult",
+                    "serializedValue": "4"
+                },
+                {
+                    "id": "rcntfighter",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "rcntstrike",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "rcntmissle",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "rcntscout",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "rcntsuiside",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "rcntartillery",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "rcntspy",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "rcntassult",
+                    "serializedValue": "4"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "SQUAD VDV Voicelines",
+            "fields": [
+                {
+                    "id": "assignedTeam",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "VehicleBurnKiller",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Loadout Changer",
+            "fields": [
+                {
+                    "id": "resupplyCrateRange",
+                    "serializedValue": "4"
+                },
+                {
+                    "id": "versionSelected",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "俄罗斯VDV空降军",
+            "sourceWorkshopId": 0,
+            "name": "Squad VDV Multiskin",
+            "fields": [
+                {
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RE: Squad Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "8"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "-1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "VehicleDamageAudioManager",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "KILL FEED",
+            "fields": []
+        }
+    ],
+    "playerHasAllWeapons": false
+}
