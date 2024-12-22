@@ -140,11 +140,6 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M250 Machine Gun"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "XM7"
                 },
                 {
@@ -256,11 +251,6 @@
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "XM25 [Airburst]"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "M250 LMG"
                 },
                 {
                     "sourceDirectory": "美国陆军",
@@ -665,11 +655,6 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M250 Machine Gun"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "M250 LMG w/LPVO"
                 },
                 {
@@ -736,11 +721,6 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "M250 LMG w/Scope"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "M250 LMG"
                 },
                 {
                     "sourceDirectory": "美国陆军",
@@ -1035,72 +1015,6 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "TURRET AIMING ENHANCED",
-            "fields": [
-                {
-                    "id": "fMaxTurnSpeed",
-                    "serializedValue": "150"
-                },
-                {
-                    "id": "fRaycastDistance",
-                    "serializedValue": "2000"
-                },
-                {
-                    "id": "fFactor",
-                    "serializedValue": "140"
-                },
-                {
-                    "id": "fSmooth",
-                    "serializedValue": "10"
-                },
-                {
-                    "id": "fDistanceUp",
-                    "serializedValue": "4.44"
-                },
-                {
-                    "id": "fDistanceAway",
-                    "serializedValue": "12.5"
-                },
-                {
-                    "id": "fCamDepthSmooth",
-                    "serializedValue": "1"
-                },
-                {
-                    "id": "iScopeSightUp",
-                    "serializedValue": "2"
-                },
-                {
-                    "id": "iScopeFovUp",
-                    "serializedValue": "1.2"
-                },
-                {
-                    "id": "bUseMaxTurnSpeed",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bEnableCommander",
-                    "serializedValue": "True"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
-            "name": "custom flags",
-            "fields": [
-                {
-                    "id": "EagleFlag",
-                    "serializedValue": "4"
-                },
-                {
-                    "id": "RavenFlag",
-                    "serializedValue": "4"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
             "name": "Team Voices (<color=red>Raven</color>)",
             "fields": [
                 {
@@ -1340,6 +1254,36 @@
                 {
                     "id": "versionSelected",
                     "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RE: Squad Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Simple Weather",
+            "fields": [
+                {
+                    "id": "LocalSimBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "WeatherDropdown",
+                    "serializedValue": "2"
                 }
             ]
         }

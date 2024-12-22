@@ -302,12 +302,6 @@
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "lf_Z-8G CAS"
-                },
-                {
-                    "type": 5,
-                    "sourceDirectory": "中国空军",
-                    "sourceWorkshopId": 0,
-                    "name": "lf_H-6K"
                 }
             ],
             "turretConfiguration": [
@@ -643,7 +637,7 @@
                     "type": 4,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Z-10W"
+                    "name": "Z-10"
                 },
                 {
                     "type": 5,
@@ -826,57 +820,6 @@
                 {
                     "id": "ctmKey",
                     "serializedValue": "K"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
-            "name": "TURRET AIMING ENHANCED",
-            "fields": [
-                {
-                    "id": "fMaxTurnSpeed",
-                    "serializedValue": "150"
-                },
-                {
-                    "id": "fRaycastDistance",
-                    "serializedValue": "2000"
-                },
-                {
-                    "id": "fFactor",
-                    "serializedValue": "140"
-                },
-                {
-                    "id": "fSmooth",
-                    "serializedValue": "10"
-                },
-                {
-                    "id": "fDistanceUp",
-                    "serializedValue": "4.44"
-                },
-                {
-                    "id": "fDistanceAway",
-                    "serializedValue": "12.5"
-                },
-                {
-                    "id": "fCamDepthSmooth",
-                    "serializedValue": "1"
-                },
-                {
-                    "id": "iScopeSightUp",
-                    "serializedValue": "2"
-                },
-                {
-                    "id": "iScopeFovUp",
-                    "serializedValue": "1.2"
-                },
-                {
-                    "id": "bUseMaxTurnSpeed",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bEnableCommander",
-                    "serializedValue": "True"
                 }
             ]
         },
@@ -1076,6 +1019,21 @@
                 {
                     "id": "versionSelected",
                     "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Simple Weather",
+            "fields": [
+                {
+                    "id": "LocalSimBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "WeatherDropdown",
+                    "serializedValue": "0"
                 }
             ]
         }

@@ -83,29 +83,14 @@
                     "name": "M32 MGL Slug"
                 },
                 {
-                    "sourceDirectory": "苏俄装备",
+                    "sourceDirectory": "伊朗",
                     "sourceWorkshopId": 0,
-                    "name": "<color=#D9D919>AKM-DP/S“RSNDM”</color>"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-K/S"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM"
+                    "name": "G3SG1"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "RPG-7"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-K"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
@@ -141,26 +126,6 @@
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "RPG-7 105mm Thermobaric"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "<color=#D9D919>AKM-DP“RSNDM”</color>"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-S"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-P"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-P/S"
                 },
                 {
                     "sourceDirectory": "苏俄装备",
@@ -231,11 +196,6 @@
                     "sourceDirectory": "伊朗",
                     "sourceWorkshopId": 0,
                     "name": "HK51"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "AKM-P/S"
                 }
             ],
             "vehicleConfiguration": [
@@ -767,57 +727,6 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "TURRET AIMING ENHANCED",
-            "fields": [
-                {
-                    "id": "fMaxTurnSpeed",
-                    "serializedValue": "150"
-                },
-                {
-                    "id": "fRaycastDistance",
-                    "serializedValue": "2000"
-                },
-                {
-                    "id": "fFactor",
-                    "serializedValue": "140"
-                },
-                {
-                    "id": "fSmooth",
-                    "serializedValue": "10"
-                },
-                {
-                    "id": "fDistanceUp",
-                    "serializedValue": "4.44"
-                },
-                {
-                    "id": "fDistanceAway",
-                    "serializedValue": "12.5"
-                },
-                {
-                    "id": "fCamDepthSmooth",
-                    "serializedValue": "1"
-                },
-                {
-                    "id": "iScopeSightUp",
-                    "serializedValue": "2"
-                },
-                {
-                    "id": "iScopeFovUp",
-                    "serializedValue": "1.2"
-                },
-                {
-                    "id": "bUseMaxTurnSpeed",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bEnableCommander",
-                    "serializedValue": "True"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
             "name": "custom flags",
             "fields": [
                 {
@@ -1338,6 +1247,21 @@
             "sourceWorkshopId": 0,
             "name": "KILL FEED",
             "fields": []
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Simple Weather",
+            "fields": [
+                {
+                    "id": "LocalSimBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "WeatherDropdown",
+                    "serializedValue": "3"
+                }
+            ]
         }
     ],
     "playerHasAllWeapons": false

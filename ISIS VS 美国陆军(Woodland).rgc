@@ -272,13 +272,13 @@
                     "type": 4,
                     "sourceDirectory": "恐怖分子势力",
                     "sourceWorkshopId": 0,
-                    "name": "BRDM-2 AT DE"
+                    "name": "BRDM-2 AT"
                 },
                 {
                     "type": 5,
                     "sourceDirectory": "恐怖分子势力",
                     "sourceWorkshopId": 0,
-                    "name": "BRDM-2 ROCKET DE"
+                    "name": "BRDM-2 ROCKET"
                 },
                 {
                     "type": 6,
@@ -296,7 +296,7 @@
                     "type": 9,
                     "sourceDirectory": "恐怖分子势力",
                     "sourceWorkshopId": 0,
-                    "name": "BRDM-2 DE"
+                    "name": "BRDM-2"
                 },
                 {
                     "type": 10,
@@ -328,7 +328,7 @@
             "skin": {
                 "sourceDirectory": "恐怖分子势力",
                 "sourceWorkshopId": 0,
-                "name": "Desert Defender"
+                "name": "Mountain Militia"
             }
         },
         {
@@ -506,11 +506,6 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M250 Machine Gun"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "XM7"
                 },
                 {
@@ -572,11 +567,6 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "M250 LMG w/Scope"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "M250 LMG"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
@@ -722,27 +712,33 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "LAV-25"
+                    "name": "MATV CROWS WOODLAND"
                 },
                 {
                     "type": 1,
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "MATV .50"
+                    "name": "M2A3 era"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "MATV TOW-2 WOODLAND"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M1A1HC"
+                    "name": "M1A2 SEPV2 (TUSK2)"
                 },
                 {
                     "type": 4,
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "MH-60L DAP"
+                    "name": "MH-60L DAP GUNSHIP"
                 },
                 {
                     "type": 6,
@@ -752,21 +748,21 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "美国海军",
+                    "sourceDirectory": "美国空军",
                     "sourceWorkshopId": 0,
-                    "name": "FA-18E Super Hornet"
+                    "name": "A-10C Thunderbolt II"
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_uh1y"
+                    "name": "UH-60"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "美国海军陆战队",
+                    "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AAV7"
+                    "name": "XM1304 Stryker"
                 }
             ],
             "turretConfiguration": [
@@ -790,9 +786,9 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "美国海军陆战队",
+                "sourceDirectory": "美国陆军",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD USMC Rifleman (Desert)"
+                "name": "SQUAD USA Rifleman "
             }
         }
     ],
@@ -893,72 +889,6 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "TURRET AIMING ENHANCED",
-            "fields": [
-                {
-                    "id": "fMaxTurnSpeed",
-                    "serializedValue": "150"
-                },
-                {
-                    "id": "fRaycastDistance",
-                    "serializedValue": "2000"
-                },
-                {
-                    "id": "fFactor",
-                    "serializedValue": "140"
-                },
-                {
-                    "id": "fSmooth",
-                    "serializedValue": "10"
-                },
-                {
-                    "id": "fDistanceUp",
-                    "serializedValue": "4.44"
-                },
-                {
-                    "id": "fDistanceAway",
-                    "serializedValue": "12.5"
-                },
-                {
-                    "id": "fCamDepthSmooth",
-                    "serializedValue": "1"
-                },
-                {
-                    "id": "iScopeSightUp",
-                    "serializedValue": "2"
-                },
-                {
-                    "id": "iScopeFovUp",
-                    "serializedValue": "1.2"
-                },
-                {
-                    "id": "bUseMaxTurnSpeed",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bEnableCommander",
-                    "serializedValue": "True"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
-            "name": "Flags of the War on Terror",
-            "fields": [
-                {
-                    "id": "EagleFlag",
-                    "serializedValue": "17"
-                },
-                {
-                    "id": "RavenFlag",
-                    "serializedValue": "-1"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
             "name": "Person's MStats",
             "fields": [
                 {
@@ -979,15 +909,15 @@
                 },
                 {
                     "id": "HealthRed",
-                    "serializedValue": "150"
+                    "serializedValue": "170"
                 },
                 {
                     "id": "BalanceRed",
-                    "serializedValue": "150"
+                    "serializedValue": "170"
                 },
                 {
                     "id": "MovementSpeedRed",
-                    "serializedValue": "1.15"
+                    "serializedValue": "1.25"
                 },
                 {
                     "id": "SizeRed",
@@ -1106,11 +1036,11 @@
                 },
                 {
                     "id": "iEagleCamoIndex",
-                    "serializedValue": "1"
+                    "serializedValue": "0"
                 },
                 {
                     "id": "iRavenCamoIndex",
-                    "serializedValue": "1"
+                    "serializedValue": "0"
                 }
             ]
         },
@@ -1297,16 +1227,12 @@
             ]
         },
         {
-            "sourceDirectory": "美国海军陆战队",
+            "sourceDirectory": "美国陆军",
             "sourceWorkshopId": 0,
-            "name": "Squad USMC Multiskin (DESERT)",
+            "name": "SQUAD USA Voicelines",
             "fields": [
                 {
-                    "id": "playerBool",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "team",
+                    "id": "assignedTeam",
                     "serializedValue": "1"
                 }
             ]
@@ -1362,12 +1288,16 @@
             ]
         },
         {
-            "sourceDirectory": "美国海军陆战队",
+            "sourceDirectory": "美国陆军",
             "sourceWorkshopId": 0,
-            "name": "SQUAD USMC Voicelines",
+            "name": "Squad USA Multiskin",
             "fields": [
                 {
-                    "id": "assignedTeam",
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
                     "serializedValue": "1"
                 }
             ]
@@ -1478,21 +1408,6 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "RE: Squad Flags",
-            "fields": [
-                {
-                    "id": "EagleFlag",
-                    "serializedValue": "-1"
-                },
-                {
-                    "id": "RavenFlag",
-                    "serializedValue": "1"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
             "name": "VehicleDamageAudioManager",
             "fields": []
         },
@@ -1501,6 +1416,36 @@
             "sourceWorkshopId": 0,
             "name": "KILL FEED",
             "fields": []
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "custom flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "11"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "4"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Simple Weather",
+            "fields": [
+                {
+                    "id": "LocalSimBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "WeatherDropdown",
+                    "serializedValue": "3"
+                }
+            ]
         }
     ],
     "playerHasAllWeapons": false

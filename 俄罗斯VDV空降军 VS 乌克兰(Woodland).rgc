@@ -826,7 +826,7 @@
             "skin": {
                 "sourceDirectory": "乌克兰",
                 "sourceWorkshopId": 0,
-                "name": "Ukraine Airborne"
+                "name": "Ukrainian Army"
             }
         }
     ],
@@ -885,57 +885,6 @@
                 },
                 {
                     "id": "doAnnouncerVoices",
-                    "serializedValue": "True"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
-            "name": "TURRET AIMING ENHANCED",
-            "fields": [
-                {
-                    "id": "fMaxTurnSpeed",
-                    "serializedValue": "150"
-                },
-                {
-                    "id": "fRaycastDistance",
-                    "serializedValue": "2000"
-                },
-                {
-                    "id": "fFactor",
-                    "serializedValue": "140"
-                },
-                {
-                    "id": "fSmooth",
-                    "serializedValue": "10"
-                },
-                {
-                    "id": "fDistanceUp",
-                    "serializedValue": "4.44"
-                },
-                {
-                    "id": "fDistanceAway",
-                    "serializedValue": "12.5"
-                },
-                {
-                    "id": "fCamDepthSmooth",
-                    "serializedValue": "1"
-                },
-                {
-                    "id": "iScopeSightUp",
-                    "serializedValue": "2"
-                },
-                {
-                    "id": "iScopeFovUp",
-                    "serializedValue": "1.2"
-                },
-                {
-                    "id": "bUseMaxTurnSpeed",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bEnableCommander",
                     "serializedValue": "True"
                 }
             ]
@@ -1535,6 +1484,36 @@
             "sourceWorkshopId": 0,
             "name": "KILL FEED",
             "fields": []
+        },
+        {
+            "sourceDirectory": "乌克兰",
+            "sourceWorkshopId": 0,
+            "name": "Taped UKR",
+            "fields": [
+                {
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Simple Weather",
+            "fields": [
+                {
+                    "id": "LocalSimBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "WeatherDropdown",
+                    "serializedValue": "0"
+                }
+            ]
         }
     ],
     "playerHasAllWeapons": false

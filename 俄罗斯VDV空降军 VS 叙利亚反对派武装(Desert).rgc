@@ -366,33 +366,39 @@
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "Tiger-M 5seat CROWS DE"
+                    "name": "BTR-D 1"
                 },
                 {
                     "type": 1,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "BMPT"
+                    "name": "Tiger-M 5seat DE"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "T-80BVM(2017)"
+                    "name": "Tiger-M Kord DE"
                 },
                 {
                     "type": 3,
                     "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "T-80BVM(2017) Relikt"
+                    "name": "T-80U"
                 },
                 {
                     "type": 4,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8 CAS"
+                    "name": "lf_Mi-8 CAS VDV"
+                },
+                {
+                    "type": 5,
+                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceWorkshopId": 0,
+                    "name": "BTR-ZD 1"
                 },
                 {
                     "type": 6,
@@ -402,21 +408,15 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "俄罗斯空天军",
+                    "sourceDirectory": "俄罗斯海军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_SU-35"
-                },
-                {
-                    "type": 9,
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8"
+                    "name": "Su-33"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "Tiger-M kord crows DE"
+                    "name": "BMD-1 w"
                 }
             ],
             "turretConfiguration": [
@@ -440,9 +440,9 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "俄罗斯陆军",
+                "sourceDirectory": "俄罗斯VDV空降军",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD RGF Rifleman (Desert)"
+                "name": "SQUAD VDV Rifleman (Desert)"
             }
         },
         {
@@ -839,72 +839,6 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "TURRET AIMING ENHANCED",
-            "fields": [
-                {
-                    "id": "fMaxTurnSpeed",
-                    "serializedValue": "150"
-                },
-                {
-                    "id": "fRaycastDistance",
-                    "serializedValue": "2000"
-                },
-                {
-                    "id": "fFactor",
-                    "serializedValue": "140"
-                },
-                {
-                    "id": "fSmooth",
-                    "serializedValue": "10"
-                },
-                {
-                    "id": "fDistanceUp",
-                    "serializedValue": "4.44"
-                },
-                {
-                    "id": "fDistanceAway",
-                    "serializedValue": "12.5"
-                },
-                {
-                    "id": "fCamDepthSmooth",
-                    "serializedValue": "1"
-                },
-                {
-                    "id": "iScopeSightUp",
-                    "serializedValue": "2"
-                },
-                {
-                    "id": "iScopeFovUp",
-                    "serializedValue": "1.2"
-                },
-                {
-                    "id": "bUseMaxTurnSpeed",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bEnableCommander",
-                    "serializedValue": "True"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
-            "name": "Flags of the War on Terror",
-            "fields": [
-                {
-                    "id": "EagleFlag",
-                    "serializedValue": "9"
-                },
-                {
-                    "id": "RavenFlag",
-                    "serializedValue": "11"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
             "name": "LeMieux's Suppression Mutator",
             "fields": [
                 {
@@ -1160,7 +1094,7 @@
         {
             "sourceDirectory": "俄罗斯陆军",
             "sourceWorkshopId": 0,
-            "name": "SQUAD RGF Voicelines",
+            "name": "SQUAD VDV Voicelines",
             "fields": [
                 {
                     "id": "assignedTeam",
@@ -1169,9 +1103,9 @@
             ]
         },
         {
-            "sourceDirectory": "俄罗斯陆军",
+            "sourceDirectory": "俄罗斯VDV空降军",
             "sourceWorkshopId": 0,
-            "name": "Squad RGF Multiskin (DESERT)",
+            "name": "Squad VDV Multiskin (DESERT)",
             "fields": [
                 {
                     "id": "playerBool",
@@ -1308,15 +1242,15 @@
             "fields": [
                 {
                     "id": "HealthBlu",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "BalanceBlu",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "MovementSpeedBlu",
-                    "serializedValue": "1.2"
+                    "serializedValue": "1.1"
                 },
                 {
                     "id": "SizeBlu",
@@ -1467,6 +1401,36 @@
             "sourceWorkshopId": 0,
             "name": "KILL FEED",
             "fields": []
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RE: Squad Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "8"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "9"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Simple Weather",
+            "fields": [
+                {
+                    "id": "LocalSimBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "WeatherDropdown",
+                    "serializedValue": "2"
+                }
+            ]
         }
     ],
     "playerHasAllWeapons": false

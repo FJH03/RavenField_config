@@ -732,9 +732,9 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "乌克兰",
+                "sourceDirectory": "北约对乌军援",
                 "sourceWorkshopId": 0,
-                "name": "Ukraine Special Forces"
+                "name": "SQUAD WPMC Rifleman"
             }
         }
     ],
@@ -793,57 +793,6 @@
                 },
                 {
                     "id": "doAnnouncerVoices",
-                    "serializedValue": "True"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
-            "name": "TURRET AIMING ENHANCED",
-            "fields": [
-                {
-                    "id": "fMaxTurnSpeed",
-                    "serializedValue": "150"
-                },
-                {
-                    "id": "fRaycastDistance",
-                    "serializedValue": "2000"
-                },
-                {
-                    "id": "fFactor",
-                    "serializedValue": "140"
-                },
-                {
-                    "id": "fSmooth",
-                    "serializedValue": "10"
-                },
-                {
-                    "id": "fDistanceUp",
-                    "serializedValue": "4.44"
-                },
-                {
-                    "id": "fDistanceAway",
-                    "serializedValue": "12.5"
-                },
-                {
-                    "id": "fCamDepthSmooth",
-                    "serializedValue": "1"
-                },
-                {
-                    "id": "iScopeSightUp",
-                    "serializedValue": "2"
-                },
-                {
-                    "id": "iScopeFovUp",
-                    "serializedValue": "1.2"
-                },
-                {
-                    "id": "bUseMaxTurnSpeed",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bEnableCommander",
                     "serializedValue": "True"
                 }
             ]
@@ -1398,7 +1347,7 @@
             "fields": []
         },
         {
-            "sourceDirectory": "北约对乌军援",
+            "sourceDirectory": "乌克兰",
             "sourceWorkshopId": 0,
             "name": "Taped UKR",
             "fields": [
@@ -1428,6 +1377,21 @@
             "sourceWorkshopId": 0,
             "name": "KILL FEED",
             "fields": []
+        },
+        {
+            "sourceDirectory": "北约对乌军援",
+            "sourceWorkshopId": 0,
+            "name": "Squad WPMC Multiskin",
+            "fields": [
+                {
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
         }
     ],
     "playerHasAllWeapons": false
