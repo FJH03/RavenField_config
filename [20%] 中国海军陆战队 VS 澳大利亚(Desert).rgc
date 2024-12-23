@@ -145,11 +145,6 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QBB-95"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "CS/LR4 RDS"
                 },
                 {
@@ -161,31 +156,6 @@
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "QBS-09[Gear]"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 ACOG"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 Grenade"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 RDS"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95B-1"
                 },
                 {
                     "sourceDirectory": "中国陆军",
@@ -276,6 +246,51 @@
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "QBZ192 T"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 QLG10 YMA600"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 YMA600"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95B-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95B-1 HOLO"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QJB95-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 HOLO"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QJB95-1 YMA600"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 QLG10"
                 }
             ],
             "vehicleConfiguration": [
@@ -505,46 +520,6 @@
                     "name": "M249 Stealth"
                 },
                 {
-                    "sourceDirectory": "澳大利亚",
-                    "sourceWorkshopId": 0,
-                    "name": "Thales F90"
-                },
-                {
-                    "sourceDirectory": "澳大利亚",
-                    "sourceWorkshopId": 0,
-                    "name": "Thales F90 (GL)"
-                },
-                {
-                    "sourceDirectory": "澳大利亚",
-                    "sourceWorkshopId": 0,
-                    "name": "Thales F90 (Marksman)"
-                },
-                {
-                    "sourceDirectory": "澳大利亚",
-                    "sourceWorkshopId": 0,
-                    "name": "Thales F90 (Smart Scope)"
-                },
-                {
-                    "sourceDirectory": "澳大利亚",
-                    "sourceWorkshopId": 0,
-                    "name": "Thales F90 (Tact Thermal)"
-                },
-                {
-                    "sourceDirectory": "澳大利亚",
-                    "sourceWorkshopId": 0,
-                    "name": "Thales F90 (Tactical)"
-                },
-                {
-                    "sourceDirectory": "澳大利亚",
-                    "sourceWorkshopId": 0,
-                    "name": "Thales F90 (Thermal)"
-                },
-                {
-                    "sourceDirectory": "澳大利亚",
-                    "sourceWorkshopId": 0,
-                    "name": "AUG A3 (GL)"
-                },
-                {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "M68 FRAG"
@@ -558,6 +533,31 @@
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "M26A1 FRAG"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "EF88"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "EF88 EO"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "EF88 Specter"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "EF88C EO"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "EF88C Specter"
                 }
             ],
             "vehicleConfiguration": [

@@ -155,36 +155,6 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QBZ-95B-1"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 RDS"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 Grenade"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 ACOG"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBB-95"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "PF-89B Tandem Charge"
                 },
                 {
@@ -276,6 +246,51 @@
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "QBZ192 T"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 YMA600"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95B-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95B-1 HOLO"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QJB95-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 HOLO"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QJB95-1 YMA600"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 QLG10"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 QLG10 YMA600"
                 }
             ],
             "vehicleConfiguration": [
@@ -653,26 +668,6 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "KSG-12"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "MK18MOD0"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "MK18MOD1"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "MK18MOD1 SU230"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "urgi"
                 },
                 {
                     "sourceDirectory": "美国陆军",

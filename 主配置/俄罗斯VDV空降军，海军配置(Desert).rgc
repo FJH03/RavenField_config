@@ -225,223 +225,150 @@
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74"
+                    "name": "AK74M \"Obves\" SP S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74 GP-25"
+                    "name": "AK-12[prototype] PK-AS S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m"
+                    "name": "AK-12[prototype] S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m 1P78"
+                    "name": "AK74M \"Obves\" 1P87 S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m ACOG"
+                    "name": "AK-12[prototype]"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m EoTech"
+                    "name": "AK-12[prototype] PK-AS"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m GP-25"
+                    "name": "AK74M"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m Kobra"
+                    "name": "AK74M \"Obves\" 1P87"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74"
+                    "name": "AK74M 1P87 GP25"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74 PSO-1"
+                    "name": "AK74M 1P87"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74N"
+                    "name": "AK74M 1P78 GP25"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u"
+                    "name": "AK74M 1P78"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u (Gear)"
+                    "name": "AK74M 1P63"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u Extended Mag"
+                    "name": "AK74M \"Obves\" SP"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u Suppressed"
+                    "name": "AK74M GP25"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u UB"
+                    "name": "RPK74M"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12"
+                    "name": "RPK74M 1P63"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 1P78"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P78 STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87 STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87+1P90"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87+1P90 STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 GRIP"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 GRIP STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 KOBRA"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 KOBRA STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 PKAS"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 PKAS STEALTH"
+                    "name": "RPK74M 1P78"
                 }
             ],
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "Tiger-M 5seat CROWS DE"
+                    "name": "BTR-D 1"
                 },
                 {
                     "type": 1,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "BMPT"
+                    "name": "Tiger-M 5seat DE"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "T-80BVM(2017)"
+                    "name": "Tiger-M Kord DE"
                 },
                 {
                     "type": 3,
                     "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "T-80BVM(2017) Relikt"
+                    "name": "T-80U"
                 },
                 {
                     "type": 4,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8 CAS"
+                    "name": "lf_Mi-8 CAS VDV"
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "俄罗斯空天军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "Tu-160"
-                },
-                {
-                    "type": 8,
-                    "sourceDirectory": "俄罗斯空天军",
-                    "sourceWorkshopId": 0,
-                    "name": "lf_SU-35"
+                    "name": "BTR-ZD 1"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "Tiger-M kord crows DE"
+                    "name": "BMD-1 w"
                 }
             ],
             "turretConfiguration": [
-                {
-                    "type": 0,
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "kord"
-                },
                 {
                     "type": 1,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "Enclave Missile Target"
-                },
-                {
-                    "type": 2,
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "S-400 Triumf Static Rus GG"
                 }
             ],
             "skin": {
-                "sourceDirectory": "俄罗斯陆军",
+                "sourceDirectory": "俄罗斯VDV空降军",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD RGF Rifleman (Desert)"
+                "name": "SQUAD VDV Rifleman (Desert)"
             }
         },
         {
@@ -669,185 +596,130 @@
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74"
+                    "name": "AK74M \"Obves\" SP S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74 GP-25"
+                    "name": "AK-12[prototype] PK-AS S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m"
+                    "name": "AK-12[prototype] S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m 1P78"
+                    "name": "AK74M \"Obves\" 1P87 S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m ACOG"
+                    "name": "AK-12[prototype]"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m EoTech"
+                    "name": "AK-12[prototype] PK-AS"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m GP-25"
+                    "name": "AK74M"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m Kobra"
+                    "name": "AK74M \"Obves\" 1P87"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74"
+                    "name": "AK74M 1P87 GP25"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74 PSO-1"
+                    "name": "AK74M 1P87"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74N"
+                    "name": "AK74M 1P78 GP25"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u"
+                    "name": "AK74M 1P78"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u (Gear)"
+                    "name": "AK74M 1P63"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u Extended Mag"
+                    "name": "AK74M \"Obves\" SP"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u Suppressed"
+                    "name": "AK74M GP25"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u UB"
+                    "name": "RPK74M"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12"
+                    "name": "RPK74M 1P63"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 1P78"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P78 STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87 STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87+1P90"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87+1P90 STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 GRIP"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 GRIP STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 KOBRA"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 KOBRA STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 PKAS"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 PKAS STEALTH"
+                    "name": "RPK74M 1P78"
                 }
             ],
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_TOR"
+                    "name": "KAMAZ-4386"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "BMPT Relikt"
+                    "name": "BTR-D .50 1"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "BM-30 Smerch Desert 3"
+                    "name": "T-80UK"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "T-90M APS 1"
+                    "name": "T-80BVM"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_mi-28"
+                    "name": "ka 52 Z"
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "俄罗斯空天军",
+                    "sourceDirectory": "俄罗斯海军",
                     "sourceWorkshopId": 0,
-                    "name": "SU-75 Checkmate"
+                    "name": "SU-75 Checkmate stov"
                 },
                 {
                     "type": 6,
@@ -857,27 +729,27 @@
                 },
                 {
                     "type": 7,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯海军",
                     "sourceWorkshopId": 0,
-                    "name": "BMP-2M"
+                    "name": "22800"
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "俄罗斯空天军",
+                    "sourceDirectory": "俄罗斯海军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_SU-25 ROCKET"
+                    "name": "Su-33"
                 },
                 {
                     "type": 9,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8"
+                    "name": "lf_Mi-8 VDV"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "俄罗斯VDV空降军",
                     "sourceWorkshopId": 0,
-                    "name": "BTR-82"
+                    "name": "BMD-4M"
                 }
             ],
             "turretConfiguration": [
@@ -885,7 +757,7 @@
                     "type": 0,
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "kord 8X"
+                    "name": "kord"
                 },
                 {
                     "type": 1,
@@ -901,9 +773,9 @@
                 }
             ],
             "skin": {
-                "sourceDirectory": "俄罗斯陆军",
+                "sourceDirectory": "俄罗斯VDV空降军",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD RGF Rifleman (Desert)"
+                "name": "SQUAD VDV Rifleman (Desert)"
             }
         }
     ],
@@ -938,7 +810,7 @@
             "fields": [
                 {
                     "id": "EagleFlag",
-                    "serializedValue": "7"
+                    "serializedValue": "8"
                 },
                 {
                     "id": "RavenFlag",
@@ -984,7 +856,7 @@
         {
             "sourceDirectory": "俄罗斯陆军",
             "sourceWorkshopId": 0,
-            "name": "SQUAD RGF Voicelines",
+            "name": "SQUAD VDV Voicelines",
             "fields": [
                 {
                     "id": "assignedTeam",
@@ -993,9 +865,9 @@
             ]
         },
         {
-            "sourceDirectory": "俄罗斯陆军",
+            "sourceDirectory": "俄罗斯VDV空降军",
             "sourceWorkshopId": 0,
-            "name": "Squad RGF Multiskin (DESERT)",
+            "name": "Squad VDV Multiskin (DESERT)",
             "fields": [
                 {
                     "id": "playerBool",
@@ -1095,15 +967,15 @@
             "fields": [
                 {
                     "id": "HealthBlu",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "BalanceBlu",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "MovementSpeedBlu",
-                    "serializedValue": "1.2"
+                    "serializedValue": "1.1"
                 },
                 {
                     "id": "SizeBlu",
@@ -1111,15 +983,15 @@
                 },
                 {
                     "id": "HealthRed",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "BalanceRed",
-                    "serializedValue": "150"
+                    "serializedValue": "130"
                 },
                 {
                     "id": "MovementSpeedRed",
-                    "serializedValue": "1.2"
+                    "serializedValue": "1.1"
                 },
                 {
                     "id": "SizeRed",
@@ -1237,7 +1109,7 @@
                 },
                 {
                     "id": "WeatherDropdown",
-                    "serializedValue": "2"
+                    "serializedValue": "3"
                 }
             ]
         }

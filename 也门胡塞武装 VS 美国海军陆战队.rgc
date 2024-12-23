@@ -175,12 +175,7 @@
                 {
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "Makarov"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "Makarov Suppressed"
+                    "name": "Makarov PM"
                 }
             ],
             "vehicleConfiguration": [
@@ -558,26 +553,6 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "Remington 870"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "MK18MOD0"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "MK18MOD1"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "MK18MOD1 SU230"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "urgi"
                 },
                 {
                     "sourceDirectory": "美国陆军",

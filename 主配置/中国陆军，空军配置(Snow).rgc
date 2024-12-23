@@ -85,86 +85,6 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QBZ-95B-1"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QSW-06"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QSZ-92 5.8mm"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Type 42"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "WPF-89-1 Thermobaric"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 RDS"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 Grenade"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBS-09[Gear]"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBS-09 Compact"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "PF-89-1 Incendiary"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "PF-89 HEAT"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBS-09"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBB-95"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "PF-89B Tandem Charge"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "DZJ-08 RDS"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "DZJ-08"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "CS/LR4[Gear]"
                 },
                 {
@@ -180,16 +100,6 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QSZ-92 9mm"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QSZ-92G"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "CS/LR4 RDS"
                 },
                 {
@@ -200,22 +110,82 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1"
+                    "name": "DZJ-08"
                 },
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 ACOG"
+                    "name": "DZJ-08 RDS"
                 },
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QW2 Green"
+                    "name": "QSZ-92G"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QSZ-92 9mm"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QSZ-92 5.8mm"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QSW-06"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBS-09"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBS-09 Compact"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBS-09[Gear]"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PF-89B Tandem Charge"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PF-89-1 Incendiary"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PF-89 HEAT"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 42"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "WPF-89-1 Thermobaric"
                 },
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "QW2 Yellow"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QW2 Green"
                 },
                 {
                     "sourceDirectory": "中国陆军",
@@ -276,6 +246,51 @@
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "QBZ192 T"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 YMA600"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95B-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95B-1 HOLO"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QJB95-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 HOLO"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QJB95-1 YMA600"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 QLG10"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 QLG10 YMA600"
                 }
             ],
             "vehicleConfiguration": [
@@ -283,13 +298,13 @@
                     "type": 1,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "CSK-131 CROWS DE"
+                    "name": "CSK-131 CROWS SEA"
                 },
                 {
                     "type": 2,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "山猫全地形突击车 CROWS DE"
+                    "name": "山猫全地形突击车 CROWS SEA"
                 },
                 {
                     "type": 3,
@@ -321,13 +336,13 @@
                     "type": 2,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "HQ-9 Desert Emplacement"
+                    "name": "HQ-9 Gray Emplacement 1"
                 }
             ],
             "skin": {
                 "sourceDirectory": "中国陆军",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD PLA Rifleman (Desert)"
+                "name": "SQUAD PLA Rifleman"
             }
         },
         {
@@ -415,86 +430,6 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QBZ-95B-1"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QSW-06"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QSZ-92 5.8mm"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Type 42"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "WPF-89-1 Thermobaric"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 RDS"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 Grenade"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBS-09[Gear]"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBS-09 Compact"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "PF-89-1 Incendiary"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "PF-89 HEAT"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBS-09"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QBB-95"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "PF-89B Tandem Charge"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "DZJ-08 RDS"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "DZJ-08"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "CS/LR4[Gear]"
                 },
                 {
@@ -510,16 +445,6 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QSZ-92 9mm"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "QSZ-92G"
-                },
-                {
-                    "sourceDirectory": "中国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "CS/LR4 RDS"
                 },
                 {
@@ -530,22 +455,82 @@
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1"
+                    "name": "DZJ-08"
                 },
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QBZ-95-1 ACOG"
+                    "name": "DZJ-08 RDS"
                 },
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "QW2 Green"
+                    "name": "QSZ-92G"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QSZ-92 9mm"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QSZ-92 5.8mm"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QSW-06"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBS-09"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBS-09 Compact"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBS-09[Gear]"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PF-89B Tandem Charge"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PF-89-1 Incendiary"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "PF-89 HEAT"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "Type 42"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "WPF-89-1 Thermobaric"
                 },
                 {
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "QW2 Yellow"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QW2 Green"
                 },
                 {
                     "sourceDirectory": "中国陆军",
@@ -606,6 +591,51 @@
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
                     "name": "QBZ192 T"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 YMA600"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95B-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95B-1 HOLO"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QJB95-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 HOLO"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QJB95-1 YMA600"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 QLG10"
+                },
+                {
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "QBZ95-1 QLG10 YMA600"
                 }
             ],
             "vehicleConfiguration": [
@@ -625,7 +655,7 @@
                     "type": 2,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PHL-16 MLRS Desert  3 2"
+                    "name": "PHL-16 MLRS Green  2 2"
                 },
                 {
                     "type": 3,
@@ -673,7 +703,7 @@
                     "type": 10,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "CSK-131 HJ-8 DE"
+                    "name": "CSK-131 HJ-8 SEA"
                 }
             ],
             "turretConfiguration": [
@@ -699,7 +729,7 @@
             "skin": {
                 "sourceDirectory": "中国陆军",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD PLA Rifleman (Desert)"
+                "name": "SQUAD PLA Rifleman"
             }
         }
     ],
@@ -850,11 +880,11 @@
                 },
                 {
                     "id": "iEagleCamoIndex",
-                    "serializedValue": "1"
+                    "serializedValue": "3"
                 },
                 {
                     "id": "iRavenCamoIndex",
-                    "serializedValue": "1"
+                    "serializedValue": "3"
                 }
             ]
         },
@@ -872,7 +902,7 @@
         {
             "sourceDirectory": "中国陆军",
             "sourceWorkshopId": 0,
-            "name": "Squad PLA Multiskin (DESERT)",
+            "name": "Squad PLA Multiskin",
             "fields": [
                 {
                     "id": "playerBool",
@@ -1033,7 +1063,7 @@
                 },
                 {
                     "id": "WeatherDropdown",
-                    "serializedValue": "2"
+                    "serializedValue": "1"
                 }
             ]
         }

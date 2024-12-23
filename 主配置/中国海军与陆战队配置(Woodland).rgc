@@ -3,59 +3,29 @@
         {
             "availableWeapons": [
                 {
-                    "sourceDirectory": "",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "AMMO BAG"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "MEDIC BAG"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "C4"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "SMOKE GRENADE"
-                },
-                {
-                    "sourceDirectory": "",
-                    "sourceWorkshopId": 0,
-                    "name": "SPEARHEAD"
+                    "name": "Attack Drone"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "FF1"
+                    "name": "Bomb Drone"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "RPG-7"
+                    "name": "Counter Drone Gun"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "RPG-7 105mm HEAT Tandem"
+                    "name": "Drone Remote"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "RPG-7 105mm Thermobaric"
-                },
-                {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "RPG-7 40mm Fragmentation"
-                },
-                {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "SA-18 Igla AA"
+                    "name": "Fighter Drone"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
@@ -78,338 +48,263 @@
                     "name": "M32 MGL Slug"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "Bomb Drone"
-                },
-                {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "Counter Drone Gun"
-                },
-                {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "Attack Drone"
-                },
-                {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "Drone Remote"
-                },
-                {
                     "sourceDirectory": "",
                     "sourceWorkshopId": 0,
                     "name": "WRENCH"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "",
                     "sourceWorkshopId": 0,
-                    "name": "Fighter Drone"
+                    "name": "MEDIC BAG"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "",
                     "sourceWorkshopId": 0,
-                    "name": "Saiga12"
+                    "name": "AMMO BAG"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "",
                     "sourceWorkshopId": 0,
-                    "name": "Saiga12-a"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Saiga12-b"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Saiga12-c"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Saiga12-d"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Saiga12-e"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Saiga12-f"
+                    "name": "C4"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "F1 FRAG"
+                    "name": "FF1"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "",
                     "sourceWorkshopId": 0,
-                    "name": "RGD-5 FRAG"
+                    "name": "SMOKE GRENADE"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "",
                     "sourceWorkshopId": 0,
-                    "name": "RGN FRAG"
+                    "name": "SPEARHEAD"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "RGO FRAG"
+                    "name": "PF-89-1 Incendiary"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "MP-443"
+                    "name": "PF-89B Tandem Charge"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "MP-443 Flashlight"
+                    "name": "QBS-09"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PKP Pecheneg"
+                    "name": "QBS-09 Compact"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PP-19 Bizon"
+                    "name": "PF-89 HEAT"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PP-19-01 Vityaz"
+                    "name": "DZJ-08 RDS"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "RPG-26"
+                    "name": "DZJ-08"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SV-98"
+                    "name": "CS/LR4[Gear]"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SV-98[Gear]"
+                    "name": "CS/LR4 S[Gear]"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SVDS"
+                    "name": "CS/LR4 S"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SVDS [Gear]"
+                    "name": "QSZ-92 9mm"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "T-5000"
+                    "name": "QSZ-92G"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "T-5000[Gear]"
+                    "name": "CS/LR4 RDS"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74"
+                    "name": "CS/LR4"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74 GP-25"
+                    "name": "QBS-09[Gear]"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m"
+                    "name": "QSW-06"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m 1P78"
+                    "name": "QSZ-92 5.8mm"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m ACOG"
+                    "name": "Type 42"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m EoTech"
+                    "name": "WPF-89-1 Thermobaric"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m GP-25"
+                    "name": "QW2 Green"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m Kobra"
+                    "name": "QW2 Yellow"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74"
+                    "name": "QBU191"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74 PSO-1"
+                    "name": "QBU191 S"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74N"
+                    "name": "QBZ191"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u"
+                    "name": "QBZ191 H"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u (Gear)"
+                    "name": "QBZ191 H S"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u Extended Mag"
+                    "name": "QBZ191 Q G"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u Suppressed"
+                    "name": "QBZ191 T"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u UB"
+                    "name": "QBZ192"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12"
+                    "name": "QBZ192 H"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 1P78"
+                    "name": "QBZ192 Q"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 1P78 STEALTH"
+                    "name": "QBZ192 Q G"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87"
+                    "name": "QBZ192 T"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87 STEALTH"
+                    "name": "QBZ95-1 YMA600"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87+1P90"
+                    "name": "QBZ95B-1"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87+1P90 STEALTH"
+                    "name": "QBZ95B-1 HOLO"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 GRIP"
+                    "name": "QBZ95-1"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 GRIP STEALTH"
+                    "name": "QJB95-1"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 KOBRA"
+                    "name": "QBZ95-1 HOLO"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 KOBRA STEALTH"
+                    "name": "QJB95-1 YMA600"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 PKAS"
+                    "name": "QBZ95-1 QLG10"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 PKAS STEALTH"
+                    "name": "QBZ95-1 QLG10 YMA600"
                 }
             ],
             "vehicleConfiguration": [
                 {
-                    "type": 0,
-                    "sourceDirectory": "俄罗斯VDV空降军",
-                    "sourceWorkshopId": 0,
-                    "name": "BTR-D"
-                },
-                {
                     "type": 1,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "Tiger-M 5seat"
-                },
-                {
-                    "type": 2,
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "Tiger-M Kord"
-                },
-                {
-                    "type": 3,
-                    "sourceDirectory": "俄罗斯VDV空降军",
-                    "sourceWorkshopId": 0,
-                    "name": "T-80U"
-                },
-                {
-                    "type": 4,
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8 CAS VDV"
-                },
-                {
-                    "type": 5,
-                    "sourceDirectory": "俄罗斯VDV空降军",
-                    "sourceWorkshopId": 0,
-                    "name": "BTR-ZD"
+                    "name": "ZSD-05"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "BMD-1 w"
+                    "name": "ZSL-10"
                 }
             ],
             "turretConfiguration": [
@@ -418,12 +313,18 @@
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "Enclave Missile Target"
+                },
+                {
+                    "type": 2,
+                    "sourceDirectory": "中国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "HQ-9 Navy Emplacement"
                 }
             ],
             "skin": {
-                "sourceDirectory": "俄罗斯VDV空降军",
+                "sourceDirectory": "中国海军陆战队",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD VDV Rifleman"
+                "name": "SQUAD PLANMC Rifleman"
             }
         },
         {
@@ -441,12 +342,12 @@
                 {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "Drone Remote"
+                    "name": "Counter Drone Gun"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "Counter Drone Gun"
+                    "name": "Drone Remote"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
@@ -474,29 +375,9 @@
                     "name": "M32 MGL Slug"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "",
                     "sourceWorkshopId": 0,
-                    "name": "RPG-7"
-                },
-                {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "RPG-7 105mm HEAT Tandem"
-                },
-                {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "RPG-7 105mm Thermobaric"
-                },
-                {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "RPG-7 40mm Fragmentation"
-                },
-                {
-                    "sourceDirectory": "现代战争必装",
-                    "sourceWorkshopId": 0,
-                    "name": "SA-18 Igla AA"
+                    "name": "WRENCH"
                 },
                 {
                     "sourceDirectory": "",
@@ -511,12 +392,12 @@
                 {
                     "sourceDirectory": "",
                     "sourceWorkshopId": 0,
-                    "name": "WRENCH"
+                    "name": "C4"
                 },
                 {
-                    "sourceDirectory": "",
+                    "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "C4"
+                    "name": "FF1"
                 },
                 {
                     "sourceDirectory": "",
@@ -529,363 +410,308 @@
                     "name": "SPEARHEAD"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "FF1"
+                    "name": "PF-89-1 Incendiary"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Saiga12"
+                    "name": "PF-89B Tandem Charge"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Saiga12-a"
+                    "name": "QBS-09"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Saiga12-b"
+                    "name": "QBS-09 Compact"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Saiga12-c"
+                    "name": "PF-89 HEAT"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Saiga12-d"
+                    "name": "DZJ-08 RDS"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Saiga12-e"
+                    "name": "DZJ-08"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "Saiga12-f"
+                    "name": "CS/LR4[Gear]"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "F1 FRAG"
+                    "name": "CS/LR4 S[Gear]"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "RGD-5 FRAG"
+                    "name": "CS/LR4 S"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "RGN FRAG"
+                    "name": "QSZ-92 9mm"
                 },
                 {
-                    "sourceDirectory": "现代战争必装",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "RGO FRAG"
+                    "name": "QSZ-92G"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "MP-443"
+                    "name": "CS/LR4 RDS"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "MP-443 Flashlight"
+                    "name": "CS/LR4"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PKP Pecheneg"
+                    "name": "QBS-09[Gear]"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PP-19 Bizon"
+                    "name": "QSW-06"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "PP-19-01 Vityaz"
+                    "name": "QSZ-92 5.8mm"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "RPG-26"
+                    "name": "Type 42"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SV-98"
+                    "name": "WPF-89-1 Thermobaric"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SV-98[Gear]"
+                    "name": "QW2 Green"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SVDS"
+                    "name": "QW2 Yellow"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "SVDS [Gear]"
+                    "name": "QBU191"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "T-5000"
+                    "name": "QBU191 S"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "T-5000[Gear]"
+                    "name": "QBZ191"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74"
+                    "name": "QBZ191 H"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74 GP-25"
+                    "name": "QBZ191 H S"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m"
+                    "name": "QBZ191 Q G"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m 1P78"
+                    "name": "QBZ191 T"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m ACOG"
+                    "name": "QBZ192"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m EoTech"
+                    "name": "QBZ192 H"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m GP-25"
+                    "name": "QBZ192 Q"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-74m Kobra"
+                    "name": "QBZ192 Q G"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74"
+                    "name": "QBZ192 T"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74 PSO-1"
+                    "name": "QBZ95-1 YMA600"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74N"
+                    "name": "QBZ95B-1"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u"
+                    "name": "QBZ95B-1 HOLO"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u (Gear)"
+                    "name": "QBZ95-1"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u Extended Mag"
+                    "name": "QJB95-1"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u Suppressed"
+                    "name": "QBZ95-1 HOLO"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AKS-74u UB"
+                    "name": "QJB95-1 YMA600"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12"
+                    "name": "QBZ95-1 QLG10"
                 },
                 {
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12 1P78"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P78 STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87 STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87+1P90"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 1P87+1P90 STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 GRIP"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 GRIP STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 KOBRA"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 KOBRA STEALTH"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 PKAS"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12 PKAS STEALTH"
+                    "name": "QBZ95-1 QLG10 YMA600"
                 }
             ],
             "vehicleConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "KAMAZ-4386"
+                    "name": "CSK-131 .50 WOODLAND"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "BTR-D .50"
+                    "name": "ZBD-05"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "T-80UK"
+                    "name": "PHL-16 MLRS Navy 3 2"
                 },
                 {
                     "type": 3,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "T-80BVM"
+                    "name": "ZTD-05"
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "ka 52 Z"
+                    "name": "lf_Z-8J CAS"
                 },
                 {
                     "type": 5,
-                    "sourceDirectory": "俄罗斯海军",
+                    "sourceDirectory": "中国海军",
                     "sourceWorkshopId": 0,
-                    "name": "SU-75 Checkmate stov"
+                    "name": "lf_FC31"
                 },
                 {
                     "type": 6,
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
-                    "name": "RHIB RU"
+                    "name": "RHIB CN"
                 },
                 {
                     "type": 7,
-                    "sourceDirectory": "俄罗斯海军",
+                    "sourceDirectory": "中国海军",
                     "sourceWorkshopId": 0,
-                    "name": "22800"
+                    "name": "Type052D Destroyer(driver use missle)"
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "俄罗斯海军",
+                    "sourceDirectory": "中国海军",
                     "sourceWorkshopId": 0,
-                    "name": "Su-33"
+                    "name": "J-15"
                 },
                 {
                     "type": 9,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "lf_Mi-8 VDV"
+                    "name": "lf_Z-8J"
                 },
                 {
                     "type": 10,
-                    "sourceDirectory": "俄罗斯VDV空降军",
+                    "sourceDirectory": "中国海军陆战队",
                     "sourceWorkshopId": 0,
-                    "name": "BMD-4M"
+                    "name": "ZBL-08"
                 }
             ],
             "turretConfiguration": [
                 {
                     "type": 0,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "kord"
+                    "name": "QZJ-89"
                 },
                 {
                     "type": 1,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "kornet"
+                    "name": "hj-8"
                 },
                 {
                     "type": 2,
-                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "2B14"
+                    "name": "PP87"
                 }
             ],
             "skin": {
-                "sourceDirectory": "俄罗斯VDV空降军",
+                "sourceDirectory": "中国海军陆战队",
                 "sourceWorkshopId": 0,
-                "name": "SQUAD VDV Rifleman"
+                "name": "SQUAD PLANMC Rifleman"
             }
         }
     ],
@@ -910,93 +736,6 @@
                 {
                     "id": "alpha",
                     "serializedValue": "100"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
-            "name": "RE: Squad Flags",
-            "fields": [
-                {
-                    "id": "EagleFlag",
-                    "serializedValue": "8"
-                },
-                {
-                    "id": "RavenFlag",
-                    "serializedValue": "7"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
-            "name": "LETMS Framework",
-            "fields": [
-                {
-                    "id": "bShowHud",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bRicochet",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bTracker",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "bMuteRepair",
-                    "serializedValue": "False"
-                },
-                {
-                    "id": "bEnableDebug",
-                    "serializedValue": "False"
-                },
-                {
-                    "id": "iEagleCamoIndex",
-                    "serializedValue": "3"
-                },
-                {
-                    "id": "iRavenCamoIndex",
-                    "serializedValue": "3"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "俄罗斯陆军",
-            "sourceWorkshopId": 0,
-            "name": "SQUAD VDV Voicelines",
-            "fields": [
-                {
-                    "id": "assignedTeam",
-                    "serializedValue": "2"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "俄罗斯VDV空降军",
-            "sourceWorkshopId": 0,
-            "name": "Squad VDV Multiskin",
-            "fields": [
-                {
-                    "id": "playerBool",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "team",
-                    "serializedValue": "2"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "现代战争必装",
-            "sourceWorkshopId": 0,
-            "name": "Vehicle Spawner V2",
-            "fields": [
-                {
-                    "id": "ctmKey",
-                    "serializedValue": "K"
                 }
             ]
         },
@@ -1067,6 +806,78 @@
                 {
                     "id": "doAnnouncerVoices",
                     "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Vehicle Spawner V2",
+            "fields": [
+                {
+                    "id": "ctmKey",
+                    "serializedValue": "K"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "LETMS Framework",
+            "fields": [
+                {
+                    "id": "bShowHud",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bRicochet",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bTracker",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "bMuteRepair",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "bEnableDebug",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "iEagleCamoIndex",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "iRavenCamoIndex",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "SQUAD PLANMC Voicelines",
+            "fields": [
+                {
+                    "id": "assignedTeam",
+                    "serializedValue": "2"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "中国海军陆战队",
+            "sourceWorkshopId": 0,
+            "name": "Squad PLANMC Multiskin",
+            "fields": [
+                {
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "2"
                 }
             ]
         },
@@ -1211,6 +1022,36 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
+            "name": "RE: Squad Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "6"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "-1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Project Tropical Flags",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "-1"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "2"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
             "name": "Simple Weather",
             "fields": [
                 {
@@ -1219,7 +1060,7 @@
                 },
                 {
                     "id": "WeatherDropdown",
-                    "serializedValue": "5"
+                    "serializedValue": "3"
                 }
             ]
         }

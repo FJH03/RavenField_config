@@ -128,16 +128,6 @@
                     "name": "RPG-7 105mm Thermobaric"
                 },
                 {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "Makarov"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "Makarov Suppressed"
-                },
-                {
                     "sourceDirectory": "伊朗",
                     "sourceWorkshopId": 0,
                     "name": "G3A3"
@@ -196,6 +186,21 @@
                     "sourceDirectory": "伊朗",
                     "sourceWorkshopId": 0,
                     "name": "HK51"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "mg3-acog"
+                },
+                {
+                    "sourceDirectory": "伊朗",
+                    "sourceWorkshopId": 0,
+                    "name": "mg3"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "Makarov PM"
                 }
             ],
             "vehicleConfiguration": [

@@ -128,16 +128,6 @@
                     "name": "FF1"
                 },
                 {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "Makarov Suppressed"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "Makarov"
-                },
-                {
                     "sourceDirectory": "瓦格纳雇佣兵",
                     "sourceWorkshopId": 0,
                     "name": "AK101-A"
@@ -286,6 +276,11 @@
                     "sourceDirectory": "瓦格纳雇佣兵",
                     "sourceWorkshopId": 0,
                     "name": "VSSK-A"
+                },
+                {
+                    "sourceDirectory": "苏俄装备",
+                    "sourceWorkshopId": 0,
+                    "name": "Makarov PM"
                 }
             ],
             "vehicleConfiguration": [
@@ -407,11 +402,6 @@
                     "sourceDirectory": "",
                     "sourceWorkshopId": 0,
                     "name": "SPEARHEAD"
-                },
-                {
-                    "sourceDirectory": "乌克兰",
-                    "sourceWorkshopId": 0,
-                    "name": "Fort 12"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
@@ -641,12 +631,7 @@
                 {
                     "sourceDirectory": "苏俄装备",
                     "sourceWorkshopId": 0,
-                    "name": "Makarov Suppressed"
-                },
-                {
-                    "sourceDirectory": "苏俄装备",
-                    "sourceWorkshopId": 0,
-                    "name": "Makarov"
+                    "name": "Makarov PM"
                 }
             ],
             "vehicleConfiguration": [
@@ -1347,24 +1332,9 @@
             "fields": []
         },
         {
-            "sourceDirectory": "乌克兰",
+            "sourceDirectory": "北约对乌军援",
             "sourceWorkshopId": 0,
-            "name": "Taped UKR",
-            "fields": [
-                {
-                    "id": "playerBool",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "team",
-                    "serializedValue": "1"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "乌克兰",
-            "sourceWorkshopId": 0,
-            "name": "Ukrainian Voices Pack",
+            "name": "Voice Pack: BF1942 [UK]",
             "fields": [
                 {
                     "id": "assignedTeam",
@@ -1390,6 +1360,21 @@
                 {
                     "id": "team",
                     "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Simple Weather",
+            "fields": [
+                {
+                    "id": "LocalSimBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "WeatherDropdown",
+                    "serializedValue": "0"
                 }
             ]
         }
