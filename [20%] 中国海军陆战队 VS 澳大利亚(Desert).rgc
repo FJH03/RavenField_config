@@ -558,6 +558,16 @@
                     "sourceDirectory": "澳大利亚",
                     "sourceWorkshopId": 0,
                     "name": "EF88C Specter"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "P320s"
+                },
+                {
+                    "sourceDirectory": "澳大利亚",
+                    "sourceWorkshopId": 0,
+                    "name": "P320"
                 }
             ],
             "vehicleConfiguration": [

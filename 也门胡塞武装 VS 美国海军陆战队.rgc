@@ -557,16 +557,6 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "P320s"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "P320"
-                },
-                {
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
                     "name": "M4A1 CCO GL"
                 },
                 {
@@ -638,6 +628,16 @@
                     "sourceDirectory": "",
                     "sourceWorkshopId": 0,
                     "name": "SMOKE GRENADE"
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P320 Suppressed"
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "P320 "
                 }
             ],
             "vehicleConfiguration": [
