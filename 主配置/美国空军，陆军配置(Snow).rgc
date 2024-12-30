@@ -360,12 +360,12 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "P320 "
+                    "name": "M18"
                 },
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "P320 Suppressed"
+                    "name": "M18 S"
                 }
             ],
             "vehicleConfiguration": [
@@ -810,12 +810,12 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "P320 "
+                    "name": "M18"
                 },
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "P320 Suppressed"
+                    "name": "M18 S"
                 }
             ],
             "vehicleConfiguration": [
