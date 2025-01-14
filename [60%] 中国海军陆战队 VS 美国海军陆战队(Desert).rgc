@@ -747,12 +747,12 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M18"
+                    "name": "Sig M18"
                 },
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M18 S"
+                    "name": "Sig M18S"
                 }
             ],
             "vehicleConfiguration": [
@@ -1519,6 +1519,12 @@
                     "serializedValue": "2"
                 }
             ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Better Bot Targeting",
+            "fields": []
         }
     ],
     "playerHasAllWeapons": false

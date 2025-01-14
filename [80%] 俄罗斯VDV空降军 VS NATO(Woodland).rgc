@@ -1630,6 +1630,12 @@
                     "serializedValue": "0"
                 }
             ]
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Better Bot Targeting",
+            "fields": []
         }
     ],
     "playerHasAllWeapons": false
