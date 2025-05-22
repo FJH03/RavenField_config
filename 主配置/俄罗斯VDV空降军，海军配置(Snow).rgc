@@ -165,22 +165,12 @@
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12[prototype]"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
                     "name": "AK74M \"Obves\" SP"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
                     "name": "AK74M GP25"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12[prototype] PK-AS"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
@@ -195,22 +185,12 @@
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12[prototype] PK-AS S"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
                     "name": "AK74M 1P63"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
                     "name": "RPK74M 1P63"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12[prototype] S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
@@ -301,6 +281,66 @@
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
                     "name": "PKM"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87 S"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87+1P90 S"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P78"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 G"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 GP25"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P78 G"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P78 S"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 GP25 1P78"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 GP25 1P87"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87 G"
                 }
             ],
             "vehicleConfiguration": [
@@ -526,22 +566,12 @@
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12[prototype]"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
                     "name": "AK74M \"Obves\" SP"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
                     "name": "AK74M GP25"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12[prototype] PK-AS"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
@@ -556,22 +586,12 @@
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
-                    "name": "AK-12[prototype] PK-AS S"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
                     "name": "AK74M 1P63"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
                     "name": "RPK74M 1P63"
-                },
-                {
-                    "sourceDirectory": "俄罗斯陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "AK-12[prototype] S"
                 },
                 {
                     "sourceDirectory": "俄罗斯陆军",
@@ -662,6 +682,66 @@
                     "sourceDirectory": "俄罗斯陆军",
                     "sourceWorkshopId": 0,
                     "name": "PKM"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87 S"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87+1P90 S"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P78"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 G"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P78 G"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 GP25"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 GP25 1P78"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P78 S"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 GP25 1P87"
+                },
+                {
+                    "sourceDirectory": "俄罗斯陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "AK-12 1P87 G"
                 }
             ],
             "vehicleConfiguration": [

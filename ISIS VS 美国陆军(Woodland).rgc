@@ -561,12 +561,12 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M250 LMG w/Eotech"
+                    "name": "M250 LMG w/LPVO (Gear)"
                 },
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M250 LMG w/Scope"
+                    "name": "M250 LMG w/Eotech (Gear)"
                 },
                 {
                     "sourceDirectory": "现代战争必装",
@@ -606,12 +606,12 @@
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M250 LMG w/Scope & Iron sights "
+                    "name": "M250 LMG w/Eotech"
                 },
                 {
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "M250 LMG w/Smart Scope"
+                    "name": "M250 Light Machine Gun"
                 },
                 {
                     "sourceDirectory": "美国陆军",
@@ -687,6 +687,36 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "Sig M18S"
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "M250 LMG w/Scope"
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "M250 LMG w/Scope & Iron sights "
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "M250 LMG w/Scope & Iron sights  (Gear)"
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "M250 LMG w/Scope (Gear)"
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "M250 LMG w/Smart Scope"
+                },
+                {
+                    "sourceDirectory": "美国陆军",
+                    "sourceWorkshopId": 0,
+                    "name": "M250 LMG w/Smart Scope (Gear)"
                 }
             ],
             "vehicleConfiguration": [
@@ -737,12 +767,6 @@
                     "sourceDirectory": "美国陆军",
                     "sourceWorkshopId": 0,
                     "name": "UH-60"
-                },
-                {
-                    "type": 10,
-                    "sourceDirectory": "美国陆军",
-                    "sourceWorkshopId": 0,
-                    "name": "XM1304 Stryker"
                 }
             ],
             "turretConfiguration": [
