@@ -303,7 +303,7 @@
                     "type": 0,
                     "sourceDirectory": "中国陆军",
                     "sourceWorkshopId": 0,
-                    "name": "CSK-131 .50 WOODLAND"
+                    "name": "CSK-131 .50 SEA"
                 },
                 {
                     "type": 1,
@@ -586,13 +586,13 @@
                     "type": 1,
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M113A1 TOW Woodland"
+                    "name": "M113A1 M2 UN"
                 },
                 {
                     "type": 2,
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "M142 HIMARS Woodland 1"
+                    "name": "M142 HIMARS Gray 11"
                 },
                 {
                     "type": 3,
@@ -640,7 +640,7 @@
                     "type": 10,
                     "sourceDirectory": "澳大利亚",
                     "sourceWorkshopId": 0,
-                    "name": "ASLAV-25"
+                    "name": "ASLAV-25 Snow"
                 }
             ],
             "turretConfiguration": [
@@ -870,11 +870,11 @@
                 },
                 {
                     "id": "iEagleCamoIndex",
-                    "serializedValue": "0"
+                    "serializedValue": "3"
                 },
                 {
                     "id": "iRavenCamoIndex",
-                    "serializedValue": "0"
+                    "serializedValue": "3"
                 }
             ]
         },
@@ -1336,7 +1336,7 @@
                 },
                 {
                     "id": "WeatherDropdown",
-                    "serializedValue": "0"
+                    "serializedValue": "1"
                 }
             ]
         },
