@@ -335,11 +335,6 @@
                     "name": "SMOKE GRENADE"
                 },
                 {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M24 Suppressor"
-                },
-                {
                     "sourceDirectory": "",
                     "sourceWorkshopId": 0,
                     "name": "SPEARHEAD"
@@ -358,16 +353,6 @@
                     "sourceDirectory": "现代战争必装",
                     "sourceWorkshopId": 0,
                     "name": "Drone Remote"
-                },
-                {
-                    "sourceDirectory": "以色列",
-                    "sourceWorkshopId": 0,
-                    "name": "Galil"
-                },
-                {
-                    "sourceDirectory": "以色列",
-                    "sourceWorkshopId": 0,
-                    "name": "Galil-S"
                 },
                 {
                     "sourceDirectory": "以色列",
@@ -423,16 +408,6 @@
                     "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
                     "name": "M16A2"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M24 camo"
-                },
-                {
-                    "sourceDirectory": "美国军援",
-                    "sourceWorkshopId": 0,
-                    "name": "M24"
                 },
                 {
                     "sourceDirectory": "以色列",
@@ -512,7 +487,27 @@
                 {
                     "sourceDirectory": "以色列",
                     "sourceWorkshopId": 0,
-                    "name": "IMIGalatz"
+                    "name": "Galil ARM"
+                },
+                {
+                    "sourceDirectory": "以色列",
+                    "sourceWorkshopId": 0,
+                    "name": "Galil ARM Bayonet"
+                },
+                {
+                    "sourceDirectory": "以色列",
+                    "sourceWorkshopId": 0,
+                    "name": "Galil Galantz"
+                },
+                {
+                    "sourceDirectory": "以色列",
+                    "sourceWorkshopId": 0,
+                    "name": "Galil SAR"
+                },
+                {
+                    "sourceDirectory": "以色列",
+                    "sourceWorkshopId": 0,
+                    "name": "Galil SAR Bayonet"
                 }
             ],
             "vehicleConfiguration": [
@@ -542,9 +537,9 @@
                 },
                 {
                     "type": 4,
-                    "sourceDirectory": "以色列",
+                    "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "Attack Helicopter 1"
+                    "name": "AH-6"
                 },
                 {
                     "type": 5,
@@ -566,9 +561,9 @@
                 },
                 {
                     "type": 8,
-                    "sourceDirectory": "以色列",
+                    "sourceDirectory": "美国军援",
                     "sourceWorkshopId": 0,
-                    "name": "F-15SG Strike Eagle [Pirates]"
+                    "name": "F-16 Falcon  6"
                 },
                 {
                     "type": 9,
