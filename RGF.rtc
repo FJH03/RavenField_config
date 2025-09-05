@@ -1,0 +1,640 @@
+﻿{
+    "isConnectedToGameConfig": false,
+    "teamName": "RGF",
+    "teamColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "skin": {
+        "sourceDirectory": "俄罗斯陆军",
+        "sourceWorkshopId": 0,
+        "name": "SQUAD RGF Rifleman"
+    },
+    "availableWeapons": [
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "F1 FRAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RGD-5 FRAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RGN FRAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RGO FRAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RPG-7 40mm Fragmentation",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RPG-7",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RPG-7 105mm HEAT Tandem",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RPG-7 105mm Thermobaric",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "SA-18 Igla AA",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL Flechette",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL High Explosive",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL LVG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL Slug",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Attack Drone",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Bomb Drone",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Counter Drone Gun",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Drone Remote",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Fighter Drone",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "AMMO BAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "MEDIC BAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "WRENCH",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SMOKE GRENADE",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SPEARHEAD",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "MP443 S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "MP443 F",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "MP443",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "T5000M S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "SV98M S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M \"Obves\" SP S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M \"Obves\" 1P87 S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 1P78 S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 1P87 S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 1P87+1P90 S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "PKM",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "RPK74M 1P63",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "RPK74M",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "RPK74M 1P78",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Saiga12-f",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Saiga12-e",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Saiga12-d",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Saiga12-c",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Saiga12",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Saiga12-a",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Saiga12-b",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "T5000M",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "svdms",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "svdm",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "SV98M",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M GP25",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M 1P87 GP25",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M 1P87",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M 1P78 GP25",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M 1P78",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M 1P63",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 GP25 1P87",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M \"Obves\" 1P87",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK74M \"Obves\" SP",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 GP25 1P78",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 GP25",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 G",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 1P87 G",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 1P78",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 1P78 G",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "AK-12 1P87",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "C4",
+            "rarityTier": 0
+        }
+    ],
+    "vehicleConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "lf_TOR",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Tiger-M 5seat CROWS",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "BMPT Relikt",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "BMPT",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "俄罗斯VDV空降军",
+            "sourceWorkshopId": 0,
+            "name": "T-80BVM(2017)",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "BM-30 Smerch Green 3",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "T-90M APS 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "俄罗斯VDV空降军",
+            "sourceWorkshopId": 0,
+            "name": "T-80BVM(2017) Relikt",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "mi-28 commission",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "mi-28",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "lf_Mi-8 CAS",
+            "rarityTier": 0
+        },
+        {
+            "type": 5,
+            "sourceDirectory": "俄罗斯空天军",
+            "sourceWorkshopId": 0,
+            "name": "SU-75 Checkmate",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RHIB RU",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "BMP-2M",
+            "rarityTier": 0
+        },
+        {
+            "type": 7,
+            "sourceDirectory": "俄罗斯海军",
+            "sourceWorkshopId": 0,
+            "name": "22800",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "俄罗斯空天军",
+            "sourceWorkshopId": 0,
+            "name": "Tu-160",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "俄罗斯空天军",
+            "sourceWorkshopId": 0,
+            "name": "lf_SU-25 ROCKET",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "俄罗斯空天军",
+            "sourceWorkshopId": 0,
+            "name": "lf_SU-35",
+            "rarityTier": 0
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "lf_Mi-8",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Tiger-M kord crows",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "BTR-82",
+            "rarityTier": 0
+        }
+    ],
+    "turretConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Enclave Missile Target",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "kord",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "kord 8X",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Enclave Missile Target",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "kornet",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "kord 8X",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "2B14",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Enclave Missile Target",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "kord 8X",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "S-400 Triumf Static Rus GG",
+            "rarityTier": 0
+        }
+    ]
+}

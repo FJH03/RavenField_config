@@ -1,0 +1,544 @@
+﻿{
+    "isConnectedToGameConfig": true,
+    "teamName": "PLAGF",
+    "teamColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "skin": {
+        "sourceDirectory": "中国陆军",
+        "sourceWorkshopId": 0,
+        "name": "SQUAD PLA Rifleman"
+    },
+    "availableWeapons": [
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ95-1",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ95B-1 HOLO",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ95B-1",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ95-1 YMA600",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ95-1 QLG10 YMA600",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ95-1 QLG10",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ95-1 HOLO",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QJB95-1",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QJB95-1 YMA600",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "CS/LR4",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "CS/LR4 RDS",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "CS/LR4 S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBS-09",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QSW-06",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QSZ-92 5.8mm",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QSZ-92 9mm",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QSZ-92G",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBS-09 Compact",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "C4",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SMOKE GRENADE",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SPEARHEAD",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "67",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "82-2",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "DZJ-08",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "DZJ-08 RDS",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "AMMO BAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "MEDIC BAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "WRENCH",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL Flechette",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL High Explosive",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL LVG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL Slug",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Attack Drone",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Bomb Drone",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Drone Remote",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ191",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ191 H",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ191 H S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ191 Q G",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ191 T",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ192",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ192 H",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ192 Q",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ192 Q G",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBZ192 T",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBU191",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBU191 S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "PF-89 HEAT",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "PF-89-1 Incendiary",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "PF-89B Tandem Charge",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "WPF-89-1 Thermobaric",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "CS/LR4 S[Gear]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "CS/LR4[Gear]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QBS-09[Gear]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Counter Drone Gun",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Fighter Drone",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QW2 Green",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QW2 Yellow",
+            "rarityTier": 0
+        }
+    ],
+    "vehicleConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "TYPE 625",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "ZBD-04A",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "CSK-131 CROWS WOODLAND",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "PHL-16 MLRS Woodland 3 2",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "山猫全地形突击车 CROWS WOODLAND",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "ZTZ-99A",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "ZTZ-99A Ubran",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "Z-10",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "lf_Z-8G CAS",
+            "rarityTier": 0
+        },
+        {
+            "type": 5,
+            "sourceDirectory": "中国空军",
+            "sourceWorkshopId": 0,
+            "name": "J20H",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RHIB CN",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "中国海军陆战队",
+            "sourceWorkshopId": 0,
+            "name": "ZBD-05",
+            "rarityTier": 0
+        },
+        {
+            "type": 7,
+            "sourceDirectory": "中国海军",
+            "sourceWorkshopId": 0,
+            "name": "Type052D Destroyer(driver use missle)",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "中国空军",
+            "sourceWorkshopId": 0,
+            "name": "lf_JH-7 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "lf_Z-8G",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "CSK-131 HJ-8 WOODLAND",
+            "rarityTier": 0
+        }
+    ],
+    "turretConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QZJ-89",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QZJ-89 8X",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "hj-8",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QZJ-89 8X",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Enclave Missile Target",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "QZJ-89 8X",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "PP87",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "HQ-9 Woodland Emplacement",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Enclave Missile Target",
+            "rarityTier": 0
+        }
+    ]
+}
