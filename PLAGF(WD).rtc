@@ -1,6 +1,6 @@
 ﻿{
     "isConnectedToGameConfig": true,
-    "teamName": "PLAGF",
+    "teamName": "中国陆军",
     "teamColor": {
         "r": 0.0,
         "g": 0.0,
@@ -13,6 +13,12 @@
         "name": "SQUAD PLA Rifleman"
     },
     "availableWeapons": [
+		{
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "FF1",
+            "rarityTier": 0
+        },
         {
             "sourceDirectory": "中国陆军",
             "sourceWorkshopId": 0,
@@ -396,6 +402,13 @@
             "sourceDirectory": "中国陆军",
             "sourceWorkshopId": 0,
             "name": "山猫全地形突击车 CROWS WOODLAND",
+            "rarityTier": 0
+        },
+		{
+            "type": 2,
+            "sourceDirectory": "中国陆军",
+            "sourceWorkshopId": 0,
+            "name": "ZTZ-99A",
             "rarityTier": 0
         },
         {

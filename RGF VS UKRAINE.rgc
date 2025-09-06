@@ -1,7 +1,7 @@
 ﻿{
     "teamFilePaths": [
-        "PLAGF.rtc",
-        "USAGF.rtc"
+        "RGF(WD).rtc",
+        "Ukraine.rtc"
     ],
     "teamInfo": [],
     "mutatorInfo": [
@@ -31,7 +31,7 @@
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "Team Voices (<color=red>Raven</color>)",
+            "name": "Team Voices (<color=blue>Eagle</color>)",
             "fields": [
                 {
                     "id": "Channels",
@@ -70,11 +70,11 @@
             "fields": [
                 {
                     "id": "EagleFlag",
-                    "serializedValue": "29"
+                    "serializedValue": "27"
                 },
                 {
                     "id": "RavenFlag",
-                    "serializedValue": "4"
+                    "serializedValue": "28"
                 }
             ]
         },
@@ -266,7 +266,7 @@
                 },
                 {
                     "id": "rcntfighter",
-                    "serializedValue": "3"
+                    "serializedValue": "0"
                 },
                 {
                     "id": "rcntstrike",
@@ -274,7 +274,7 @@
                 },
                 {
                     "id": "rcntmissle",
-                    "serializedValue": "2"
+                    "serializedValue": "0"
                 },
                 {
                     "id": "rcntscout",
@@ -282,7 +282,7 @@
                 },
                 {
                     "id": "rcntsuiside",
-                    "serializedValue": "10"
+                    "serializedValue": "3"
                 },
                 {
                     "id": "rcntartillery",
@@ -294,14 +294,14 @@
                 },
                 {
                     "id": "rcntassult",
-                    "serializedValue": "4"
+                    "serializedValue": "2"
                 }
             ]
         },
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
-            "name": "Team Voices (<color=blue>Eagle</color>)",
+            "name": "Team Voices (<color=red>Raven</color>)",
             "fields": [
                 {
                     "id": "Channels",
@@ -334,9 +334,20 @@
             ]
         },
         {
-            "sourceDirectory": "中国陆军",
+            "sourceDirectory": "俄罗斯陆军",
             "sourceWorkshopId": 0,
-            "name": "Squad PLA Multiskin",
+            "name": "SQUAD RGF Voicelines",
+            "fields": [
+                {
+                    "id": "assignedTeam",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "俄罗斯陆军",
+            "sourceWorkshopId": 0,
+            "name": "Squad RGF Multiskin",
             "fields": [
                 {
                     "id": "playerBool",
@@ -349,13 +360,13 @@
             ]
         },
         {
-            "sourceDirectory": "中国陆军",
+            "sourceDirectory": "乌克兰",
             "sourceWorkshopId": 0,
-            "name": "SQUAD PLA Voicelines",
+            "name": "Ukrainian Voices Pack",
             "fields": [
                 {
                     "id": "assignedTeam",
-                    "serializedValue": "0"
+                    "serializedValue": "1"
                 }
             ]
         },
@@ -461,7 +472,7 @@
                 },
                 {
                     "id": "ravenallseeing",
-                    "serializedValue": "True"
+                    "serializedValue": "False"
                 },
                 {
                     "id": "eagleallseeing",
@@ -500,15 +511,15 @@
                 },
                 {
                     "id": "HealthRed",
-                    "serializedValue": "170"
+                    "serializedValue": "120"
                 },
                 {
                     "id": "BalanceRed",
-                    "serializedValue": "170"
+                    "serializedValue": "120"
                 },
                 {
                     "id": "MovementSpeedRed",
-                    "serializedValue": "1.25"
+                    "serializedValue": "1"
                 },
                 {
                     "id": "SizeRed",
@@ -634,6 +645,21 @@
             "fields": []
         },
         {
+            "sourceDirectory": "乌克兰",
+            "sourceWorkshopId": 0,
+            "name": "Taped UKR",
+            "fields": [
+                {
+                    "id": "playerBool",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,
             "name": "Simple Weather",
@@ -653,32 +679,6 @@
             "sourceWorkshopId": 0,
             "name": "Better Bot Targeting",
             "fields": []
-        },
-        {
-            "sourceDirectory": "美国陆军",
-            "sourceWorkshopId": 0,
-            "name": "Squad USA Multiskin",
-            "fields": [
-                {
-                    "id": "playerBool",
-                    "serializedValue": "True"
-                },
-                {
-                    "id": "team",
-                    "serializedValue": "1"
-                }
-            ]
-        },
-        {
-            "sourceDirectory": "美国陆军",
-            "sourceWorkshopId": 0,
-            "name": "SQUAD USA Voicelines",
-            "fields": [
-                {
-                    "id": "assignedTeam",
-                    "serializedValue": "1"
-                }
-            ]
         }
     ]
 }

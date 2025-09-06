@@ -1,6 +1,6 @@
 ﻿{
-    "isConnectedToGameConfig": false,
-    "teamName": "RGF",
+    "isConnectedToGameConfig": true,
+    "teamName": "俄罗斯陆军",
     "teamColor": {
         "r": 0.0,
         "g": 0.0,
@@ -13,6 +13,12 @@
         "name": "SQUAD RGF Rifleman"
     },
     "availableWeapons": [
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "FF1",
+            "rarityTier": 0
+        },
         {
             "sourceDirectory": "现代战争必装",
             "sourceWorkshopId": 0,

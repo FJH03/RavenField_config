@@ -1,6 +1,6 @@
 ﻿{
     "isConnectedToGameConfig": true,
-    "teamName": "USAGF",
+    "teamName": "美国陆军",
     "teamColor": {
         "r": 1.0,
         "g": 0.0,
@@ -13,6 +13,12 @@
         "name": "SQUAD USA Rifleman "
     },
     "availableWeapons": [
+		{
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "FF1",
+            "rarityTier": 0
+        },
         {
             "sourceDirectory": "美军武器",
             "sourceWorkshopId": 0,
@@ -505,6 +511,13 @@
             "sourceDirectory": "美国陆军",
             "sourceWorkshopId": 0,
             "name": "MATV TOW-2 WOODLAND",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "美国陆军",
+            "sourceWorkshopId": 0,
+            "name": "M1A2 SEPV2 (TUSK2)",
             "rarityTier": 0
         },
         {
