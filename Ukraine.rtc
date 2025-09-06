@@ -80,30 +80,6 @@
             "rarityTier": 0
         },
         {
-            "sourceDirectory": "美国军援",
-            "sourceWorkshopId": 0,
-            "name": "M249",
-            "rarityTier": 0
-        },
-        {
-            "sourceDirectory": "美国军援",
-            "sourceWorkshopId": 0,
-            "name": "M249 Assault",
-            "rarityTier": 0
-        },
-        {
-            "sourceDirectory": "美国军援",
-            "sourceWorkshopId": 0,
-            "name": "M249 Recon",
-            "rarityTier": 0
-        },
-        {
-            "sourceDirectory": "美国军援",
-            "sourceWorkshopId": 0,
-            "name": "M249 Stealth",
-            "rarityTier": 0
-        },
-        {
             "sourceDirectory": "乌克兰",
             "sourceWorkshopId": 0,
             "name": "UAR-15 A",
