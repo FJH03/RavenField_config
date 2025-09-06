@@ -1,0 +1,671 @@
+﻿{
+    "isConnectedToGameConfig": true,
+    "teamName": "委内瑞拉",
+    "teamColor": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "skin": {
+        "sourceDirectory": "恐怖分子势力",
+        "sourceWorkshopId": 0,
+        "name": "Caucas Combatant"
+    },
+    "availableWeapons": [
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "F1 FRAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RGD-5 FRAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RGN FRAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RGO FRAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "AVT-40",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Mosin Nagant M38 Carbine",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Mosin Nagant M44 Carbine",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Mosin Nagant M91/30",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Mosin Nagant M91/30 [Dyakonov Launcher]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Mosin Nagant M91/30 [M1930 Bayonet]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Mosin Nagant M91/30 [PU Scope]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Pistolet-Pulemyot Shpagina-41 [Box magazine/Early]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RPG-7 40mm Fragmentation",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "WRENCH",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "MEDIC BAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "AMMO BAG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "C4",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SMOKE GRENADE",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SPEARHEAD",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Mac 10",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "FF1",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL Flechette",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL High Explosive",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL LVG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "M32 MGL Slug",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "M1 GARRET",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "GREASER",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "QUICKSILVER",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RPG-7",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "HMG",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "PA Md 86",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "PM Md 63",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "PM Md 65",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "PM Md 90",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "SA-18 Igla AA",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Pistolet-Pulemyot Shpagina-41 [Box magazine/Late]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Pistolet-Pulemyot Shpagina-41 [Drum magazine/Early]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Pistolet-Pulemyot Shpagina-41 [Drum magazine/Late]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "SVT-40",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "SVT-40 [PU Scope]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Winchester Model 1897",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Winchester Model 1897 [Slam fire]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "TT-33",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Attack Drone",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Bomb Drone",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Counter Drone Gun",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "Drone Remote",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "M16A1",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RPG-7 105mm HEAT Tandem",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "现代战争必装",
+            "sourceWorkshopId": 0,
+            "name": "RPG-7 105mm Thermobaric",
+            "rarityTier": 0
+        }
+    ],
+    "vehicleConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "M1151 .50 light woodland",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Transport Technical",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "BRDM-2",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "BRDM-2 DE",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "M113A1 ACAV (M40)",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "M113A1 ACAV (M60)",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "M113A1 M2 Woodland",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Technical SPG",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "BM-21 MLRS Woodland 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "T-62",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "BRDM-2 ROCKET",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "S8 rocket technical 2",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "T-72A",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "T-62",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "AH-6",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "MI-24A",
+            "rarityTier": 0
+        },
+        {
+            "type": 5,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "Su-27sk",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "rhib",
+            "rarityTier": 0
+        },
+        {
+            "type": 7,
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "Attack Boat",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "F-16 Falcon  6",
+            "rarityTier": 0
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "MI-8 Woodland 3",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "Technical SPG",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "M113A1 TOW Woodland",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "M113A1 M2 Woodland",
+            "rarityTier": 0
+        }
+    ],
+    "turretConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "AT-4 Spigot 7",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "gas mortar",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "M2 universal tripod by Sowen",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "MIM-23 HAWk SUS",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "single 107",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "TOW 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "ZU-23",
+            "rarityTier": 0
+        },
+        {
+            "type": 0,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "DSHK HMG GG",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "AT-4 Spigot 7",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "dual24 bySowen",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "gas mortar",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "M2 universal tripod by Sowen",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "MIM-23 HAWk SUS",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "single 107",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "TOW 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "triple 107",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "ZU-23",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "DSHK HMG GG",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "AT-4 Spigot 7",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "dual24 bySowen",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "gas mortar",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "美国军援",
+            "sourceWorkshopId": 0,
+            "name": "MIM-23 HAWk SUS",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "S-300 Gray Emplacement",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "TOW 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "恐怖分子势力",
+            "sourceWorkshopId": 0,
+            "name": "ZU-23",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "苏俄装备",
+            "sourceWorkshopId": 0,
+            "name": "DSHK HMG GG",
+            "rarityTier": 0
+        }
+    ]
+}
